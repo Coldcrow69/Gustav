@@ -108,6 +108,6 @@ See [`LICENSE.txt`](LICENSE.txt) for the full text.
 
 - **Campaign:** Crypt Keepers
 - **DM:** Raiden
-- **Players:** Molly, Joey (Coldcrow), Chase (Pursuance), Raine, Jenna, Deadlock (Breadlock), Miranda
+- **Players:** Molly, Coldcrow, Pursuance, Raine, Jenna, Breadlock, Miranda
 - **Librarian / vault maintenance:** Coldcrow (channeling Gustav)
 - **The book itself:** [[Items/Gustav]]

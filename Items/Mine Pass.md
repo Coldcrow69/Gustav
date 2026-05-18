@@ -1,6 +1,6 @@
 # Mine Pass
 
-A pass authorizing entry into the **[[Ironheart Mines]]**. Issued by **[[Baldrin Stoneforge]]** as foreman.
+A pass authorizing entry to the **[[Ironheart Mines]]**. Issued by **[[Baldrin Stoneforge]]** in his capacity as foreman.
 
 ## Status (Session 30, 2026-05-18)
 
