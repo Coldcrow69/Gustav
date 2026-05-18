@@ -1,0 +1,30 @@
+# Obsidian per-machine config and workspace state
+# (themes, plugins, hotkeys, open-tab state — should not be shared across users)
+.obsidian/
+
+# Obsidian local trash — deleted notes that haven't been purged yet
+.trash/
+
+# OS-generated cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# Editor / IDE noise
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Common backup-file patterns
+*.bak
+*.tmp
+*.orig
+
+# Optional: archivist-importer scratch / export artifacts
+# (uncomment if these clutter your local checkout)
+# /Crypt Keepers - Archivist/
+# /archivist_*/

@@ -1,0 +1,101 @@
+Aliases: **Lyrion**, "Lirion" (chronicler misspelling).
+
+Player: **Joey** (handle "Coldcrow"). *Self Char.*
+
+## Character Sheet
+
+- Race: **High Elf**
+- Class: Wizard
+- Age: 36
+- Height: **6'3"** *(party height chart; player sheet records 6'2" — chart is authoritative)*
+- Build: Skinny but toned
+- Hair Color: Black
+- Eye Color: Yellow
+- Skin: **Pale blue** *(inherited from his half-drow mother — see Family below)*
+- Background: Cloistered Scholar
+- Alignment: Lawful Neutral
+- Languages: **Common, Elvish, Sylvan, Undercommon**
+
+**Appearance** (party height chart): tall, slim, **pale blue skin**, black hair, gold-yellow eyes, dressed in long flowing blue scholar's robes, typically reading from an open spellbook ([[Gustav]]). Pointed ears.
+
+## Family
+
+- **Father** — **[[Darion Thalor]]**, fair-skinned high elf; **used to beat [[Eldrin Thalor|Eldrin]] in the family cellar** (the "dad's basement" trauma both brothers reference). Following Endra's death at the hands of the Drow, Darion **went down a dark path of vengeance**.
+- **Mother** — **[[Endra Thalor]]**, **half-drow, half-high-elf**; **light blue skinned**. Tortured and murdered by Drow. The Drow heritage on his mother's side gives Lyrion his blue skin (cf. his brother [[Eldrin Thalor|Eldrin]], who took after their fair-skinned father).
+- **Brother** — [[Eldrin Thalor]], same parents.
+
+Brother to [[Eldrin Thalor]]. Carries the named sentient magical codex [[Gustav]]. Author of the [[Lyrion's Research Journal|Research Notes]] — an ongoing study of [[The Weave]], leylines, the [[Glyph Spark]], and other arcane phenomena.
+
+## Notable possessions
+
+- **[[Gustav]]** — sentient magical codex
+- **[[Shiftweave Robe]]** — magical robe with 5 stored configurations; activates on the command word **"curious"** (a normal part of Lyrion's vocabulary, so transitions read as natural)
+- **[[Seren's Cloaks|Lyrion's cloak]]** — dark navy with silver trim and a silver-grey fur-lined mantle; gift from [[Seren Moss|Seren]] prior to Bluefield Burning departure
+
+## Mechanical notes
+
+- During Fort Elm downtime he took **Magic Initiate (Cleric)**; [[Seren Moss|Seren]] taught him a cantrip from the cleric spellbook. (Per 2025-09-17 transcript recap.)
+- Began experiments **imbuing cloth with magical energy** during the same downtime — a research direction toward **literally sewing together** local scars in [[The Weave]] (conceptual prep for the [[Glyph Scar]] phenomena).
+- During the spirit-communion ritual at the [[Refugee Camp]], **a spirit spoke Lyrion's name** — significance unresolved.
+- **Polymorph into a sheep** (Wizard 4th-level): 5/3/26, used to escape the [[Fairy Grove (Anti-Magic Pocket)|fairy-tree]]. This is the literal "wizard battle in the anti-magic zone followed by magical instability" he later laments at [[Good For What Ails Ya|the tavern]] in [[Egg Hunt]] Session 29.
+- **Spell scrolls copied into [[Gustav]]** (post-aboleth, from the [[Spell Scroll Case (Aboleth Pit)|altar-pit scroll case]]): **Protect from Fey** and **Divination** — both now in his prepared-spell repertoire.
+
+**History**: His **mother [[Endra Thalor]] — herself part-drow — was tortured and murdered by Drow** (one of the more violent sects). The double-edged nature of this trauma — kin killing kin — drives Lyrion's complicated relationship with his own blue skin and his reflexive hostility toward all Drow. His **father used to beat [[Eldrin Thalor|Eldrin]] in the family cellar** (the "dad's basement" the brothers reference at the [[Riddle Door]]). During the [[Fish People]] arc he killed a Drow prisoner on sight and later atoned to [[Riknozz]]'s peaceful sect (blood debt paid via slaying the [[The Undead Aboleth|undead aboleth]]). The aboleth conjured an illusion of his dead mother to deceive him; he answered with a fireball.
+
+**Self-description**: signs off his love letter to Seren as **"the prodigal mage Lyrion Thalor"** — suggesting a self-aware sense of having wandered, fallen short, or been away from where he should be.
+
+## "Master" to Mike
+
+[[Mike]] is a **Monk** who — owing to a low INT — sincerely believes his ki abilities are wizardry and calls himself a wizard. **Lyrion knows perfectly well Mike is not a wizard**, but agreed to take him on as his **apprentice** anyway, out of his own **vain aspirations to be a famous wizard** (the kind of wizard who *ought* to have an apprentice). The arrangement satisfies both their vanities at once. Lyrion's "wizard battle" lament at [[Good For What Ails Ya]] in [[Egg Hunt]] Session 29 — *"I lost the best wizard battle… despite Mike not being a wizard"* — plays on this dynamic.
+
+## Relationship — [[Seren Moss|Seren]]
+
+In a romantic relationship with [[Seren Moss|Seren]] by the start of [[Bluefield Burning]]; they share a bed by the morning of the Sail la Vie departure. The night after the dragon attack on [[Bluefield]], while the party camped on the deck of [[Sail la Vie]] at the [[Firbolg Camp]], Lyrion slipped a **handwritten love letter** into Seren's bedroll. Verbatim text recorded in [[Seren Moss#Current relationship — Lyrion|Seren's page]]; the closing line: *"Suffice to say, at the risk of dragging on, I find myself doing things I never would have considered before I met you, because I love you, and favor in your eyes is worth more than all the knowledge of all the arcane texts in the land. Thank you, for making me a better version of myself. Forever yours, the prodigal mage Lyrion Thalor."*
+
+Earlier shared moments: steering the [[Sail la Vie]] together, **first kiss at [[Fort Elm Park]] under the stars**, and a stretch in Fort Elm where Seren **taught Lyrion holy magic** while [[Eldrin Thalor|Eldrin]] was away for weeks — Lyrion was eager and respectful, succeeding at first attempt.
+
+Concern Seren carries privately about him: that he might **prioritize knowledge and arcane power over loved ones**. She heard him bemoan the necessity of killing the [[The Undead Aboleth|aboleth]], citing what they might have learned by talking to the creature.
+
+[[Gustav]] reacts to Lyrion's romantic writing — **"ruffles his pages and makes disapproving noises"** — but Lyrion writes to Seren anyway, finding emotion easier to commit on paper than to speak.
+
+### Illustrations (Raine)
+
+- `![[Moonlight Kiss.png]]` — the first kiss in [[Fort Elm Park]]
+- `![[Forehead Kiss.png]]` — Seren kissing Lyrion's forehead (Lyrion is depicted **wearing glasses** in this piece, a small visual detail not captured elsewhere)
+- `![[Cuddles.png]]` — Seren and Lyrion nuzzling
+- `![[Party Night.png]]` — drunk Lyrion at the tavern with sparklers and Seren on the floor (likely the [[Egg Hunt|Session 29]] tavern scene)
+
+See [[Raine's Crypt Keeper Art]] for the full catalog.
+
+## Fish People arc
+
+In [[Fort Elm]] early in the campaign, [[Victor Barun]] lent Lyrion the book [[A Brief Delve into the History of Plainmore Woods]]. [[Eldrin Thalor|Eldrin]] browsed the city trying to acquire books or magical items for him, and brought him a [[River Water Vial|vial of river water]] from the [[Rollingbrook River]] — the water proved not magical; the anomaly was traced to a change in the river's ecosystem. Lyrion subsequently obtained a [[Slime Sample|sample of the slime]] left behind by the dead fish creatures.
+
+During the cave combat in Session 3, Lyrion and [[Thorn]] heard bells from Toll the Dead and turned back to the cave to assist [[Teron]] and [[Seren Moss|Seren]].
+
+## Egg Hunt — Session 29 (Search for Dragon Eggs, 2026-05-11)
+
+Recently arrived in [[Stonewater]] (recorded as Stoneforge in chronicler notes) traveling alongside [[Mike]]. Contacted via Sending by [[Seren Moss|Seren]] confirming arrival; arranged to meet at the tavern [[Good For What Ails Ya]] in the lower district.
+
+At the tavern, in a somber mood, Lyrion ordered and consumed multiple weak festive drinks adorned with sparklers. He lamented losing a "wizard battle" despite [[Mike]] not being a wizard, recounting the experience of facing an anti-magic zone followed by a zone of magical instability. He reported that Mike had been picked up and thrashed during the earlier incident. [[Eldrin Thalor|Eldrin]] reassured him that his magic remained irreplaceable.
+
+After some time at the bar, Lyrion abruptly left the table and went outside, where he vomited in an alley. [[Thorn]], still disguised as Lyrion, used Mage Hand to hold his hair back. Upon seeing his own face, Lyrion screamed, grabbed [[Gustav]], and frantically flipped through pages until [[Thorn]] revealed their identity. He embraced [[Thorn]] (still in his form), forgave "himself" for not being perfect, and accepted reassurance. He then cleaned himself with Prestidigitation and rejoined the group inside, where they ordered dinner and planned for the next day.
+
+## Egg Hunt — Session 30 (Dragons, Disguises, and Dilemmas, 2026-05-18)
+
+The morning after Session 29. Lyrion came downstairs with a headache, half-heartedly cleaned himself up with **Prestidigitation**, and mistakenly asked a random patron for tea with honey as if they were a server before joining the table.
+
+Over breakfast he **retold the [[Fairy Grove (Anti-Magic Pocket)|fairy-grove encounter]] in full** — the anti-magic-then-overcharged zone, the carnivorous plant projecting a fae-illusion lure, his magic twisting on approach and **turning him into a sheep**, Mike fleeing the fight and carrying him out. Took the brunt of [[Eldrin Thalor|Eldrin]]'s teasing (*"when our father called you sheepish, he didn't mean it literally"*). Lamented that he had nearly gotten Mike killed and learned nothing usable from the encounter; clarified to Mike that the apprentice-dismissal was not anger but the recognition that **Mike's magic is not wizardry** and that he no longer trusted himself as Mike's master.
+
+Realized Mike had gone straight to bed without bathing, searched his clothes for plant residue, and recovered a **small bit of bark** caught in Mike's belt-tuft — held it up as a useful sample. (See [[Carnivorous Plant Bark Sample]].)
+
+### The alley reconciliation with Eldrin
+
+While [[Thorn]] took [[Seren Moss|Seren]] upstairs for a disguise, Lyrion invited [[Eldrin Thalor|Eldrin]] for a walk and led him to the alley where he had been sick the night before. The conversation became one of the most consequential character moments of the campaign so far:
+
+- **The childhood hunting trip.** Lyrion recounted the day their father [[Darion Thalor]] ordered him to shoot a doe, took the bow back when Lyrion could not do it, handed it to Eldrin instead, and from that day forward treated Eldrin as the capable son — leaving Lyrion out of hunting, sparring, and militia training. He told Eldrin that he had grown up feeling weak in their father's eyes, and that after [[Endra Thalor|their mother]]'s death he had long carried the thought *"if I had been more like you, things might have been different."*
+- **The pull toward something larger.** With tears building, Lyrion told Eldrin he now felt a pull toward **something larger happening in the world** — not just in [[Fort Elm]] or [[Stonewater]] — and believed he was meant to be part of it, even if he was clumsy and foolhardy in trying. He apologized for nearly getting Mike killed, for frightening Seren, and for frightening Eldrin, and asked Eldrin to give him a chance to become whatever he was meant to be.
+- **Eldrin's answer.** Eldrin told him that he had worked so hard to become a great hunter **precisely because Lyrion was meant for greater things**, and that his bravery was not confidence — it was the need to protect his little brother. He was not upset that Lyrion wanted to solve what was happening; he was upset that Lyrion had tried to do it **alone**, when he had family and friends who would stand beside him.
+- **Reconciliation.** Lyrion broke down crying, admitted Eldrin was right, called him *"my greatest research assistant and the greatest brother I have ever had,"* and apologized for being stupid and self-absorbed. Eldrin replied that geniuses were said to be that way, and added that Seren had been frightened for him even if she would not say so. Lyrion said he had been able to tell, stood, and the brothers embraced in a long hug.
+
+As they started to leave the alley Lyrion remarked that **even he could tell [[Rhaenyra]] was interested in Eldrin as more than a friend**. A frightened human voice nearby then drew both brothers toward **a [[Dwarven Woman (Stonewater Pickaxe Body)|dwarven woman]] crouched over a pickaxe-killed corpse** — cliffhanger.
