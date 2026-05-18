@@ -48,4 +48,4 @@ The **tree motif** on variants 2 and 3 (single trunk, branches above only) is vi
 
 ## Image attachment note
 
-The variant image files were delivered in `Raine's Crypt Keeper Drip.zip`. To make the embeds above render in Obsidian, place the PNGs in the vault's `Attachments/` folder (locally: `Z:\User\Documents\Obsidian\Gustav\Attachments\`) keeping the exact filenames (`Shiftweave1.png` through `Shiftweave5.png`).
+The variant image files were delivered in `Raine's Crypt Keeper Drip.zip`. To make the embeds above render in Obsidian, place the PNGs in the vault's `Attachments/` folder keeping the exact filenames (`Shiftweave1.png` through `Shiftweave5.png`).

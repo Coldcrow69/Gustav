@@ -25,4 +25,4 @@ The overall aesthetic is **dark, ritualistic, and feral** — not a tame patron.
 
 ## Image attachment note
 
-The Zehal reference image was provided inline. To make the embed above render in Obsidian, place the PNG in the vault's `Attachments/` folder (locally: `Z:\User\Documents\Obsidian\Gustav\Attachments\Zehal.png`).
+The Zehal reference image was provided inline. To make the embed above render in Obsidian, place the PNG in the vault's `Attachments/` folder as `Zehal.png`.
