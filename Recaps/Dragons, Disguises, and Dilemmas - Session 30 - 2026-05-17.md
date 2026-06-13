@@ -1,6 +1,6 @@
-# Dragons, Disguises, and Dilemmas - Session 30 - 2026-05-18
+# Dragons, Disguises, and Dilemmas - Session 30 - 2026-05-17
 
-> **Campaign Session 30.** Second session of the [[Egg Hunt]] arc. (Archivist AI labels this "Session 2" — its own arc-local count. Campaign-wide numbering is Session 30, one week after [[The Search for Dragon Eggs - Session 29 - 2026-05-11|Session 29]].)
+> **Campaign Session 30.** Second session of the [[Egg Hunt]] arc. (Archivist AI labels this "Session 2" — its own arc-local count. Campaign-wide numbering is Session 30, one week after [[The Search for Dragon Eggs - Session 29 - 2026-05-10|Session 29]].)
 >
 > **Scrub note.** The archivist export referenced multiple fabricated tavern names (The Rusty Tankard, The Gilded Tankard, The Wandering Bard, The Wandering Oak, The Whispering Grove, The Rusty Lantern, The Rusty Pickaxe, Mines of Mournhold, Mines of Mistral) and chronicler-variant placenames (Stoneforge, Ironforge, Bluefields). All have been collapsed to canon: the single tavern in this session is [[Good For What Ails Ya]] in [[Stonewater]]'s lower district. Name variants normalized: Lirion → [[Lyrion Thalor]]; Baldrun → [[Baldrin Stoneforge]]; Graybreed/Greybeards/Graybreeds → [[Greybraids]]; the stout dwarven barkeep → [[Nastrin]].
 
@@ -42,7 +42,7 @@ A frightened human voice nearby cut both brothers off. Eldrin moved toward the s
 
 ## Cross-references
 
-- Previous session: [[The Search for Dragon Eggs - Session 29 - 2026-05-11]]
+- Previous session: [[The Search for Dragon Eggs - Session 29 - 2026-05-10]]
 - Arc page: [[Egg Hunt]]
 - Location: [[Good For What Ails Ya]], [[Stonewater]]
 - New entities introduced this session: [[Nastrin]], [[Greybraids]], [[Dwarven Woman (Stonewater Pickaxe Body)]], [[Carnivorous Plant Bark Sample]], [[Mine Pass]]

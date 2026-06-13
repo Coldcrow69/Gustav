@@ -44,7 +44,7 @@ The transcript `.txt` files are in the upload zips `transcripts.zip` and `transc
 | 2026-04-05 | Arrival at Iron Peaks foothills | Stow Sail la Vie; encounter anti-magic pocket east of Stonewater; Lyrion + Mike split |
 | 2026-04-12 | Caravan + fairy grove | Stonewater group meets [[Basil]]'s caravan; other group finds the fairy-tree |
 | 2026-05-03 | Final pre-Egg-Hunt session | Stonewater visible; **Lyrion → sheep** to escape fairy-tree; the "wizard battle" |
-| **2026-05-11** | [[The Search for Dragon Eggs - Session 29 - 2026-05-11\|Session 29 — Egg Hunt opener]] | Audience with [[Baldrin Stoneforge]] |
+| **2026-05-10** | [[The Search for Dragon Eggs - Session 29 - 2026-05-10\|Session 29 — Egg Hunt opener]] | Audience with [[Baldrin Stoneforge]] |
 
 ## Color details worth noting (verified against canon)
 

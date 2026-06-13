@@ -1,6 +1,6 @@
 # Dwarven Woman (Stonewater Pickaxe Body)
 
-> **Identification pending.** Encountered as the cliffhanger of Session 30 (2026-05-18); name and relationship to victim not yet established on-page.
+> **Identification pending.** Encountered as the cliffhanger of Session 30 (2026-05-17); name and relationship to victim not yet established on-page.
 
 A **dwarven woman**, screaming and crouched over **a corpse with a pickaxe embedded in its body**, in an alley near [[Good For What Ails Ya]] in [[Stonewater]]'s lower district. [[Lyrion Thalor|Lyrion]] and [[Eldrin Thalor|Eldrin]] heard the frightened voice as they were leaving the alley after their reconciliation conversation and moved toward the sound.
 
@@ -16,6 +16,6 @@ The body matches the pattern of the **[[Ironheart Mines]] cave-in survivor murde
 
 ## Cross-references
 
-- [[Dragons, Disguises, and Dilemmas - Session 30 - 2026-05-18]] — first appearance
+- [[Dragons, Disguises, and Dilemmas - Session 30 - 2026-05-17]] — first appearance
 - [[Ironheart Mines]] — pattern of victims
 - [[Greybraids]] — current chief suspects for the murder chain

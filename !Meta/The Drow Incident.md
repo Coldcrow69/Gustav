@@ -48,7 +48,7 @@ The downstream effects of the incident — *every* one of them serving the broad
 1. **Lyrion's blood debt** to [[Riknozz]]'s peaceful Drow sect is incurred.
 2. The party's introduction to [[Riknozz]] is structured around tension Lyrion has *already* created, eliminating the need for an organic suspicion-arc.
 3. The party gains a guide ([[Riknozz]]) into the deeper caves they would otherwise have lacked map-knowledge to navigate.
-4. The audience with the [[Drow Elder]] is engineered — Lyrion *must* confess to atone; **[[Thorn]]'s [[Shapeshifters|Shapeshifter]] heritage is revealed** in the same audience as a tradecraft bonus.
+4. The audience with the [[Drow Elder]] is engineered — Lyrion *must* confess to atone; **[[Thorn]]'s [[Changelings|Shapeshifter]] heritage is revealed** in the same audience as a tradecraft bonus.
 5. Lyrion's offered **trial by combat** is converted by the elder into a **service contract**: kill the [[The Undead Aboleth|undead aboleth]], and the blood debt is paid.
 6. The party then proceeds — under externally imposed obligation — to slay the arc's central antagonist.
 7. The aboleth's death yields the **mahogany box** ([[Sail la Vie]]), which is the literal vehicle the campaign requires for the [[Bluefield Burning]] arc.

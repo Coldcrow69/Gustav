@@ -46,7 +46,9 @@ The Wilds occupy a roughly **kite-shaped** stretch of land bordered by:
 - A **large tower/lighthouse complex** sits at the southeastern coastal tip — possibly a port or watch-tower city; not yet visited.
 - A **central watchtower / battle-marker** in the mid-forest — unidentified.
 
-> Note on the map asset: the image file should be placed in an attachments folder (e.g. `Attachments/The Wilds.png`) and embedded here with `![[The Wilds.png]]` once added to the vault.
+**Regional map:**
+
+![[The Wilds.png]]
 
 ## Major rivers
 

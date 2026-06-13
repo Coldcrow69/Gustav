@@ -44,7 +44,7 @@ See [[Spark Beasts]] for the full reference.
 
 ## Entry 7: My Research Begins
 
-*In my studies, I have learned that there are ruins found of ancient civilizations that appear to be from different places in the world, as if the ruin was displaced and shouldn't be there. These ruins are remnants of a time when the weave was whole and unbroken, and they hold secrets that are yet to be uncovered.*
+*With the foundations of what I was taught now set down, my own work begins in earnest. I mean to stop merely cataloguing the stories my elders handed me and start testing them — to seek out other magic users and compare our craft, to gather samples from the strange places we pass through, and to put my questions to the [[The Weave|Weave]] directly rather than take old accounts on faith. The polluted river and its slime (Entry 8) will be my first true subject of study. Let what follows be evidence, not hearsay.*
 
 ## Entry 8: Strange River Water & Creatures
 

@@ -50,7 +50,7 @@ Brother to [[Eldrin Thalor]]. Carries the named sentient magical codex [[Gustav]
 
 ## Relationship — [[Seren Moss|Seren]]
 
-In a romantic relationship with [[Seren Moss|Seren]] by the start of [[Bluefield Burning]]; they share a bed by the morning of the Sail la Vie departure. The night after the dragon attack on [[Bluefield]], while the party camped on the deck of [[Sail la Vie]] at the [[Firbolg Camp]], Lyrion slipped a **handwritten love letter** into Seren's bedroll. Verbatim text recorded in [[Seren Moss#Current relationship — Lyrion|Seren's page]]; the closing line: *"Suffice to say, at the risk of dragging on, I find myself doing things I never would have considered before I met you, because I love you, and favor in your eyes is worth more than all the knowledge of all the arcane texts in the land. Thank you, for making me a better version of myself. Forever yours, the prodigal mage Lyrion Thalor."*
+In a romantic relationship with [[Seren Moss|Seren]] by the start of [[Bluefield Burning]]; they share a bed by the morning of the Sail la Vie departure. The night after the dragon attack on [[Bluefield]], while the party camped on the deck of [[Sail la Vie]] at the [[Refugee Camp]], Lyrion slipped a **handwritten love letter** into Seren's bedroll. Verbatim text recorded in [[Seren Moss#Current relationship — Lyrion|Seren's page]]; the closing line: *"Suffice to say, at the risk of dragging on, I find myself doing things I never would have considered before I met you, because I love you, and favor in your eyes is worth more than all the knowledge of all the arcane texts in the land. Thank you, for making me a better version of myself. Forever yours, the prodigal mage Lyrion Thalor."*
 
 Earlier shared moments: steering the [[Sail la Vie]] together, **first kiss at [[Fort Elm Park]] under the stars**, and a stretch in Fort Elm where Seren **taught Lyrion holy magic** while [[Eldrin Thalor|Eldrin]] was away for weeks — Lyrion was eager and respectful, succeeding at first attempt.
 
@@ -73,7 +73,7 @@ In [[Fort Elm]] early in the campaign, [[Victor Barun]] lent Lyrion the book [[A
 
 During the cave combat in Session 3, Lyrion and [[Thorn]] heard bells from Toll the Dead and turned back to the cave to assist [[Teron]] and [[Seren Moss|Seren]].
 
-## Egg Hunt — Session 29 (Search for Dragon Eggs, 2026-05-11)
+## Egg Hunt — Session 29 (Search for Dragon Eggs, 2026-05-10)
 
 Recently arrived in [[Stonewater]] (recorded as Stoneforge in chronicler notes) traveling alongside [[Mike]]. Contacted via Sending by [[Seren Moss|Seren]] confirming arrival; arranged to meet at the tavern [[Good For What Ails Ya]] in the lower district.
 
@@ -81,7 +81,7 @@ At the tavern, in a somber mood, Lyrion ordered and consumed multiple weak festi
 
 After some time at the bar, Lyrion abruptly left the table and went outside, where he vomited in an alley. [[Thorn]], still disguised as Lyrion, used Mage Hand to hold his hair back. Upon seeing his own face, Lyrion screamed, grabbed [[Gustav]], and frantically flipped through pages until [[Thorn]] revealed their identity. He embraced [[Thorn]] (still in his form), forgave "himself" for not being perfect, and accepted reassurance. He then cleaned himself with Prestidigitation and rejoined the group inside, where they ordered dinner and planned for the next day.
 
-## Egg Hunt — Session 30 (Dragons, Disguises, and Dilemmas, 2026-05-18)
+## Egg Hunt — Session 30 (Dragons, Disguises, and Dilemmas, 2026-05-17)
 
 The morning after Session 29. Lyrion came downstairs with a headache, half-heartedly cleaned himself up with **Prestidigitation**, and mistakenly asked a random patron for tea with honey as if they were a server before joining the table.
 

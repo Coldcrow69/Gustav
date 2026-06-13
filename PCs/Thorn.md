@@ -24,7 +24,7 @@ Shapeshifter capable of transforming into other beings. Mischievous demeanor; of
 
 > Revealed in the [[Fish People]] arc, via the [[Drow Elder]].
 
-Thorn's **true form is somewhat Drow-like** — under all the shapeshifting. The [[Drow Elder]] explained: she comes from a group of elves known as **Shapeshifters**, banished from both Drow and elf societies and considered **cursed by the gods**. The trait **can skip generations**; her parents likely abandoned her at birth because she was born a Shapeshifter. The elder had only ever heard stories from her father — Thorn has never knowingly met another of her kind. This heritage explains her "one-woman circus" identity: she has been on the outside of every community.
+Thorn's **true form is somewhat Drow-like** — under all the shapeshifting. The [[Drow Elder]] explained: she comes from a group of elves known as **[[Changelings|Shapeshifters]]**, banished from both Drow and elf societies and considered **cursed by the gods**. The trait **can skip generations**; her parents likely abandoned her at birth because she was born a Shapeshifter. The elder had only ever heard stories from her father — Thorn has never knowingly met another of her kind. This heritage explains her "one-woman circus" identity: she has been on the outside of every community.
 
 She shared her true form with [[Lyrion Thalor|Lyrion]] and [[Eldrin Thalor|Eldrin]] on the walk into the Drow camp. Lyrion, ashamed of his prejudice, quietly apologized; Thorn assured him they were still friends.
 
@@ -45,7 +45,7 @@ She shared her true form with [[Lyrion Thalor|Lyrion]] and [[Eldrin Thalor|Eldri
 - During the aboleth fight, helped revive [[Teron]] after Eldrin's healing — nearly drowning him in tears.
 - **Recognized the mahogany box** as a transforming boat ([[Sail la Vie]]) and took everyone to the docks to see their new vessel.
 
-## Egg Hunt — Session 29 (Search for Dragon Eggs, 2026-05-11)
+## Egg Hunt — Session 29 (Search for Dragon Eggs, 2026-05-10)
 
 Led the party through the streets of [[Stonewater]] (recorded as Ironforge in chronicler notes), suggesting they explore the market further after the meeting with [[Baldrin Stoneforge]]. Mentioned missed opportunities for "their circus" in such a grand place.
 

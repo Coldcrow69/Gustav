@@ -3,7 +3,7 @@
 
 **Tone** Exploration-driven, magical, high fantasy.
 
-**Player Roster** Molly, Joey , Chase, Raine, Jenna, Deadlock, Miranda (7 players)
+**Player Roster** Molly, Joey , Chase, Raine, Jenna, Breadlock, Miranda (7 players)
 
 **Player → PC mapping**
 
@@ -12,7 +12,7 @@
 - Chase *("Pursuance")* → [[Eldrin Thalor]] (High Elf — was pure Ranger through Fish People, now pure Bard after Clown College swap)
 - Raine → [[Seren Moss]] (Half-Elf Cleric of [[Kelemvor]])
 - Jenna → [[Thorn]] (Changeling / Shapeshifter Bard)
-- Deadlock → [[Mike]] (Monk — sincerely believes his ki is wizardry; [[Lyrion Thalor|Lyrion]]'s "apprentice") *(joined 2025-09-17)*
+- Breadlock → [[Mike]] (Monk — sincerely believes his ki is wizardry; [[Lyrion Thalor|Lyrion]]'s "apprentice") *(joined 2025-09-17)*
 - Miranda → [[Rhaenyra]] (Druid — has Druidic language) *(joined 2025-09-17)*
 - *Eve* → [[Teron]] (Emerald Dragonborn Paladin of [[Mystra]]) — **left the campaign** after the [[Fish People]] arc; Teron is **written out**
 
@@ -32,11 +32,11 @@
 
 **Organizational Structure** Vault organized by session.
 
-**Session Numbering** Sessions are numbered by **campaign-wide order**. The campaign has been running since ~June 2024. **Session 29 (2026-05-11)** is the first session captured in this Obsidian vault — the party migrated note-taking platforms at that point. Sessions 1–~28 are summarized in [[Fish People]], [[Bluefield Burning]], and OneNote-era raw notes; only Session 29 onward has a full recap. Within-arc references like "Session 1 of [[Fish People]]" mean the first session of that arc (also campaign session 1 in that case).
+**Session Numbering** Sessions are numbered by **campaign-wide order**. The campaign has been running since ~June 2024. **Counts and some early dates are estimates** — at the start the group wasn't keeping good notes or recordings, so a number of session numbers and dates are assumptions. **Session 29 (2026-05-10)** is the first session captured in this Obsidian vault — the party migrated note-taking platforms at that point. Sessions 1–~28 are summarized in [[Fish People]], [[Bluefield Burning]], and OneNote-era raw notes; only Session 29 onward has a full recap. Within-arc references like "Session 1 of [[Fish People]]" mean the first session of that arc (also campaign session 1 in that case).
 
-> **Archivist AI numbering note.** The Archivist AI tool the party uses to summarize sessions counts within the current arc — so "Session 1" / "Session 2" in archivist filenames are arc-local (Egg Hunt). The canonical vault uses campaign-wide numbering: Egg Hunt arc Session 1 = campaign Session 29 (2026-05-11); arc Session 2 = campaign Session 30 (2026-05-18).
+> **Archivist AI numbering note.** The Archivist AI tool the party uses to summarize sessions counts within the current arc — so "Session 1" / "Session 2" in archivist filenames are arc-local (Egg Hunt). The canonical vault uses campaign-wide numbering: Egg Hunt arc Session 1 = campaign Session 29 (2026-05-10); arc Session 2 = campaign Session 30 (2026-05-17).
 
-**Player joins**: [[Mike]] (Deadlock) and [[Rhaenyra]] (Miranda) joined the party during the Fort Elm **downtime after [[Fish People]]** — they were introduced as "two new players" at the 2025-09-17 session, with [[Rhaenyra]]'s in-fiction introduction following on 2025-09-24 at [[The Apple Thicket]].
+**Player joins**: [[Mike]] (Breadlock) and [[Rhaenyra]] (Miranda) joined the party during the Fort Elm **downtime after [[Fish People]]** — they were introduced as "two new players" at the 2025-09-17 session, with [[Rhaenyra]]'s in-fiction introduction following on 2025-09-24 at [[The Apple Thicket]].
 
 **Player exits**: **Eve** played [[Teron]] through the [[Fish People]] arc, then quit the campaign. [[Teron]] has been **written out and swept under the rug** — the party does not invoke or reference him in [[Bluefield Burning]] or [[Egg Hunt]].
 

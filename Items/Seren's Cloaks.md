@@ -36,7 +36,3 @@ A set of **five hooded cloaks**, hand-prepared by **[[Seren Moss]]** as **partin
 **Dusty rose / pink** wool, hooded, with **gold-cream tapestry lace trim** along the front opening. Elegant and garden-toned — fitting her druid-style robes.
 
 `![[Cloak - Rhaenyra.png]]`
-
-## Image attachment note
-
-The cloak image files were delivered in `Raine's Crypt Keeper Drip.zip`. To make the embeds above render in Obsidian, place the PNGs in the vault's `Attachments/` folder keeping the exact filenames shown above (`Cloak - Bell.png`, `Cloak - Eldrin.png`, `Cloak - Lyrion.png`, `Cloak - Michael.png`, `Cloak - Rhaenyra.png`).

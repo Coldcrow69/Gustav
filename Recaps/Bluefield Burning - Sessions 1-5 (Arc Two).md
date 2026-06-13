@@ -10,8 +10,8 @@
 - The party meets Victor at a diner — **[[The Apple Thicket]]** — in [[Fort Elm]].
 - **[[Rhaenyra]] is introduced** here.
 - Rhaenyra's **fishing village** has been plagued by a **multi-headed beast with a large scar over its chest** (later revealed to be a five-headed hydra). Victor asks the party to **help her village before continuing their travels to [[Stonewater]]**.
-- [[Victor Barun|Victor]] and [[Seren Moss|Seren]] have prepared **gifts**:
-  - **Thick winter cloaks** for everyone (from Seren).
+- **Gifts** (Victor's handed out at this meeting; Seren's cloaks given separately at the docks on the **next-morning departure, 9/25/25** — see [[Seren's Cloaks]]):
+  - **Thick winter cloaks** for everyone (from [[Seren Moss|Seren]]).
   - **[[Black Thermal Cube]]** — burnt around the edges, smelling of brimstone. **Elven command word "Ember"**; glows with warmth without burning the hands; portable campfire. [[Lyrion Thalor|Lyrion]] tosses it over to **[[Bell]]**.
   - **[[Rope of Mending]]** — a spool of rope with an arcane sheen — handed to **[[Eldrin Thalor|Eldrin]]**.
   - **[[Everbright Lantern]]** — shuttered lantern, flame will never go out — handed to **[[Rhaenyra]]**.

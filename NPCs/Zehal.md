@@ -15,7 +15,7 @@ A **wolf-or-hound spirit** of unmistakably supernatural make. Distinctive featur
 
 The overall aesthetic is **dark, ritualistic, and feral** — not a tame patron. Zehal reads as a spirit that grants power on its own terms.
 
-`![[Zehal.png]]`
+> **Missing media** — no reference image for Zehal is in the vault yet; `Attachments/Zehal.png` does not exist.
 
 ## What's known
 
@@ -25,4 +25,4 @@ The overall aesthetic is **dark, ritualistic, and feral** — not a tame patron.
 
 ## Image attachment note
 
-The Zehal reference image was provided inline. To make the embed above render in Obsidian, place the PNG in the vault's `Attachments/` folder as `Zehal.png`.
+**Status: missing.** A Zehal reference image was described during play, but the file was never added to `Attachments/`. Add `Zehal.png` there if it turns up, and it can be embedded then.

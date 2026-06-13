@@ -41,7 +41,7 @@ Brother to [[Lyrion Thalor]]. Member of the **Twilight Masqueraders**, a group o
 
 In [[Fort Elm]] during the early sessions, Eldrin browsed the city and tried to steal some books or magical things for [[Lyrion Thalor|Lyrion]]. He gave Lyrion a vial of strange substance collected from the polluted [[Rollingbrook River]] — its anomaly traced to a change in the river's ecosystem.
 
-## Egg Hunt — Session 29 (Search for Dragon Eggs, 2026-05-11)
+## Egg Hunt — Session 29 (Search for Dragon Eggs, 2026-05-10)
 
 In [[Stonewater]] (recorded as Ironforge/Stoneforge in chronicler notes), Eldrin engaged in discussions about the group's identity, offering a calling card to a local while identifying as a performer. He expressed pride in the group's background and improvisational skills.
 
@@ -49,7 +49,7 @@ In meeting with [[Baldrin Stoneforge]] he participated in conversations about th
 
 At the tavern [[Good For What Ails Ya]], Eldrin reassured [[Lyrion Thalor|Lyrion]] about the value of his magic, emphasizing that each member of the group has different strengths — even after Lyrion lamented losing a "wizard battle" amid an anti-magic zone followed by magical instability. He engaged in light banter with his companions, showcasing camaraderie and support within the group.
 
-## Egg Hunt — Session 30 (Dragons, Disguises, and Dilemmas, 2026-05-18)
+## Egg Hunt — Session 30 (Dragons, Disguises, and Dilemmas, 2026-05-17)
 
 First down to breakfast the next morning. Greeted [[Nastrin]] cheerfully, ordered the meal of the day and a breakfast mead, asked what was worth seeing in [[Stonewater]] (a play, possibly, that day), and settled into a booth. When [[Mike]] descended unexpectedly well-recovered, Eldrin called out **"Wake! You're alive!"** and waved him over. Broke into open laughter at [[Lyrion Thalor|Lyrion]]'s retelling of the sheep transformation in the [[Fairy Grove (Anti-Magic Pocket)|fairy grove]] — *"when our father called you sheepish, he didn't mean it literally."*
 

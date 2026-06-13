@@ -77,7 +77,7 @@ The hand-holding moment after the [[The Undead Aboleth|aboleth]] battle in the [
 - Walked together in the [[Fort Elm Park]] looking at the stars; **first kiss** there
 - Spent down-time in Fort Elm during a stretch when [[Eldrin Thalor|Eldrin]] was away for weeks — Seren **taught Lyrion holy magic**, which he was eager to learn and respectful of, succeeding at his first attempt
 
-The night after the **dragon attack on [[Bluefield]]**, while camped on the deck of the [[Sail la Vie]] at the [[Firbolg Camp]], Seren found a **letter Lyrion had slipped into her bedroll** — a frank love confession that left her flustered, joyful, and afraid. She wrestled all night with her fears: that Lyrion's thirst for knowledge could turn dark (he had bemoaned the necessity of killing the aboleth, citing what they might have learned from talking to it); that their goals are incompatible (his wanderlust vs her plan to take Gwyn's place at the shrine); that being abandoned again the way [[Zia]] had abandoned her would destroy her. She concluded the night with: *"I love him, too."*
+The night after the **dragon attack on [[Bluefield]]**, while camped on the deck of the [[Sail la Vie]] at the [[Refugee Camp]], Seren found a **letter Lyrion had slipped into her bedroll** — a frank love confession that left her flustered, joyful, and afraid. She wrestled all night with her fears: that Lyrion's thirst for knowledge could turn dark (he had bemoaned the necessity of killing the aboleth, citing what they might have learned from talking to it); that their goals are incompatible (his wanderlust vs her plan to take Gwyn's place at the shrine); that being abandoned again the way [[Zia]] had abandoned her would destroy her. She concluded the night with: *"I love him, too."*
 
 ### Illustrations (Raine)
 
@@ -123,7 +123,7 @@ Escorted the rescued townsfolk back to Fort Elm with [[Bell]] and [[Teron]], rep
 
 Walking back to Fort Elm, **she took Lyrion's hand shyly and suggested they give the hug a second try later**.
 
-## Egg Hunt — Session 29 (Search for Dragon Eggs, 2026-05-11)
+## Egg Hunt — Session 29 (Search for Dragon Eggs, 2026-05-10)
 
 Upon arriving in [[Stonewater]] (recorded as Ironforge in chronicler notes), Seren stated she would keep watch for a cart the party had previously seen, in case it crossed their path.
 
@@ -137,7 +137,7 @@ At the tavern after the meeting, she sat beside [[Lyrion Thalor|Lyrion]] and tri
 
 More recently, Seren has taken on a more prominent role in strategizing their next steps. She has been seen coordinating with local leaders and gathering intelligence on the red dragon's movements. She has also developed a rapport with the firbolgs, who have become valuable allies in their efforts to protect the region. She continues to demonstrate commitment to her party and the safety of the people of [[Stonewater]].
 
-## Egg Hunt — Session 30 (Dragons, Disguises, and Dilemmas, 2026-05-18)
+## Egg Hunt — Session 30 (Dragons, Disguises, and Dilemmas, 2026-05-17)
 
 After Lyrion fell asleep the night before, Seren crept into [[Mike]]'s room, found him still unconscious from the road, **healed him quietly**, left a cold compress on his forehead, and slipped out without waking him. Mike was unaware of the visit when he woke the next morning.
 

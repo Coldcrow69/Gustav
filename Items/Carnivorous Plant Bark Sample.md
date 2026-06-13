@@ -14,4 +14,4 @@ Currently in Lyrion's possession; analysis pending.
 - [[Fairy Grove (Anti-Magic Pocket)]] — site of origin
 - [[Lyrion's Research Journal]] — likely destination for any findings
 - [[The Weave]] — broader phenomenon the plant exploits
-- [[Dragons, Disguises, and Dilemmas - Session 30 - 2026-05-18]] — recovery event
+- [[Dragons, Disguises, and Dilemmas - Session 30 - 2026-05-17]] — recovery event

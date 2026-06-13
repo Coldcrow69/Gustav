@@ -83,9 +83,9 @@ While Lyrion and Teron forged ahead to set up ropes and pitons down a treacherou
 
 Beyond the drop, the party entered a long manmade tunnel into the ancient ruined city. The tunnel ended in a circular chamber with a fountain holding a **statue gripping a white gem**. Lyrion magically walked the ceiling to examine a large door on the far side. Seren sensed undead among the skeletons on the ground.
 
-Trying to disarm a skeleton, Bell **triggered the room's defense** — all the undead rose. Seren noticed the statue's eyes flashed each time an undead fell, raising another. Lyrion spotted **five gems arranged in an arch over the door**, one slot empty matching the statue's gem.
+Trying to disarm a skeleton, Bell **triggered the room's defense** — all the undead rose. Seren noticed the statue's eyes flashed each time an undead fell, raising another. Lyrion spotted the door's gem-arch — **six gems in all**: five set in the arch with one slot empty, the sixth (the statue's white Opal) waiting to be placed.
 
-Working together — Lyrion, Thorn, and Teron pried the gem from the statue while Seren held the line with **Spirit Guardians**, with Riknozz and Bell pushing skeletons into her spell range. Lyrion reunited the gem with its socket; all five gems flashed.
+Working together — Lyrion, Thorn, and Teron pried the gem from the statue while Seren held the line with **Spirit Guardians**, with Riknozz and Bell pushing skeletons into her spell range. Lyrion reunited the gem with its socket; all six gems flashed.
 
 Eldrin found a plaque on an alcove statue reading:
 

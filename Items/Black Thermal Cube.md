@@ -12,4 +12,4 @@ A **portable campfire**. Glows with warmth without burning the hands of whoever 
 
 ## Provenance
 
-Gift from [[Victor Barun]] to the party at [[The Apple Thicket]] on 9/24/25, the morning of departure for [[Bluefield Burning]]. [[Lyrion Thalor|Lyrion]] tossed it over to **[[Bell]]**, who carries it.
+Gift from [[Victor Barun]] to the party at [[The Apple Thicket]] on 9/24/25, the day before the [[Bluefield Burning]] departure. [[Lyrion Thalor|Lyrion]] tossed it over to **[[Bell]]**, who carries it.

@@ -28,7 +28,7 @@ During the second cave excursion he and [[Seren Moss|Seren]] entered the cave; c
 - **Telepathy** — reached out to [[Bell]] inside the bioluminescent-algae cavern.
 - **Dragon-fear breath weapon** — DC 13 Wis save, used during the aboleth fight when he was momentarily charmed.
 
-### [[The Drow prisoner incident]]
+### [[The Drow Incident]]
 
 When [[Lyrion Thalor|Lyrion]] killed a Drow prisoner on sight, Teron **shield-bashed Lyrion**, knocking him off his feet; [[Eldrin Thalor|Eldrin]] retaliated by shooting Teron with an arrow. Teron declared his intent to report the murder. Lyrion later offered **trial by combat** to atone. The [[Drow Elder]] ultimately accepted Lyrion's blood debt as paid in exchange for aboleth-slaying.
 

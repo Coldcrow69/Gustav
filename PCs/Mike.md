@@ -1,4 +1,4 @@
-Player: **Deadlock**. Joined the party during the **2025-09-17 downtime** in [[Fort Elm]] (introduced alongside [[Rhaenyra]] as "two new players").
+Player: **Breadlock**. Joined the party during the **2025-09-17 downtime** in [[Fort Elm]] (introduced alongside [[Rhaenyra]] as "two new players").
 
 > Full name: **Michael** (per Raine's `Cloak - Michael.png` file naming). "Mike" is in-table shorthand.
 
@@ -25,13 +25,13 @@ Despite knowing the truth, **[[Lyrion Thalor|Lyrion]] agreed to take Mike on as 
 
 Physically imposing front-line fighter. Described by [[Lyrion Thalor|Lyrion]] as "the most hurtiest wizard" — affectionately wry, given the apprentice setup.
 
-## Session 29 — Egg Hunt opener (2026-05-11)
+## Session 29 — Egg Hunt opener (2026-05-10)
 
 Traveled with [[Lyrion Thalor]] to [[Stonewater]] (recorded as Stoneforge in chronicler notes). During an earlier incident he was picked up and thrashed; he arrived at the tavern [[Good For What Ails Ya]] exhausted and wounded and went straight to bed upstairs to rest.
 
 The party confirmed Mike was sleeping upstairs at the tavern for the remainder of the night. More recently he has been seen engaging in strategic discussions with his companions, reflecting a growing interest in tactical planning alongside his physical prowess.
 
-## Egg Hunt — Session 30 (Dragons, Disguises, and Dilemmas, 2026-05-18)
+## Egg Hunt — Session 30 (Dragons, Disguises, and Dilemmas, 2026-05-17)
 
 Overnight, [[Seren Moss|Seren]] crept into his room and **healed him in his sleep** without telling him, leaving a cold compress on his forehead.
 

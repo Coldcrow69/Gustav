@@ -1,6 +1,6 @@
 # Greybraids
 
-A **dwarf clan** of [[Stonewater]]. Identified in Session 30 (2026-05-18) as the wearers of the **feather-and-dagger emblem** seen on the **suspicious cart** the party tailed into the city on Session 29.
+A **dwarf clan** of [[Stonewater]]. Identified in Session 30 (2026-05-17) as the wearers of the **feather-and-dagger emblem** seen on the **suspicious cart** the party tailed into the city on Session 29.
 
 > Aliases recorded across chronicler / archivist outputs (all refer to this clan): **Graybreed**, **Greybeards**, **Graybreeds**, **Greybraid clan**, **Graybreed clan**. Canonical spelling: **Greybraids**.
 

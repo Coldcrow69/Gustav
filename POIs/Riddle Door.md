@@ -6,10 +6,8 @@ A gem-puzzle door inside [[The Ancient Ruined City]], between the manmade descen
 
 - A **circular chamber** with a **fountain** at the center.
 - A **statue** in the fountain holds a **white gem**.
-- A **large door** sits on the far side with **gems arranged in an arch** above it. One slot is empty — the missing gem matches the **statue's white gem**.
-  - DM summary count: **5 + 1 missing = 6 total**.
-  - Session-12 transcript count: **6 inlaid + 1 missing = 7 total**, with all six pulsing together. Six identified by color: Emerald (green), Opal (white), Nuummite (dark gray), Peridot (lime green), Ruby (red), Amethyst (purple).
-  - The discrepancy is unresolved; either reading lets the OPEN solution work (only four are needed).
+- A **large door** sits on the far side with **gems set in an arch** above it. **Six gems total**: **five are seated in the arch with one slot empty**, and the missing sixth — the **white Opal** — is held by the fountain statue. Placing the statue's Opal into the empty slot arms the door.
+  - The six by color: Opal (white), Peridot (lime green), Emerald (green), Nuummite (dark gray), Ruby (red), Amethyst (purple). The **OPEN** solution touches Opal, Peridot, Emerald, Nuummite; **Ruby and Amethyst are decoys**.
 - Skeletons litter the floor — they animate as **defenders** when disturbed.
 - A **plaque on a statue in an alcove** on the left side of the room bears the riddle.
 - An **eye-flash mechanism**: each time an undead defender falls, the fountain statue's eyes flash, raising another.
@@ -18,14 +16,14 @@ A gem-puzzle door inside [[The Ancient Ruined City]], between the manmade descen
 
 Place the statue's gem in the empty arch slot to "arm" the door. Then **touch the gems in the order whose first letter matches the first letter of each riddle line**.
 
-Gems present:
+Gems used in the solution (first letters spell the answer):
 
 - **O**pal
 - **P**eridot
-- **E**meral**d**
+- **E**merald
 - **N**uummite
 
-(Plus the missing gem now restored.)
+Ruby and Amethyst are also set in the arch but are **decoys** — never touched.
 
 ## Riddle (on the alcove plaque)
 

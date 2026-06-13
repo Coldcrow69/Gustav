@@ -20,12 +20,12 @@ They were lured to the central tree by the **fairy-illusion**. Combat ensued —
 
 ## Connection to broader campaign
 
-This is the literal "**anti-magic zone followed by magical instability**" / "**wizard battle**" Lyrion laments at the tavern [[Good For What Ails Ya]] in [[The Search for Dragon Eggs - Session 29 - 2026-05-11|Session 29]].
+This is the literal "**anti-magic zone followed by magical instability**" / "**wizard battle**" Lyrion laments at the tavern [[Good For What Ails Ya]] in [[The Search for Dragon Eggs - Session 29 - 2026-05-10|Session 29]].
 
 It also potentially links to the broader **[[The Weave|Weave]] scar / siphon phenomenon** Lyrion has been researching — see [[Lyrion's Research Journal]]. The carnivorous plant's ability to siphon weave-magic locally is a worked example of what Lyrion theorized about in the abstract.
 
-## Retelling in Session 30 (2026-05-18)
+## Retelling in Session 30 (2026-05-17)
 
-Over breakfast at [[Good For What Ails Ya]] the morning after [[The Search for Dragon Eggs - Session 29 - 2026-05-11|Session 29]], [[Lyrion Thalor|Lyrion]] retold the encounter in full to the rest of the party. Detail added on the page: the plant projected a **fae-shaped illusion** at the center of a pond, lure-style — Lyrion now classifies it as an **angler-fish-style trap**. His own magic was first suppressed then over-amplified by the zone; when he tried to approach the lure, the magic twisted on him and turned him into a sheep. The plant attacked [[Mike]]; Mike eventually realized he could not win, fled, and carried Lyrion (still a sheep) away.
+Over breakfast at [[Good For What Ails Ya]] the morning after [[The Search for Dragon Eggs - Session 29 - 2026-05-10|Session 29]], [[Lyrion Thalor|Lyrion]] retold the encounter in full to the rest of the party. Detail added on the page: the plant projected a **fae-shaped illusion** at the center of a pond, lure-style — Lyrion now classifies it as an **angler-fish-style trap**. His own magic was first suppressed then over-amplified by the zone; when he tried to approach the lure, the magic twisted on him and turned him into a sheep. The plant attacked [[Mike]]; Mike eventually realized he could not win, fled, and carried Lyrion (still a sheep) away.
 
 [[Lyrion Thalor|Lyrion]] also realized he had failed to search Mike for residue and pulled a **[[Carnivorous Plant Bark Sample|small piece of bark]]** from Mike's belt-tuft — a usable sample for analysis. [[Seren Moss|Seren]] confirmed she had experienced the zone's magical instability too: her Sending into the zone had been scrambled rather than properly delivered.

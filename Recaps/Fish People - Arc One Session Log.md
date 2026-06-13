@@ -144,7 +144,7 @@ Reading order:
 - Down here: **cobblestone, and a wagon**.
 - **Eldrin, Teron, Bell and Seren gain darkvision for an hour** (cast on them by another party member).
 - **Fountain and a statue** emanating spooky light, in a circular room. Seren senses at least one undead; going further she senses **4 more**.
-- **Stone gate embedded with glistening jewels — 6 jewels inlaid, 1 jewel missing.** (See [[Riddle Door]] — this is the entry to the puzzle door; the missing 7th gem corresponds to the white gem in the fountain statue's hand.)
+- **Stone gate embedded with glistening jewels — five seated in the arch, one slot empty.** (See [[Riddle Door]] — the missing sixth gem is the white Opal in the fountain statue's hand; **six gems total**.)
 - **FIGHT.** Skeleton (16 hits); Skeletal Knight (20 hits).
 - **Energy from dead skeletons flows into the statue; 2 more undead created.**
 - All gems pulse together. Identified gems:

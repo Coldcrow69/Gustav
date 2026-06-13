@@ -27,8 +27,6 @@ Recovered from the **altar at the back of the [[Cathedral of the Aboleth]]** aft
 
 ## Image
 
-Concept art of the deployed ship form exists. If saved to the vault as `Attachments/Sail la Vie.png`, embed here with:
+Concept art of the deployed ship form:
 
-```
 ![[Sail la Vie.png]]
-```

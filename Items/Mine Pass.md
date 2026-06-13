@@ -2,9 +2,9 @@
 
 A pass authorizing entry to the **[[Ironheart Mines]]**. Issued by **[[Baldrin Stoneforge]]** in his capacity as foreman.
 
-## Status (Session 30, 2026-05-18)
+## Status (Session 30, 2026-05-17)
 
-[[Baldrin Stoneforge|Baldrin]] told the party at the close of [[The Search for Dragon Eggs - Session 29 - 2026-05-11|Session 29]] that he would be at his house **the next morning** to provide a mine pass. As of Session 30 the pass has not yet been collected — the party intends to **go to Baldrin first** that morning to retrieve it, before splitting up to investigate the mines and the [[Greybraids]] in parallel.
+[[Baldrin Stoneforge|Baldrin]] told the party at the close of [[The Search for Dragon Eggs - Session 29 - 2026-05-10|Session 29]] that he would be at his house **the next morning** to provide a mine pass. As of Session 30 the pass has not yet been collected — the party intends to **go to Baldrin first** that morning to retrieve it, before splitting up to investigate the mines and the [[Greybraids]] in parallel.
 
 ## Caution
 
@@ -14,4 +14,4 @@ A pass authorizing entry to the **[[Ironheart Mines]]**. Issued by **[[Baldrin S
 
 - [[Baldrin Stoneforge]] — issuer
 - [[Ironheart Mines]] — access controlled
-- [[Dragons, Disguises, and Dilemmas - Session 30 - 2026-05-18]] — planned pickup
+- [[Dragons, Disguises, and Dilemmas - Session 30 - 2026-05-17]] — planned pickup

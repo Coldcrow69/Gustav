@@ -26,15 +26,15 @@ She was **introduced to the party by [[Victor Barun]]** at the diner **[[The App
 
 **Class:** **Druid** (per her Druidic language — restricted to the Druid class — and her druid-style appearance and tooling).
 
-## Session 29 — Egg Hunt opener (2026-05-11)
+## Session 29 — Egg Hunt opener (2026-05-10)
 
 In [[Stonewater]] (recorded as Ironforge in chronicler notes), Rhaenyra admired the beauty of the city, noting how it dwarfed her own village. She accompanied the party to [[Baldrin Stoneforge]]'s residence and participated actively in the audience, asking questions about the disappearances and murders in the [[Ironheart Mines]], noting that the corpse of the accused man had vanished and suggesting they investigate the mine itself.
 
-She described an insignia seen on the occupants of the **separate second cart** that had traveled alongside [[Basil]]'s caravan — a **feather-and-dagger emblem** — and inquired about its meaning. (Identified the next morning by [[Nastrin]] as the **[[Greybraids]]** clan crest — see [[Dragons, Disguises, and Dilemmas - Session 30 - 2026-05-18|Session 30]].) She warned that [[The God Of The Iron Peaks]] could destroy the city if the stolen dragon eggs were not recovered, recounting their firsthand experience of the dragon's destructive power at [[Bluefield]].
+She described an insignia seen on the occupants of the **separate second cart** that had traveled alongside [[Basil]]'s caravan — a **feather-and-dagger emblem** — and inquired about its meaning. (Identified the next morning by [[Nastrin]] as the **[[Greybraids]]** clan crest — see [[Dragons, Disguises, and Dilemmas - Session 30 - 2026-05-17|Session 30]].) She warned that [[The God Of The Iron Peaks]] could destroy the city if the stolen dragon eggs were not recovered, recounting their firsthand experience of the dragon's destructive power at [[Bluefield]].
 
 After the meeting she joined her companions at the tavern [[Good For What Ails Ya]], removed [[Lyrion Thalor|Lyrion]]'s drink, waved her own sparkler, and quipped to [[Eldrin Thalor|Eldrin]] about roughing [[Mike]] up "just a little." More recently she has taken on a more proactive role in the party, often leading discussions about their next steps regarding the dragon threat, and has begun gathering information about the local populace's experiences with the dragon to seek allies among the townsfolk for the egg-recovery effort.
 
-## Egg Hunt — Session 30 (Dragons, Disguises, and Dilemmas, 2026-05-18)
+## Egg Hunt — Session 30 (Dragons, Disguises, and Dilemmas, 2026-05-17)
 
 Came down to breakfast at [[Good For What Ails Ya]] mid-morning, sat with the group without ordering yet. **Pressed [[Mike]] for the full story** of his "transformation from apprentice to sorcerer" — the question that prompted [[Lyrion Thalor|Lyrion]]'s detailed retelling of the [[Fairy Grove (Anti-Magic Pocket)|fairy-grove encounter]].
 

@@ -1,7 +1,8 @@
 # Bluefield Burning
 
-**Arc location:** [[The Wilds]] — north of [[Fort Elm]], traveling via the [[Sail la Vie]]; [[Roseview]] and then [[Bluefield]].
-**Status:** Concluded — bridges [[Fish People]] → [[Egg Hunt]].
+**Arc location:** [[The Wilds]] — north of [[Fort Elm]], traveling via the [[Sail la Vie]]; [[Roseview]], then [[Bluefield]], then the firbolg [[Refugee Camp]].
+**Arc span:** From the party **leaving [[Fort Elm]]** (the sail north) through **leaving the firbolg [[Refugee Camp]]** (~3/1/26). The Fort Elm downtime just before the sail (Mike & Rhaenyra joining, the [[The Apple Thicket]] meeting) is the tail of [[Fish People]] / the lead-in; the travel south from the camp toward [[Stonewater]] (the [[Fairy Grove (Anti-Magic Pocket)|fairy grove]], [[Basil]]'s caravan) is the **opening leg of [[Egg Hunt]]**. See [[Campaign Arcs]] for all arc boundaries.
+**Status:** Concluded.
 **Dated session log:** [[Bluefield Burning - Sessions 1-5 (Arc Two)]] (the early entries) and [[Transcripts/Transcript Index]] (later sessions).
 
 ## Setup
@@ -30,7 +31,7 @@ Per Seren's POV-recollection in the long-form short story, the attack scene incl
 
 ### After the battle
 
-The party escaped with survivors to the [[Firbolg Camp|Refugee Camp]] led there by **[[Kira]]**, a firbolg known to [[Bell]] from her past. They made camp on the deck of the [[Sail la Vie]]. Among the rescued was a family with a newborn baby, observed by Lyrion below deck. Seren spent the night fearing that **"the dragons" would not be assuaged** and that **Fort Elm would be next to feel their fury**.
+The party escaped with survivors to the firbolg [[Refugee Camp]] led there by **[[Kira]]**, a firbolg known to [[Bell]] from her past. They docked the [[Sail la Vie]] on the river and made camp on its deck, then walked ~1 mile inland to the firbolg camp itself. Among the rescued was a family with a newborn baby, observed by Lyrion below deck. Seren spent the night fearing that **"the dragons" would not be assuaged** and that **Fort Elm would be next to feel their fury**.
 
 That same night, [[Lyrion Thalor|Lyrion]] slipped a **love letter** into Seren's bedroll. (See [[Seren Moss#Current relationship — Lyrion|Seren's page]] for the verbatim text and her response.)
 
@@ -44,13 +45,13 @@ The party traveled south to the river, took the [[Sail la Vie]] down past a left
 
 That night, [[Lyrion Thalor|Lyrion]] and [[Mike]] split off to investigate the grove. They were **lured to its center by a fairy-illusion** — a trap from a **carnivorous plant** disguised as a tree on an island in a pond, mimicking an angler-fish lure. The plant tried to grab Mike; Lyrion **Polymorphed himself into a sheep** to escape; Mike fled the fight and carried sheep-Lyrion out; both barely survived. This is the literal "wizard battle in the anti-magic zone followed by magical instability" Lyrion later bemoans at [[Good For What Ails Ya]] in [[Egg Hunt]] Session 29.
 
-The main group continued to [[Stonewater]] and met **[[Basil]]'s caravan from [[Autumnbreak]]** on the road, traveling loosely alongside a **separate second cart** whose occupants wore a **feather-and-dagger emblem** — per [[Dragons, Disguises, and Dilemmas - Session 30 - 2026-05-18|Session 30]], that emblem belongs to the **[[Greybraids]]** dwarf clan of [[Stonewater]], and the cart (not Basil's caravan) is the chief suspect for the egg theft.
+The main group continued to [[Stonewater]] and met **[[Basil]]'s caravan from [[Autumnbreak]]** on the road, traveling loosely alongside a **separate second cart** whose occupants wore a **feather-and-dagger emblem** — per [[Dragons, Disguises, and Dilemmas - Session 30 - 2026-05-17|Session 30]], that emblem belongs to the **[[Greybraids]]** dwarf clan of [[Stonewater]], and the cart (not Basil's caravan) is the chief suspect for the egg theft.
 
 ## Carried forward into [[Egg Hunt]]
 
 - [[Captured Half-Dragon]]: in party custody, testimony delivered
 - Hunt for the stolen eggs (primary Egg Hunt objective)
-- The **feather-and-dagger emblem travelers** sighted on the road — per Session 30 (2026-05-18), identified as the **[[Greybraids]]** dwarf clan of [[Stonewater]], traveling in a **separate cart alongside** [[Basil]]'s caravan from [[Autumnbreak]] (not Basil's own caravan)
+- The **feather-and-dagger emblem travelers** sighted on the road — per Session 30 (2026-05-17), identified as the **[[Greybraids]]** dwarf clan of [[Stonewater]], traveling in a **separate cart alongside** [[Basil]]'s caravan from [[Autumnbreak]] (not Basil's own caravan)
 - Firbolgs as potential allies (the [[Refugee Camp]] clan)
 - [[Kira]] — firbolg guide / [[Bell]]'s past connection
 - Bell's new **[[Loa]] [[Zehal]]** attachment; the [[Tome of Firbolg Spirit Communion]]
@@ -59,7 +60,7 @@ The main group continued to [[Stonewater]] and met **[[Basil]]'s caravan from [[
 
 ## Detailed session log
 
-Per the WhisperX transcripts and the Arc Two PDF notes, the arc spans **9/17/25 → 5/3/26** (~29 sessions of campaign-time elapsed). Full dated breakdown lives in [[Bluefield Burning - Sessions 1-5 (Arc Two)|the Arc Two log]] (early entries) plus the [[Transcripts/Transcript Index]] (later sessions, from WhisperX recaps).
+The dated entries below run from the post-[[Fish People]] Fort Elm downtime through the handoff to [[Egg Hunt]]. **Exact session counts and some dates are estimates** — the early campaign was poorly recorded (no reliable notes or recordings at the time), so campaign-wide session numbers are approximate (see [[!Crypt Keepers]]). The arc proper (after leaving [[Fort Elm]]) runs ~9/25/25 → ~3/1/26 (leaving the firbolg [[Refugee Camp]]); the **3/15/26–5/3/26 travel leg toward [[Stonewater]] is the opening of [[Egg Hunt]]**, kept below for chronological continuity. Full breakdown: [[Bluefield Burning - Sessions 1-5 (Arc Two)|the Arc Two log]] (early entries) plus the [[Transcripts/Transcript Index]] (later sessions).
 
 - **9/17/25** — Three weeks of downtime in [[Fort Elm]] after [[Fish People]]. [[Eldrin Thalor|Eldrin]] escorts [[Thorn]] to a Bard / Clown College for **Shapeshifter heritage research** (and in fiction, this is the framing device through which Eldrin **swaps from pure Ranger to pure Bard**). [[Lyrion Thalor|Lyrion]] takes **Magic Initiate (Cleric)**, asks [[Seren Moss|Seren]] to teach him a cantrip; begins experiments **imbuing cloth with magical energy**. Seren cleans up the town. Victor is house-hunting + teaching the party to **sail the Sail la Vie**. **[[Mike]] and [[Rhaenyra]] introduced as the two new players.**
 - **9/19/25** — Shopping episode; low DM prep.
@@ -71,8 +72,11 @@ Per the WhisperX transcripts and the Arc Two PDF notes, the arc spans **9/17/25 
 - **2/15/26** — **Bluefield battle**: kobolds + half-dragon on Spark Beast. [[Captured Half-Dragon|Half-dragon captured]]; escape the dragon's attention. Met [[Kira]].
 - **2/22/26** — At the [[Refugee Camp]]: tome received; communion ritual; spirit speaks Lyrion's name; [[Bell]] acquires [[Zehal]] the [[Loa]]; flapping overhead.
 - **3/1/26** — At the camp, ~20 miles from Bluefield. Talked to the half-dragon (never asked his name). South toward the river.
+
+> — **Bluefield Burning ends here** (the party leaves the firbolg [[Refugee Camp]]). The entries below are the **opening travel leg of [[Egg Hunt]]**, kept here for chronological continuity. —
+
 - **3/15/26** — *(no recap accessible in this batch)*
 - **4/5/26** — Stowed the [[Sail la Vie]] in box form; walked into the [[Iron Peaks]] foothills; **found the [[Fairy Grove (Anti-Magic Pocket)|anti-magic pocket]]**.
 - **4/12/26** — Party split. Stonewater group met **[[Basil]]'s caravan**. The other group found the **fairy-disguised carnivorous plant**.
-- **5/3/26** — Stonewater group nearing the city. Other group: **plant tried to grab [[Mike]]; [[Lyrion Thalor|Lyrion]] Polymorphed himself into a sheep** (deliberate 4th-level cast) to escape; Mike eventually fled the fight and **carried sheep-Lyrion out**. Both barely survived. Full retelling on the [[Dragons, Disguises, and Dilemmas - Session 30 - 2026-05-18|Session 30]] page.
-- **5/11/26** — [[Egg Hunt]] Session 29 begins. See [[The Search for Dragon Eggs - Session 29 - 2026-05-11]].
+- **5/3/26** — Stonewater group nearing the city. Other group: **plant tried to grab [[Mike]]; [[Lyrion Thalor|Lyrion]] Polymorphed himself into a sheep** (deliberate 4th-level cast) to escape; Mike eventually fled the fight and **carried sheep-Lyrion out**. Both barely survived. Full retelling on the [[Dragons, Disguises, and Dilemmas - Session 30 - 2026-05-17|Session 30]] page.
+- **5/10/26** — [[Egg Hunt]] Session 29 begins. See [[The Search for Dragon Eggs - Session 29 - 2026-05-10]].
