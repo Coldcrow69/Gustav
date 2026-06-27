@@ -1,5 +1,7 @@
 Aliases / variant spellings recorded: **Braun**, **Victor Barron**.
 
+> **Not [[Victor Stonehammer]].** A separate **dwarf** of [[Stonewater]] — the revenant in [[Unearthing Dark Secrets - Session 31 - 2026-06-21|Session 31]] — shares the given name "Victor." Victor **Barun** (the human fishing mogul described below) is unrelated and uninvolved. Archivist exports conflated the two; do not merge them.
+
 A **middle-aged, rotund, kind and jolly fellow** — always one to help in a time of need. A **wealthy retired Fishing Mogul** who runs (or rather, ran) a fishing operation in [[Fort Elm]] and is a **popular figurehead** in town. A mutual friend of the entire party — each PC was individually invited to his gathering, the [[Prologue]] hook.
 
 `![[victor barun.webp]]`

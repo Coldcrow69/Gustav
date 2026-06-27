@@ -16,7 +16,7 @@
 - Miranda → [[Rhaenyra]] (Druid — has Druidic language) *(joined 2025-09-17)*
 - *Eve* → [[Teron]] (Emerald Dragonborn Paladin of [[Mystra]]) — **left the campaign** after the [[Fish People]] arc; Teron is **written out**
 
-**Session Schedule** Sundays 5pm–7pm PST
+**Session Schedule** Every other Sunday, 5–9pm PST (moved here from a weekly Sunday slot; the campaign ran on Wednesdays in its early days)
 
 **House Rules**
 
@@ -34,7 +34,9 @@
 
 **Session Numbering** Sessions are numbered by **campaign-wide order**. The campaign has been running since ~June 2024. **Counts and some early dates are estimates** — at the start the group wasn't keeping good notes or recordings, so a number of session numbers and dates are assumptions. **Session 29 (2026-05-10)** is the first session captured in this Obsidian vault — the party migrated note-taking platforms at that point. Sessions 1–~28 are summarized in [[Fish People]], [[Bluefield Burning]], and OneNote-era raw notes; only Session 29 onward has a full recap. Within-arc references like "Session 1 of [[Fish People]]" mean the first session of that arc (also campaign session 1 in that case).
 
-> **Archivist AI numbering note.** The Archivist AI tool the party uses to summarize sessions counts within the current arc — so "Session 1" / "Session 2" in archivist filenames are arc-local (Egg Hunt). The canonical vault uses campaign-wide numbering: Egg Hunt arc Session 1 = campaign Session 29 (2026-05-10); arc Session 2 = campaign Session 30 (2026-05-17).
+> **Archivist AI numbering note.** The Archivist AI tool the party uses to summarize sessions counts within the current arc — so "Session 1" / "Session 2" / "Session 3" in archivist filenames are arc-local (Egg Hunt). The canonical vault uses campaign-wide numbering: Egg Hunt arc Session 1 = campaign Session 29 (2026-05-10); arc Session 2 = campaign Session 30 (2026-05-17); arc Session 3 = campaign Session 31 (2026-06-21).
+>
+> **Date artifact.** Archivist exports sometimes stamp a session on the **Monday** after play (a UTC/meridian timezone effect). The group plays **Sundays**, so canonical recap dates are the Sunday the session actually ran — e.g., Session 31 is **2026-06-21**, not the archivist's 2026-06-22.
 
 **Player joins**: [[Mike]] (Breadlock) and [[Rhaenyra]] (Miranda) joined the party during the Fort Elm **downtime after [[Fish People]]** — they were introduced as "two new players" at the 2025-09-17 session, with [[Rhaenyra]]'s in-fiction introduction following on 2025-09-24 at [[The Apple Thicket]].
 

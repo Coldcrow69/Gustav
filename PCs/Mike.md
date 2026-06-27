@@ -8,6 +8,7 @@ Player: **Breadlock**. Joined the party during the **2025-09-17 downtime** in [[
 - Height: **8'0"** (tallest of the party — by a wide margin)
 - Languages: **Common, Giant, Primordial**
 - Mental note: **poor INT stat** — relevant to his self-image (see below)
+- **Giant Form** — Mike can **grow one size larger** than his already-massive 8' frame. Used in [[Unearthing Dark Secrets - Session 31 - 2026-06-21|Session 31]] to scoop up the [[Elderly Dwarf Cleric (Stonewater)|elderly cleric]] and run her back to the [[Stonewater Sewers]].
 
 **Appearance** (party height chart): massive frame; **pale blue-white skin** with dark **tribal-style markings** across the face, scalp, torso, arms, and legs; **bald**, with only a small wisp of beard; gray fur-trimmed cape, armored cuirass with a central white ornament, and brown boots. The skin tone, height, and Primordial + Giant language profile read as **goliath / giant-lineage**.
 

@@ -35,7 +35,7 @@ Brother to [[Lyrion Thalor]]. Member of the **Twilight Masqueraders**, a group o
 
 **Eldrin's three-week absence** during [[Fort Elm]] downtime (post-Fish-People, pre-Bluefield-Burning) is now logged: he **escorted [[Thorn]] to a local Bard / Clown College** so she could **research her Shapeshifter heritage**. He went along to keep her company and so she would not have to travel alone. *"Three weeks hanging around clowns would be fun."* (Per the 2025-09-17 transcript recap.)
 
-> Note: Earlier chronicler notes (Archivist) labeled Eldrin as an "Elf Bard." That framing was prescient — Eldrin **was** a pure Ranger through the [[Fish People]] arc, but **swapped to pure Bard** during the 2025-09-17 Clown College trip. He is now a Bard.
+> Note: Earlier chronicler notes (Archivist) labeled Eldrin as an "Elf Bard." That framing was prescient — Eldrin **was** a pure Ranger through the [[Fish People]] arc, but **swapped to pure Bard** during the 2025-09-17 Clown College trip. He is now a Bard — though per a DM ruling in [[Unearthing Dark Secrets - Session 31 - 2026-06-21|Session 31]] he **retains his ranger woodcraft and can still track**, which is how he followed the killer's [[Black Ichor|ichor]] trail into the [[Stonewater Sewers]].
 
 ## Fish People arc
 

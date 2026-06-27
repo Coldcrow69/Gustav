@@ -45,6 +45,7 @@ The transcript `.txt` files are in the upload zips `transcripts.zip` and `transc
 | 2026-04-12 | Caravan + fairy grove | Stonewater group meets [[Basil]]'s caravan; other group finds the fairy-tree |
 | 2026-05-03 | Final pre-Egg-Hunt session | Stonewater visible; **Lyrion → sheep** to escape fairy-tree; the "wizard battle" |
 | **2026-05-10** | [[The Search for Dragon Eggs - Session 29 - 2026-05-10\|Session 29 — Egg Hunt opener]] | Audience with [[Baldrin Stoneforge]] |
+| **2026-06-21** | [[Unearthing Dark Secrets - Session 31 - 2026-06-21\|Session 31 — Unearthing Dark Secrets]] | Alley murder; [[Stonewater Sewers]] revenant of [[Victor Stonehammer]]; [[Temple of Selûne (Stonewater)\|Temple of Selûne]] — *speaker-labeled transcript, higher fidelity than WhisperX* |
 
 ## Color details worth noting (verified against canon)
 

@@ -20,7 +20,7 @@ Visible districts and features:
 The water network and the multi-level construction together explain the city's "Stonewater" name — built into rock, threaded with water.
 
 Associated NPCs: [[Baldrin Stoneforge]] (foreman of the [[Ironheart Mines]]).
-Associated locations: [[Ironheart Mines]], [[Good For What Ails Ya]] (tavern in the lower district).
+Associated locations: [[Ironheart Mines]], [[Good For What Ails Ya]] (tavern in the lower district), [[Stonewater Sewers]], [[Temple of Selûne (Stonewater)]] (green-domed temple-library in the upper tier).
 
 ## Description
 
@@ -28,7 +28,7 @@ The city is built into rock, featuring cavernous architecture with natural openi
 
 ## Recent events
 
-The [[Ironheart Mines]], overseen by [[Baldrin Stoneforge]], are a significant part of the city's operations. Recently the area has experienced disappearances and murders linked to the mines. Baldrin's residence serves as a point of contact for those seeking information about these issues. Concerns include the consistency of the manner of death, the weapon used, and the disappearance of the accused man's corpse and weapon.
+The [[Ironheart Mines]], overseen by [[Baldrin Stoneforge]], are a significant part of the city's operations. Recently the area has experienced disappearances and murders linked to the mines. Baldrin's residence serves as a point of contact for those seeking information about these issues. Concerns include the consistency of the manner of death, the weapon used, and the disappearance of the accused man's corpse and weapon. **As of [[Unearthing Dark Secrets - Session 31 - 2026-06-21|Session 31]],** the murderer is revealed to be the **revenant** of [[Victor Stonehammer]] — the vanished "accused man" — preying on cave-in survivors from the [[Stonewater Sewers]]; the party contained it but did not destroy it. The city's guard forces include the clan-affiliated [[Stoneforge Clan|Stoneforge Guard]] and a separate watch based at the third-tier Barracks.
 
 The city has been affected by the destruction of [[Bluefield]] by the **multi-headed red dragon** [[The God Of The Iron Peaks]]. There are concerns regarding a [[Captured Half-Dragon]] and the theft of dragon eggs. [[Rhaenyra]] warned that Stonewater could be destroyed if the eggs are not recovered. A suspicious caravan with unfamiliar travelers has also been reported, prompting requests for assistance in tracking it down.
 

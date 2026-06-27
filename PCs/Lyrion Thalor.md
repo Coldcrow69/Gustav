@@ -5,7 +5,7 @@ Player: **Joey** (handle "Coldcrow"). *Self Char.*
 ## Character Sheet
 
 - Race: **High Elf**
-- Class: Wizard
+- Class: Wizard — **Order of Scribes**
 - Age: 36
 - Height: **6'3"** *(party height chart; player sheet records 6'2" — chart is authoritative)*
 - Build: Skinny but toned
@@ -39,6 +39,7 @@ Brother to [[Eldrin Thalor]]. Carries the named sentient magical codex [[Gustav]
 - During the spirit-communion ritual at the [[Refugee Camp]], **a spirit spoke Lyrion's name** — significance unresolved.
 - **Polymorph into a sheep** (Wizard 4th-level): 5/3/26, used to escape the [[Fairy Grove (Anti-Magic Pocket)|fairy-tree]]. This is the literal "wizard battle in the anti-magic zone followed by magical instability" he later laments at [[Good For What Ails Ya|the tavern]] in [[Egg Hunt]] Session 29.
 - **Spell scrolls copied into [[Gustav]]** (post-aboleth, from the [[Spell Scroll Case (Aboleth Pit)|altar-pit scroll case]]): **Protect from Fey** and **Divination** — both now in his prepared-spell repertoire.
+- **Order of Scribes wizard.** [[Gustav]] is his **Awakened Spellbook** — the subclass's signature feature, which is why the book is sentient and opinionated. Per [[Unearthing Dark Secrets - Session 31 - 2026-06-21|Session 31]], his prepared repertoire also includes **Banishment** and **Remove Curse** (readied against the [[Victor Stonehammer]] revenant).
 
 **History**: His **mother [[Endra Thalor]] — herself part-drow — was tortured and murdered by Drow** (one of the more violent sects). The double-edged nature of this trauma — kin killing kin — drives Lyrion's complicated relationship with his own blue skin and his reflexive hostility toward all Drow. His **father used to beat [[Eldrin Thalor|Eldrin]] in the family cellar** (the "dad's basement" the brothers reference at the [[Riddle Door]]). During the [[Fish People]] arc he killed a Drow prisoner on sight and later atoned to [[Riknozz]]'s peaceful sect (blood debt paid via slaying the [[The Undead Aboleth|undead aboleth]]). The aboleth conjured an illusion of his dead mother to deceive him; he answered with a fireball.
 

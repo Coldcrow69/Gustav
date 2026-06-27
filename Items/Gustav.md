@@ -1,4 +1,4 @@
-A named sentient magical codex. Carried by [[Lyrion Thalor|Lyrion]].
+A named sentient magical codex. Carried by [[Lyrion Thalor|Lyrion]]. In mechanical terms, Gustav is Lyrion's **Awakened Spellbook** — the signature feature of his **Order of Scribes** wizard subclass — which is what makes the book sentient and opinionated.
 
 **Personality**: reactive and opinionated. When Lyrion writes emotional or romantic prose (e.g., his love letter to [[Seren Moss|Seren]]), Gustav **ruffles his pages and makes disapproving noises**.
 

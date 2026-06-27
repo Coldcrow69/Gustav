@@ -2,6 +2,8 @@ Full name: **Baldrin Stoneforge** (also recorded as "Baldrun Stoneforge" in chro
 
 Foreman of the [[Ironheart Mines]]. Resides in [[Stonewater]] (also recorded as "Stoneforge" / "Ironforge" in chronicler notes). Business associate of [[Victor Barun]], who sent the party to assist with disappearances and murders linked to the mines.
 
+> **Session 31 development.** The mine-murder weapon is a pickaxe bearing **Baldrin's own [[Stoneforge Clan]] insignia**, and the **Stoneforge Guard** were the force that cornered and killed [[Victor Stonehammer]] (now a revenant). [[Lyrion Thalor|Lyrion]]'s standing suspicion of Baldrin remains open. The party skipped his Session 31 morning meeting (and the [[Mine Pass|mine pass]] pickup) to deal with the revenant, and still intend to speak with him about the cave-in. See [[Unearthing Dark Secrets - Session 31 - 2026-06-21|Session 31]].
+
 ## Session 29 — Audience in Stonewater (2026-05-10)
 
 [[Seren Moss|Seren]] introduced the party at Baldrin's residence, explaining they had been sent by [[Victor Barun]] to assist with the missing-people problem. She reported that [[Bluefield]] had been destroyed by a red dragon known as [[The God Of The Iron Peaks]], that the party had captured a half-dragon from the attacking force ([[Captured Half-Dragon]]) who revealed the dragon's eggs had been stolen, that local firbolgs had aided Bluefield's refugees, and that suspicious human adventurers had been observed passing through before the attack. She requested aid locating the stolen eggs to prevent further assaults.
