@@ -53,3 +53,8 @@ During the deeper descent Bell tried **Beast Speech** on the cavern slime/foam �
 **Charmed in final battle.** During the fight against the [[The Undead Aboleth|undead aboleth]], **Bell spent much of the battle charmed by the enemy.**
 
 **Loot dive.** After the aboleth's death, **Bell dove into the pit** to see if anything was worth scavenging — and retrieved a [[Spell Scroll Case (Aboleth Pit)|spell scroll case]] Lyrion judged to be very valuable and powerful.
+
+## Egg Hunt — Sessions 30–31 (Stonewater)
+
+- **Session 30** ([[Dragons, Disguises, and Dilemmas - Session 30 - 2026-05-17|recap]]): observed that **both the egg-theft and the mine-killings revolved around [[Stonewater]]**. During the split-up debate, warned that several party members had already been seen by the suspicious cart's occupants — but [[Lyrion Thalor|Lyrion]] and [[Mike]] had not.
+- **Session 31** ([[Unearthing Dark Secrets - Session 31 - 2026-06-21|recap]]): in the [[Stonewater Sewers]], handed [[Mike]] a healing potion during the approach. When the [[Victor Stonehammer]] revenant emerged, it **marked Bell** — *"You will not stop me from my prey"* — significance unresolved. After [[Seren Moss|Seren]]'s Turn Undead incapacitated the creature, Bell **grappled it and shoved it prone**, enabling the party to bind it for the [[Chained Stone Coffin]].

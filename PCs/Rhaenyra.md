@@ -7,7 +7,7 @@ Player: **Miranda**.
 
 **Appearance** (party height chart): elf-like pointed ears, fair skin, long light-blonde braided hair, dressed in earthy green druid-style robes with bark-textured leggings, exposed midriff with a leaf-and-belt sash. Looks young and lithe.
 
-Wears half-plate armor and a tabard during adventuring. Member of the party of adventurers sent by [[Victor Barun]].
+Member of the party of adventurers sent by [[Victor Barun]].
 
 ## Origin and joining the party
 
@@ -32,7 +32,7 @@ In [[Stonewater]] (recorded as Ironforge in chronicler notes), Rhaenyra admired 
 
 She described an insignia seen on the occupants of the **separate second cart** that had traveled alongside [[Basil]]'s caravan — a **feather-and-dagger emblem** — and inquired about its meaning. (Identified the next morning by [[Nastrin]] as the **[[Greybraids]]** clan crest — see [[Dragons, Disguises, and Dilemmas - Session 30 - 2026-05-17|Session 30]].) She warned that [[The God Of The Iron Peaks]] could destroy the city if the stolen dragon eggs were not recovered, recounting their firsthand experience of the dragon's destructive power at [[Bluefield]].
 
-After the meeting she joined her companions at the tavern [[Good For What Ails Ya]], removed [[Lyrion Thalor|Lyrion]]'s drink, waved her own sparkler, and quipped to [[Eldrin Thalor|Eldrin]] about roughing [[Mike]] up "just a little." More recently she has taken on a more proactive role in the party, often leading discussions about their next steps regarding the dragon threat, and has begun gathering information about the local populace's experiences with the dragon to seek allies among the townsfolk for the egg-recovery effort.
+After the meeting she joined her companions at the tavern [[Good For What Ails Ya]], removed [[Lyrion Thalor|Lyrion]]'s drink, waved her own sparkler, and quipped to [[Eldrin Thalor|Eldrin]] about roughing [[Mike]] up "just a little."
 
 ## Egg Hunt — Session 30 (Dragons, Disguises, and Dilemmas, 2026-05-17)
 

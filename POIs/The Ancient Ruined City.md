@@ -17,7 +17,7 @@ The city contains:
 
 The Drow have oral history of this place: **"an ancient city where people lived in safety and harmony, until their society collapsed under the influence of a powerful evil."** Whether the "powerful evil" was the [[The Undead Aboleth|aboleth]] now sealed in the cathedral, the [[Glyph Scar]] itself, or some third factor, remains unresolved.
 
-## State after Session 5 of [[Fish People]]
+## State after the [[Fish People]] arc
 
 - [[The Undead Aboleth|Undead aboleth]] killed
 - Prisoners rescued, returned to [[Fort Elm]]

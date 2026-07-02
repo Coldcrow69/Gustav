@@ -3,7 +3,7 @@
 
 **Tone** Exploration-driven, magical, high fantasy.
 
-**Player Roster** Molly, Joey , Chase, Raine, Jenna, Breadlock, Miranda (7 players)
+**Player Roster** Molly, Joey, Chase, Raine, Jenna, Breadlock, Miranda (7 players)
 
 **Player → PC mapping**
 
@@ -12,7 +12,7 @@
 - Chase *("Pursuance")* → [[Eldrin Thalor]] (High Elf — was pure Ranger through Fish People, now pure Bard after Clown College swap)
 - Raine → [[Seren Moss]] (Half-Elf Cleric of [[Kelemvor]])
 - Jenna → [[Thorn]] (Changeling / Shapeshifter Bard)
-- Breadlock → [[Mike]] (Monk — sincerely believes his ki is wizardry; [[Lyrion Thalor|Lyrion]]'s "apprentice") *(joined 2025-09-17)*
+- Breadlock → [[Mike]] (Monk — sincerely believed his ki was wizardry; since [[Dragons, Disguises, and Dilemmas - Session 30 - 2026-05-17|Session 30]] self-identifies as "Mike the Sorcerer," still mechanically a Monk. Formerly [[Lyrion Thalor|Lyrion]]'s "apprentice" — dismissed on the road to [[Stonewater]]) *(joined 2025-09-17)*
 - Miranda → [[Rhaenyra]] (Druid — has Druidic language) *(joined 2025-09-17)*
 - *Eve* → [[Teron]] (Emerald Dragonborn Paladin of [[Mystra]]) — **left the campaign** after the [[Fish People]] arc; Teron is **written out**
 

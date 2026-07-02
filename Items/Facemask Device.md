@@ -6,5 +6,6 @@ Used by the fish-monsters (kuo-toa) on **kidnapped townsfolk** to keep them aliv
 
 ## Distribution
 
-- Originally **four** recovered from saved hostages — taken by [[Seren Moss|Seren]], [[Lyrion Thalor|Lyrion]], [[Teron]], and one other.
-- Later, when the party headed into the forest to find alternate cave entrances via Bell's gulch, **each party member was armed with a water-breathing mask** — implying additional masks were acquired or distributed in the intervening sessions.
+- Originally **four** recovered from saved hostages (Session 4, 7/3/24) — used by the whirlpool dive team: [[Lyrion Thalor|Lyrion]], [[Teron]], [[Thorn]], and [[Seren Moss|Seren]]. Two more would have been needed for the full party of six.
+- **~6 more found by [[Lilith]] and her guards** (Session 6, 7/31/24), bringing the tally to **~10**.
+- Before the gulch descent (Session 9, 9/11/24), **[[Teron]] handed each party member a mask** — the full party was equipped from the pooled supply.

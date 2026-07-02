@@ -45,9 +45,11 @@ Brother to [[Eldrin Thalor]]. Carries the named sentient magical codex [[Gustav]
 
 **Self-description**: signs off his love letter to Seren as **"the prodigal mage Lyrion Thalor"** — suggesting a self-aware sense of having wandered, fallen short, or been away from where he should be.
 
-## "Master" to Mike
+## "Master" to Mike (ended)
 
-[[Mike]] is a **Monk** who — owing to a low INT — sincerely believes his ki abilities are wizardry and calls himself a wizard. **Lyrion knows perfectly well Mike is not a wizard**, but agreed to take him on as his **apprentice** anyway, out of his own **vain aspirations to be a famous wizard** (the kind of wizard who *ought* to have an apprentice). The arrangement satisfies both their vanities at once. Lyrion's "wizard battle" lament at [[Good For What Ails Ya]] in [[Egg Hunt]] Session 29 — *"I lost the best wizard battle… despite Mike not being a wizard"* — plays on this dynamic.
+[[Mike]] is a **Monk** who — owing to a low INT — sincerely believed his ki abilities were wizardry and called himself a wizard. **Lyrion knows perfectly well Mike is not a wizard**, but agreed to take him on as his **apprentice** anyway, out of his own **vain aspirations to be a famous wizard** (the kind of wizard who *ought* to have an apprentice). The arrangement satisfied both their vanities at once. Lyrion's "wizard battle" lament at [[Good For What Ails Ya]] in [[Egg Hunt]] Session 29 — *"I lost the best wizard battle… despite Mike not being a wizard"* — plays on this dynamic.
+
+**Apprenticeship dissolved.** On the road to [[Stonewater]], after the [[Fairy Grove (Anti-Magic Pocket)|fairy-grove fight]], Lyrion dismissed Mike as his apprentice. He clarified in [[Dragons, Disguises, and Dilemmas - Session 30 - 2026-05-17|Session 30]] that this was not anger: Mike's magic is not wizardry, and Lyrion no longer trusted himself as Mike's master after nearly getting him killed. Mike has since re-labeled himself **"Mike the Sorcerer"** (still mechanically a Monk); Lyrion plays along.
 
 ## Relationship — [[Seren Moss|Seren]]
 

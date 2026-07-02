@@ -10,7 +10,7 @@ Reference chart of the active party's heights, shortest to tallest.
 | 4 | [[Lyrion Thalor]] | Joey (Coldcrow) | **6'3"** | High Elf Wizard *(blue-skinned from his half-drow mother)* |
 | 5 | [[Eldrin Thalor]] | Chase (Pursuance) | **6'6"** | High Elf — pure Ranger → pure Bard |
 | 6 | [[Bell]] | Molly | **7'0"** | Firbolg Barbarian |
-| 7 | [[Mike]] | Breadlock | **8'0"** | Monk (goliath / giant-lineage) — sincerely thinks his ki is wizardry |
+| 7 | [[Mike]] | Breadlock | **8'0"** | Monk (goliath / giant-lineage) — sincerely thought his ki was wizardry; since Session 30, "Mike the Sorcerer" |
 
 > Height authority: the DM-provided **party height chart** image overrides earlier player-sheet heights where they conflict. Reconciliations recorded per-character on each PC page.
 

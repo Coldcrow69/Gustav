@@ -6,7 +6,7 @@ Presents as **a usually-dried-fish merchant** from a town called **[[Autumnbreak
 
 ## Suspicion
 
-The party originally believed Basil's caravan **may be responsible for stealing the eggs from [[The God Of The Iron Peaks|the god of the Iron Mountain]]**. The party was actively investigating suspicious activity in one of the **last carts of the caravan** when [[Seren Moss|Seren]] held a conversation with him.
+The party originally believed Basil's caravan **may be responsible for stealing the eggs from [[The God Of The Iron Peaks|the god of the Iron Peaks]]**. The party was actively investigating suspicious activity in one of the **last carts of the caravan** when [[Seren Moss|Seren]] held a conversation with him.
 
 > **Session 30 correction.** The **feather-and-dagger emblem** [[Rhaenyra]] originally described was reassigned in Session 30 to the **occupants of a separate second cart** that traveled loosely alongside Basil's caravan on the road — **not** to Basil or his main caravan. Per [[Nastrin]]'s identification at [[Good For What Ails Ya]], the emblem is the crest of the **[[Greybraids]]** dwarf clan. Basil remains a person of interest, but the emblem-based suspicion now points at the Greybraids, not him.
 

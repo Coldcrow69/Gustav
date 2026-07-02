@@ -6,7 +6,7 @@ A network of magical threads connecting the world and its inhabitants to the arc
 
 The Weave is currently **broken**. It used to be stronger before the [[Glyph Scar]] calamity (roughly 700–900 years ago — ambiguous; called the [[Glyph Spark]] in Lyrion's earlier journal entries). Now it seems to be getting stronger but is obviously still damaged.
 
-**In [[Azadin]] today:** pre-Scar the setting was extremely high magic; post-Scar it has slowly slowed to **low/mid magic levels**. Individuals with the skill or knowledge to manipulate the Weave are **rarer than in standard fantasy settings (~1/90 people, vs ~1/30 in baseline D&D)** and are treated with a small degree of **stigma**.
+**In [[Azadin]] today:** pre-Scar the setting was extremely high magic; post-Scar it sits at **low/mid magic levels** and is slowly recovering. Individuals with the skill or knowledge to manipulate the Weave are **rarer than in standard fantasy settings (~1/90 people, vs ~1/30 in baseline D&D)** and are treated with a small degree of **stigma**.
 
 ## Phenomena
 

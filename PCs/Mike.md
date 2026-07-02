@@ -30,7 +30,7 @@ Physically imposing front-line fighter. Described by [[Lyrion Thalor|Lyrion]] as
 
 Traveled with [[Lyrion Thalor]] to [[Stonewater]] (recorded as Stoneforge in chronicler notes). During an earlier incident he was picked up and thrashed; he arrived at the tavern [[Good For What Ails Ya]] exhausted and wounded and went straight to bed upstairs to rest.
 
-The party confirmed Mike was sleeping upstairs at the tavern for the remainder of the night. More recently he has been seen engaging in strategic discussions with his companions, reflecting a growing interest in tactical planning alongside his physical prowess.
+The party confirmed Mike was sleeping upstairs at the tavern for the remainder of the night.
 
 ## Egg Hunt — Session 30 (Dragons, Disguises, and Dilemmas, 2026-05-17)
 

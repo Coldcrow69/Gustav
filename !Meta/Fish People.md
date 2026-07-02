@@ -264,10 +264,10 @@ Council reward:
 - ✅ The flesh-sacrifice "underground temple" of Seren's vision: the cathedral. Cleared.
 - ✅ [[Gwyn Moss|Gwyn]] kidnapped: rescued in the ancient city.
 - ✅ Lyrion's blood debt to [[Riknozz]]'s peaceful Drow sect: paid via aboleth slaying.
+- ✅ The **missing farmers of [[Fort Elm]]** ([[Victor Barun|Victor]]'s commission to [[Seren Moss|Seren]]): kidnapped by the fish people; resolved with the arc (see the Session 1 note above and [[Fort Elm]]).
 
 ## Unresolved / forward threads
 
-- The **missing farmers of [[Fort Elm]]** — Victor's commission to Seren remains an ongoing investigation thread.
 - The **eight mine disappearances at [[Ironheart Mines]]** in [[Stonewater]] — the next job; opens [[Bluefield Burning]] / [[Egg Hunt]].
 - The relationship between the [[Glyph Scar|Glyph War]] battlefield (varied-race skeletons with crest) and the [[Dagger of Strange Iconography|crested dagger]] / [[Coin of Strange Iconography|coin]] found near it — the crest's identity is unknown.
 - The **[[Stone Idol of Blibdoolpoolp]]** — patron god of the Kuo-Toa; its purpose in the cavern complex unclear.

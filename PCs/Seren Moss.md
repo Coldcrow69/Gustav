@@ -135,8 +135,6 @@ She participated in questioning Baldrin about the mine disappearances and murder
 
 At the tavern after the meeting, she sat beside [[Lyrion Thalor|Lyrion]] and tried to coax mild food into him to absorb the alcohol.
 
-More recently, Seren has taken on a more prominent role in strategizing their next steps. She has been seen coordinating with local leaders and gathering intelligence on the red dragon's movements. She has also developed a rapport with the firbolgs, who have become valuable allies in their efforts to protect the region. She continues to demonstrate commitment to her party and the safety of the people of [[Stonewater]].
-
 ## Egg Hunt — Session 30 (Dragons, Disguises, and Dilemmas, 2026-05-17)
 
 After Lyrion fell asleep the night before, Seren crept into [[Mike]]'s room, found him still unconscious from the road, **healed him quietly**, left a cold compress on his forehead, and slipped out without waking him. Mike was unaware of the visit when he woke the next morning.
