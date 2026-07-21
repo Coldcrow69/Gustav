@@ -4,7 +4,7 @@ A region of [[Azadin]]. A large expanse of jungle on the southern end of a large
 
 Lush and dense **woodlands**, punctuated by **rolling hills** and **imposing mountains** — a tapestry of nature's grandeur that defies taming. The air is thick with the intoxicating scents of **wildflowers and ancient trees**; the ground beneath one's feet seems to **pulse with an energy** that hints at the enchantment coursing through every fiber of this untamed expanse.
 
-`![[wilds sky.webp]]`
+![[wilds sky.webp]]
 
 ## Sky / atmospheric phenomenon
 

@@ -2,7 +2,7 @@ Full name: **Keva Moss**.
 
 One of **[[Gwyn Moss]]'s three sisters** (see [[The Aunties]]). [[Seren Moss|Seren]]'s adoptive aunt at the [[Shrine of Kelemvor]] in [[Fort Elm]].
 
-Reference image (supplemental): `![[Keva Moss.png]]`
+Reference image (supplemental): ![[Keva Moss.png]]
 
 ## Role
 

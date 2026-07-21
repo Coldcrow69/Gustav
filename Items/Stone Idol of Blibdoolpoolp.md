@@ -13,7 +13,7 @@ Found by [[Bell]] and [[Lyrion Thalor|Lyrion]] in an adjoining chamber during th
 - **Hefty.**
 - Sat on a **flat rock of marble or limestone**, placed in a specific location **so water drips onto it**.
 
-`![[fish idol.webp]]`
+![[fish idol.webp]]
 
 Visual reference: pair of small carved stone figurines, pale weathered limestone. Hunched humanoid posture with arms folded inward and head bowed. Stacked tiered base. Crude, primitive workmanship — reads as devotional / ritual object rather than ornamental statuary. Both figures show consistent shape, suggesting standardized cult production. Scale: hand-sized.
 

@@ -8,7 +8,7 @@ Player: **Breadlock**. Joined the party during the **2025-09-17 downtime** in [[
 - Height: **8'0"** (tallest of the party — by a wide margin)
 - Languages: **Common, Giant, Primordial**
 - Mental note: **poor INT stat** — relevant to his self-image (see below)
-- **Giant Form** — Mike can **grow one size larger** than his already-massive 8' frame. Used in [[Unearthing Dark Secrets - Session 31 - 2026-06-21|Session 31]] to scoop up the [[Elderly Dwarf Cleric (Stonewater)|elderly cleric]] and run her back to the [[Stonewater Sewers]].
+- **Giant Form** — Mike can **grow one size larger** than his already-massive 8' frame. Used in [[Unearthing Dark Secrets - Session 31 - 2026-06-21|Session 31]] to scoop up the [[Haceran Leadbreaker|elderly cleric]] and run her back to the [[Stonewater Sewers]].
 
 **Appearance** (party height chart): massive frame; **pale blue-white skin** with dark **tribal-style markings** across the face, scalp, torso, arms, and legs; **bald**, with only a small wisp of beard; gray fur-trimmed cape, armored cuirass with a central white ornament, and brown boots. The skin tone, height, and Primordial + Giant language profile read as **goliath / giant-lineage**.
 
@@ -49,3 +49,17 @@ When Lyrion apologized for nearly getting him killed, Mike said there was no nee
 ### The bark sample
 
 Mike had gone straight to bed the night before without bathing. The next morning Lyrion realized this and searched Mike's clothes for plant residue; he found a **[[Carnivorous Plant Bark Sample|small piece of bark]]** caught in the tuft of Mike's belt. Sample now in Lyrion's possession for analysis.
+
+## Egg Hunt — Session 32 (The First Egg, 2026-07-19)
+
+Full detail in [[The First Egg - Session 32 - 2026-07-19|the recap]]. Persistent developments for Mike:
+
+- Carried [[Haceran Leadbreaker]] back **out** of the [[Stonewater Sewers]] (the return trip of his Session 31 delivery run).
+- **Deputized** (with [[Lyrion Thalor|Lyrion]], [[Seren Moss|Seren]], and [[Thorn]]) by the [[Guard Captain (Stonewater)|guard captain]].
+- **Carried [[Seren Moss|Seren]] across the city** at speed for her hour-long egg-tracking sweep — smiling when told to make it a race.
+- At the [[Lakeside Junk Pile (Stonewater)|lakeside junk pile]], **crowbarred open the hidden wooden box** and now **carries the recovered [[Dragon Eggs|dragon egg]] in his backpack** — he discarded his bulky fur blankets to make room. Waved at the [[Dwarven Child (Stonewater Lakeside)|dwarven child]] watching from a window.
+
+### Inventory notes (as of Session 32)
+
+- Carries a **crowbar** and a **large backpack** — the backpack now holding the recovered **[[Dragon Eggs|dragon egg]]** in its protective padding.
+- **Fur blankets discarded** at the lakeside to make room for the egg.

@@ -18,4 +18,4 @@ A small collection of fan-art pieces by **Raine** (player of [[Seren Moss]]) dep
 
 ## Image attachment note
 
-The art files were delivered in `Raine's Crypt Keeper Drawings.zip`. To make the embeds across the vault resolve, place the PNGs in the vault's `Attachments/` folder keeping the exact filenames (`Moonlight Kiss.png`, `Forehead Kiss.png`, `Cuddles.png`, `Trapeze.png`, `Outsider.png`, `Party Night.png`, `Seren Dress Gradient.png`).
+The art files (`Moonlight Kiss.png`, `Forehead Kiss.png`, `Cuddles.png`, `Trapeze.png`, `Outsider.png`, `Party Night.png`, `Seren Dress Gradient.png`) are in the vault's `Attachments/` folder; embeds across the vault resolve from there.

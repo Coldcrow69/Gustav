@@ -28,11 +28,14 @@ The victims are **survivors of the [[Ironheart Mines]] cave-in**. The party's un
 
 ## Status
 
-Session 31 cliffhanger: the party contained the revenant in a [[Chained Stone Coffin]]; on opening it, the host body had **dissolved into a moving liquid** — destroyed in form but **not ended**. [[Seren Moss|Seren]] has volunteered to attempt **Banishment** the following day.
+Session 31 cliffhanger: the party contained the revenant in a [[Chained Stone Coffin]]; on opening it, the host body had **dissolved into a moving liquid** — destroyed in form but **not ended**.
+
+**As of [[The First Egg - Session 32 - 2026-07-19|Session 32]]: disembodied, at large.** The spirit abandoned its ruined host; per the warning [[Seren Moss|Seren]] gave the city guard, it can **re-form in another corpse within roughly half a day** in the city. Banishment remains impossible until the next in-fiction day — Seren's volunteered ritual is still pending. Countermeasures in motion: the [[Guard Captain (Stonewater)|guard captain]] is warning the **graveyard keepers**, [[Baldrin Stoneforge|Baldrin]] owes the party **lists of the cave-in's dead and survivors** (its remaining targets), and [[Eldrin Thalor|Eldrin]] carries a [[Vial of Decomposed Black Goo|sample of the coffin remains]]. The captain referred the party to **[[Havid]]** for the details of how Stonehammer originally died; Baldrin, asked directly, said the name **didn't immediately stand out to him**.
 
 ## Cross-references
 
 - [[Unearthing Dark Secrets - Session 31 - 2026-06-21]] — first appearance
+- [[The First Egg - Session 32 - 2026-07-19]] — disembodied; countermeasures begin
 - [[Ironheart Mines]] · [[Stoneforge Clan]] · [[Stonewater Sewers]] · [[Chained Stone Coffin]]
 - [[Murdered Mine Survivor (Stonewater Alley)]] — his Session 31 victim
 - [[Victor Barun]] — unrelated; do not confuse

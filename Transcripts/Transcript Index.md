@@ -6,9 +6,9 @@
 
 ## File location
 
-The transcript `.txt` files are in the upload zips `transcripts.zip` and `transcripts-c485c5b7.zip`. To make them browsable in the vault, copy them into the vault `Transcripts/` folder alongside this index. WhisperX produces five formats per session; `.txt` is the cleanest plain-text reading format.
+The transcript files themselves are **not committed to this repository** — the maintainer keeps them offline. This index maps each transcript's date to its campaign session so the raw text can be consulted on request. WhisperX produces five formats per session; `.txt` is the cleanest plain-text reading format.
 
-## Fish People era (`transcripts.zip`)
+## Fish People era
 
 | Date | Maps to | Coverage |
 |------|---------|----------|
@@ -24,7 +24,7 @@ The transcript `.txt` files are in the upload zips `transcripts.zip` and `transc
 | 2024-12-18 | Session 15 | Final-fight preparation; temple-night feast |
 | 2024-12-19 | Session 16 | Final aboleth battle |
 
-## Downtime + Bluefield Burning + pre-Egg Hunt (`transcripts-c485c5b7.zip`)
+## Downtime + Bluefield Burning + pre-Egg Hunt
 
 | Date | Maps to | Coverage |
 |------|---------|----------|
@@ -40,7 +40,7 @@ The transcript `.txt` files are in the upload zips `transcripts.zip` and `transc
 | 2026-02-15 | Bluefield battle aftermath | Recap of kobolds + half-dragon on Spark Beast; Kira met |
 | 2026-02-22 | Refugee Camp | Tome of Firbolg Spirit Communion; ritual; Lyrion named by spirit; Bell's Loa; flapping overhead |
 | 2026-03-01 | At the refugee camp | 20mi from Bluefield; half-dragon conversation; Bell at the river |
-| 2026-03-15 | *(unparsed in this pass)* | Continued travel south |
+| 2026-03-15 | *(not yet indexed)* | Continued travel south |
 | 2026-04-05 | Arrival at Iron Peaks foothills | Stow Sail la Vie; encounter anti-magic pocket east of Stonewater; Lyrion + Mike split |
 | 2026-04-12 | Caravan + fairy grove | Stonewater group meets [[Basil]]'s caravan; other group finds the fairy-tree |
 | 2026-05-03 | Final pre-Egg-Hunt session | Stonewater visible; **Lyrion → sheep** to escape fairy-tree; the "wizard battle" |

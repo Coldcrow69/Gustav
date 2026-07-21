@@ -4,7 +4,9 @@ A disembodied **dwarven torso** — no limbs and no head — found in the revena
 
 With no head, it **cannot be reached by Speak with Dead** ([[Seren Moss|Seren]]). It may be a **discarded former host** of the [[Victor Stonehammer]] revenant, or simply one of its kills — unresolved.
 
+**Session 32:** still in the den, **unmoved**, when [[Lyrion Thalor|Lyrion]] re-checked it after the [[Chained Stone Coffin]] was opened ([[The First Egg - Session 32 - 2026-07-19|recap]]). The disembodied revenant had not taken it as a host as of that check.
+
 ## Cross-references
 
 - [[Victor Stonehammer]] · [[Stonewater Sewers]]
-- [[Unearthing Dark Secrets - Session 31 - 2026-06-21]]
+- [[Unearthing Dark Secrets - Session 31 - 2026-06-21]] · [[The First Egg - Session 32 - 2026-07-19]]

@@ -11,12 +11,12 @@ Player: **Jenna**.
 
 Reference images (supplemental):
 
-- **Disguise / circus form**: `![[Thorn Disguise.jpeg]]` — brown hair in double-bun with red bow, human skin tone, full clown makeup (white face paint, red nose, red diamonds under the eyes), red-and-black striped puffy sleeves, white ruff, red corset, dark blue striped trousers, leather adventurer pouches.
-- **True form (Shapeshifter)**: `![[Thorn Real.jpeg]]` — silvery-white hair in double-bun with red bow, **grey-stippled skin**, **glowing pink/red eyes** with red tear-marks, drow-like pointed ears, black lipstick; black-and-red corseted vest over white-frilled chemise, dark leggings, leather adventurer accessories. Consistent with the "Drow-like" description from the [[Drow Elder]] reveal.
+- **Disguise / circus form**: ![[Thorn Disguise.jpeg]] — brown hair in double-bun with red bow, human skin tone, full clown makeup (white face paint, red nose, red diamonds under the eyes), red-and-black striped puffy sleeves, white ruff, red corset, dark blue striped trousers, leather adventurer pouches.
+- **True form (Shapeshifter)**: ![[Thorn Real.jpeg]] — silvery-white hair in double-bun with red bow, **grey-stippled skin**, **glowing pink/red eyes** with red tear-marks, drow-like pointed ears, black lipstick; black-and-red corseted vest over white-frilled chemise, dark leggings, leather adventurer accessories. Consistent with the "Drow-like" description from the [[Drow Elder]] reveal.
 
 ### Performance illustration (Raine)
 
-`![[Trapeze.png]]` — Thorn (in true form) suspended from a trapeze in performance, red costume with white ruff collar. Confirms **trapeze work** as part of the Twilight Masqueraders' act. See [[Raine's Crypt Keeper Art]].
+![[Trapeze.png]] — Thorn (in true form) suspended from a trapeze in performance, red costume with white ruff collar. Confirms **trapeze work** as part of the Twilight Masqueraders' act. See [[Raine's Crypt Keeper Art]].
 
 Shapeshifter capable of transforming into other beings. Mischievous demeanor; often snickering and planning to tease companions. Close relationship with [[Lyrion Thalor|Lyrion]]. Leader of a performing troupe (the **Twilight Masqueraders**).
 
@@ -52,3 +52,17 @@ Led the party through the streets of [[Stonewater]] (recorded as Ironforge in ch
 At [[Baldrin Stoneforge]]'s residence, Thorn raised concerns about potential conspiracies during the mine-murders discussion, emphasizing the need to examine previous incidents and the motivations of Baldrin's employees. She demonstrated her shapeshifting ability by transforming into the cart's wiry driver — skin aging, hair fading, features shifting — to show Baldrin the suspect's appearance.
 
 Has been staying at the tavern [[Good For What Ails Ya]], which offers beds and food. When [[Lyrion Thalor|Lyrion]] stumbled outside and vomited in the alley, Thorn (still disguised as Lyrion) cast **Mage Hand** to hold his hair back, teasing in Lyrion's own voice. After Lyrion screamed at seeing his own face and grabbed [[Gustav]], Thorn revealed herself, embraced him, and reassured him: "You're a very good wizard, and we love our friends and our brother." She then helped him clean up with Prestidigitation and brought him back inside.
+
+## Egg Hunt — Session 30 (Dragons, Disguises, and Dilemmas, 2026-05-17)
+
+- Introduced herself to [[Mike]] at breakfast — *"You must be the tall one they've been telling me about"* — and asked if he had ever considered show business (the exchange that led into the "Mike the Sorcerer" reveal).
+- Suggested [[Eldrin Thalor|Eldrin]] teach [[Lyrion Thalor|Lyrion]] to fight; noted [[Baldrin Stoneforge|Baldrin]] had kept framing his cooperation as a favor despite the party having helped save his town.
+- **Connected the mine murders to the cave-in**: Baldrin had said the bodies looked pickaxe-killed, and the victims were known **survivors of the recent cave-in** — the deduction that reframed the investigation. Argued the mines could surface useful intelligence before any approach to the [[Greybraids]].
+- Took [[Seren Moss|Seren]] upstairs and **built her disguise** — altering hair and makeup off Seren's usual blonde (finished as the **blue-skinned elf** look Seren wore through [[The First Egg - Session 32 - 2026-07-19|Session 32]]).
+
+## Egg Hunt — Session 32 (The First Egg, 2026-07-19)
+
+Full detail in [[The First Egg - Session 32 - 2026-07-19|the recap]]. Persistent developments for Thorn:
+
+- Went with the guard group to the third-tier Barracks and was **deputized** (with [[Lyrion Thalor|Lyrion]], [[Seren Moss|Seren]], and [[Mike]]) by the [[Guard Captain (Stonewater)|guard captain]] for the supernatural-murder investigation.
+- Returned to [[Good For What Ails Ya]] with Lyrion while Seren and Mike ran the egg-tracking sweep.

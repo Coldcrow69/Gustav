@@ -13,7 +13,7 @@ A **magical item** that takes one of two forms:
 
 ## Capacity (house rule)
 
-The item **traditionally holds 4** by standard rules. **House rule for this campaign**: Sail la Vie can hold the **entire player party** — whether that is 4, 8, or more — regardless of standard limits. (See [[!Crypt Keepers#House Rules|House Rules]].)
+The item **traditionally holds 4** by standard rules. **House rule for this campaign**: Sail la Vie can hold the **entire player party** — whether that is 4, 8, or more — regardless of standard limits. (See [[!Crypt Keepers|House Rules]].)
 
 ## Acquisition
 

@@ -2,7 +2,7 @@ Full name: **Ilsa Moss**.
 
 Full role: **Aunt Ilsa** — one of [[Gwyn Moss]]'s three sisters (see [[The Aunties]]) and a **Sister of [[Kelemvor]]** (cleric / temple worker) at the [[Shrine of Kelemvor]] in [[Fort Elm]].
 
-Reference image (supplemental): `![[Ilsa Moss.png]]`
+Reference image (supplemental): ![[Ilsa Moss.png]]
 
 ## Description
 

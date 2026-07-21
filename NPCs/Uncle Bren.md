@@ -1,6 +1,6 @@
 Full name: **Brenan Moss**. Goes by **Bren** (and "Uncle Bren" to [[Seren Moss|Seren]]).
 
-Reference image (supplemental): `![[Brenan Moss.jpg]]`
+Reference image (supplemental): ![[Brenan Moss.jpg]]
 
 [[Gwyn Moss]]'s brother. [[Seren Moss|Seren]]'s adoptive uncle. Helps keep the [[Shrine of Kelemvor]] in [[Fort Elm]] running alongside Gwyn and **[[The Aunties]]** (Ilsa, Keva, Anya).
 

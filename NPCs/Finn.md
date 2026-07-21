@@ -2,7 +2,7 @@
 
 **[[Rhaenyra]]'s companion animal.** A fox-like creature that accompanies the party but **does not fight**.
 
-`![[Finn.webp]]`
+![[Finn.webp]]
 
 ## Role
 

@@ -75,7 +75,7 @@ The dated entries below run from the post-[[Fish People]] Fort Elm downtime thro
 
 > — **Bluefield Burning ends here** (the party leaves the firbolg [[Refugee Camp]]). The entries below are the **opening travel leg of [[Egg Hunt]]**, kept here for chronological continuity. —
 
-- **3/15/26** — *(no recap accessible in this batch)*
+- **3/15/26** — *(no notes recovered for this date)*
 - **4/5/26** — Stowed the [[Sail la Vie]] in box form; walked into the [[Iron Peaks]] foothills; **found the [[Fairy Grove (Anti-Magic Pocket)|anti-magic pocket]]**.
 - **4/12/26** — Party split. Stonewater group met **[[Basil]]'s caravan**. The other group found the **fairy-disguised carnivorous plant**.
 - **5/3/26** — Stonewater group nearing the city. Other group: **plant tried to grab [[Mike]]; [[Lyrion Thalor|Lyrion]] Polymorphed himself into a sheep** (deliberate 4th-level cast) to escape; Mike eventually fled the fight and **carried sheep-Lyrion out**. Both barely survived. Full retelling on the [[Dragons, Disguises, and Dilemmas - Session 30 - 2026-05-17|Session 30]] page.

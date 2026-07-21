@@ -11,28 +11,28 @@ A set of **five hooded cloaks**, hand-prepared by **[[Seren Moss]]** as **partin
 
 **Deep purple velvet**, hooded, with **crescent moons and stars** embroidered down the front opening and along the crown of the hood. A lunar / witchy aesthetic — suits a firbolg of [[The Wilds]].
 
-`![[Cloak - Bell.png]]`
+![[Cloak - Bell.png]]
 
 ### [[Eldrin Thalor|Eldrin]]'s cloak
 
 **Emerald green velvet**, hooded, with intricate **gold/cream lace trim** running down the front opening and around the hood edge. Elegant, performer-grade — at home with his Twilight Masqueraders regalia.
 
-`![[Cloak - Eldrin.png]]`
+![[Cloak - Eldrin.png]]
 
 ### [[Lyrion Thalor|Lyrion]]'s cloak
 
 **Dark navy / near-black**, hooded, with **silver trim** and a wide **silver-grey fur-lined collar / shoulder mantle**. Scholar-elegant. Pairs with his blue scholar's robes.
 
-`![[Cloak - Lyrion.png]]`
+![[Cloak - Lyrion.png]]
 
 ### [[Mike]]'s cloak
 
 **Silver-grey crushed velvet**, hooded, with **thick dark grey fur trim** along the hood and the full length of the front opening. Massive — sized for his 8' frame. A frost-touched aesthetic that suits his giant-lineage build and Primordial/Giant language profile.
 
-`![[Cloak - Michael.png]]`
+![[Cloak - Michael.png]]
 
 ### [[Rhaenyra]]'s cloak
 
 **Dusty rose / pink** wool, hooded, with **gold-cream tapestry lace trim** along the front opening. Elegant and garden-toned — fitting her druid-style robes.
 
-`![[Cloak - Rhaenyra.png]]`
+![[Cloak - Rhaenyra.png]]

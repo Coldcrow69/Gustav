@@ -22,12 +22,13 @@ Player: **Chase** (handle "Pursuance").
 - **Mother** — **[[Endra Thalor]]**, **half-drow, half-high-elf**, light blue skinned; tortured and murdered by Drow.
 - **Brother** — [[Lyrion Thalor]], same parents.
 
-Reference images (supplemental): `![[Eldrin.png]]` and `![[Eldrin.jpg]]`
+Reference images (supplemental): ![[Eldrin.png]] and ![[Eldrin.jpg]]
 
 ## Notable possessions
 
 - **[[Rope of Mending]]** — gift from [[Victor Barun]] (9/24/25 at [[The Apple Thicket]])
 - **[[Seren's Cloaks|Eldrin's cloak]]** — emerald green velvet with gold lace trim; gift from [[Seren Moss|Seren]] prior to Bluefield Burning departure
+- **[[Vial of Decomposed Black Goo]]** — sample of the [[Victor Stonehammer]] revenant's liquefied remains, collected from the [[Chained Stone Coffin]] in [[The First Egg - Session 32 - 2026-07-19|Session 32]]; analysis pending
 
 Brother to [[Lyrion Thalor]]. Member of the **Twilight Masqueraders**, a group of performers-turned-adventurers.
 
@@ -63,3 +64,12 @@ When [[Thorn]] took [[Seren Moss|Seren]] upstairs for a disguise, Eldrin agreed 
 - Closed the moment by telling Lyrion that [[Seren Moss|Seren]] had been frightened for him even if she would not say so. The brothers embraced in a long hug.
 
 Lyrion remarked on the way out of the alley that **[[Rhaenyra]] was clearly interested in Eldrin as more than a friend** — Eldrin's reaction not yet recorded. A frightened nearby scream then drew Eldrin to **a [[Dwarven Woman (Stonewater Pickaxe Body)|dwarven woman]] crouched over a pickaxe-killed corpse**; he moved toward the sound first, Lyrion followed.
+
+## Egg Hunt — Session 32 (The First Egg, 2026-07-19)
+
+Full detail in [[The First Egg - Session 32 - 2026-07-19|the recap]]. Persistent developments for Eldrin:
+
+- At the opened [[Chained Stone Coffin]], **collected the [[Vial of Decomposed Black Goo|goo sample]]** (vial supplied by [[Lyrion Thalor|Lyrion]]); he carries it, analysis pending.
+- Before the party split, Lyrion told him **explosions would be the signal** if things went wrong — *"I'll be there."*
+- Went with [[Rhaenyra]] and [[Bell]] to [[Baldrin Stoneforge|Baldrin]]'s manor (assigned the **sweet-talk** angle): accepted the offered refreshments and **sampled the alcohol with visible suspicion**, received the [[Mine Pass|mine writs]], and was escorted to the collapsed tunnel in the [[Ironheart Mines]].
+- Asked Baldrin directly whether the name **[[Victor Stonehammer]]** meant anything to him — it did not immediately stand out.

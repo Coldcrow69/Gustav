@@ -63,10 +63,10 @@ Concern Seren carries privately about him: that he might **prioritize knowledge 
 
 ### Illustrations (Raine)
 
-- `![[Moonlight Kiss.png]]` — the first kiss in [[Fort Elm Park]]
-- `![[Forehead Kiss.png]]` — Seren kissing Lyrion's forehead (Lyrion is depicted **wearing glasses** in this piece, a small visual detail not captured elsewhere)
-- `![[Cuddles.png]]` — Seren and Lyrion nuzzling
-- `![[Party Night.png]]` — drunk Lyrion at the tavern with sparklers and Seren on the floor (likely the [[Egg Hunt|Session 29]] tavern scene)
+- ![[Moonlight Kiss.png]] — the first kiss in [[Fort Elm Park]]
+- ![[Forehead Kiss.png]] — Seren kissing Lyrion's forehead (Lyrion is depicted **wearing glasses** in this piece, a small visual detail not captured elsewhere)
+- ![[Cuddles.png]] — Seren and Lyrion nuzzling
+- ![[Party Night.png]] — drunk Lyrion at the tavern with sparklers and Seren on the floor (likely the [[Egg Hunt|Session 29]] tavern scene)
 
 See [[Raine's Crypt Keeper Art]] for the full catalog.
 
@@ -102,3 +102,13 @@ While [[Thorn]] took [[Seren Moss|Seren]] upstairs for a disguise, Lyrion invite
 - **Reconciliation.** Lyrion broke down crying, admitted Eldrin was right, called him *"my greatest research assistant and the greatest brother I have ever had,"* and apologized for being stupid and self-absorbed. Eldrin replied that geniuses were said to be that way, and added that Seren had been frightened for him even if she would not say so. Lyrion said he had been able to tell, stood, and the brothers embraced in a long hug.
 
 As they started to leave the alley Lyrion remarked that **even he could tell [[Rhaenyra]] was interested in Eldrin as more than a friend**. A frightened human voice nearby then drew both brothers toward **a [[Dwarven Woman (Stonewater Pickaxe Body)|dwarven woman]] crouched over a pickaxe-killed corpse** — cliffhanger.
+
+## Egg Hunt — Session 32 (The First Egg, 2026-07-19)
+
+Full detail in [[The First Egg - Session 32 - 2026-07-19|the recap]]. Persistent developments for Lyrion:
+
+- At the opened [[Chained Stone Coffin]], checked the revenant's den (the [[Severed Dwarven Torso|torso]] unmoved) and **supplied the empty vial** [[Eldrin Thalor|Eldrin]] used to sample the goo ([[Vial of Decomposed Black Goo]]).
+- Argued the urgent task was **identifying the cave-in survivors** — the revenant's remaining targets — and floated **using survivors as bait** (limited enthusiasm from the group).
+- Proposed putting the investigation on **official footing** first — the plan that produced the party's **deputization** by the [[Guard Captain (Stonewater)|guard captain]] (Lyrion, [[Seren Moss|Seren]], [[Mike]], [[Thorn]] by name).
+- Told Eldrin before the split: **"explosions would be the signal"** if things went wrong.
+- Returned to [[Good For What Ails Ya]] with [[Thorn]] while Seren and Mike ran the egg-tracking sweep.

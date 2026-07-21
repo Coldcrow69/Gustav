@@ -2,7 +2,7 @@
 
 The **central building** of [[The Ancient Ruined City]], beneath [[Fort Elm]]. Lair of the [[The Undead Aboleth|undead aboleth]] until its slaying.
 
-`![[cathedral aboleth.webp]]`
+![[cathedral aboleth.webp]]
 
 ## Visual reference
 

@@ -8,7 +8,7 @@ A tavern located in the lower district of [[Stonewater]] (recorded as Ironforge 
 
 [[Mike]] and [[Lyrion Thalor]] arrived ahead of the rest of the party — Mike went straight to bed upstairs to rest; Lyrion remained at the bar (served by **[[Nastrin]]**) drinking sparkler-adorned festive drinks while waiting. The rest of the party joined after their audience with [[Baldrin Stoneforge]]. [[Lyrion Thalor|Lyrion]] vomited in the alley outside; [[Thorn]] (disguised as Lyrion) tended to him with Mage Hand and later revealed herself. The group ordered dinner and bread, confirmed Mike was sleeping upstairs, and secured rooms for the night, planning to resume in the morning.
 
-Canonical illustration (Raine): `![[Party Night.png]]` — Lyrion collapsed across the bar with sparklers floating around his head and a calligraphic "Seren" in the air; Seren sitting on the floor on the right with a drink. See [[Raine's Crypt Keeper Art]].
+Canonical illustration (Raine): ![[Party Night.png]] — Lyrion collapsed across the bar with sparklers floating around his head and a calligraphic "Seren" in the air; Seren sitting on the floor on the right with a drink. See [[Raine's Crypt Keeper Art]].
 
 ## Session 30 — Morning planning (2026-05-17)
 

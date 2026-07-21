@@ -195,7 +195,7 @@ Reading order:
 - Combat continues; Lyrion fireballs; Eldrin fires arrows; Seren breaks the charm.
 - Aboleth slain by [[Lyrion Thalor|Lyrion]]'s decisive fireball.
 - [[Bell]] dives the pit for the [[Spell Scroll Case (Aboleth Pit)|scroll case]]; [[Teron]] guided by [[Mystra]] to the altar — recovers spell scrolls, the mahogany box ([[Sail la Vie]]), and the 5,400 gp coin sack.
-- **[[Thorn]] recognizes the box as a transforming boat**. Standard rules cap capacity at 4, but a **house rule** lets it carry the whole party (see [[Sail la Vie]] and [[!Crypt Keepers#House Rules|House Rules]]).
+- **[[Thorn]] recognizes the box as a transforming boat**. Standard rules cap capacity at 4, but a **house rule** lets it carry the whole party (see [[Sail la Vie]] and [[!Crypt Keepers|House Rules]]).
 - Return to [[Fort Elm]]: guard salute, 3,000 gp council bounty.
 
 → From here the [[Fish People|DM arc summary]] is the authoritative narrative for the full sweep; the [[Transcripts/Transcript Index]] points to the raw WhisperX transcripts if you want to spot-check any specific moment.

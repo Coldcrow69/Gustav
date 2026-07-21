@@ -3,7 +3,7 @@ Aliases / variant spellings: **Gwen** (in older player-character-sheet notes).
 
 [[Seren Moss]]'s adoptive mother. **Shrinekeeper of [[Kelemvor]]** at the [[Shrine of Kelemvor]] in [[Fort Elm]]. Her surname is the family name Seren carries. Per DM narrative, the Moss family is described as "an aging human family."
 
-Reference image (supplemental): `![[Gwyn Moss.png]]`
+Reference image (supplemental): ![[Gwyn Moss.png]]
 
 ## Description
 

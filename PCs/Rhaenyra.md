@@ -43,3 +43,11 @@ Reminded the group that [[Baldrin Stoneforge|Baldrin]] was expecting them that m
 ### Interest in Eldrin — noted by Lyrion
 
 On their way out of the alley after the brothers' reconciliation, [[Lyrion Thalor|Lyrion]] remarked to [[Eldrin Thalor|Eldrin]] that **even he could tell Rhaenyra was interested in Eldrin as more than a friend**. Rhaenyra's side of this — whether her interest is overt or carefully held — has not yet been recorded on the page. Eldrin's reaction also not yet recorded.
+
+## Egg Hunt — Session 32 (The First Egg, 2026-07-19)
+
+Full detail in [[The First Egg - Session 32 - 2026-07-19|the recap]]. Persistent developments for Rhaenyra:
+
+- Surveyed the revenant's den off the [[Chained Stone Coffin]] chamber: basic cleaning and maintenance gear, including **unmarked pickaxes** — none bearing the [[Stoneforge Clan]] insignia of the murder weapon. Considered **resealing the coffin** but had **no shaping magic left** that day (Stone Shape spent in Session 31).
+- Went with [[Eldrin Thalor|Eldrin]] and [[Bell]] to [[Baldrin Stoneforge|Baldrin]]'s manor for the [[Mine Pass|mine writs]], then down to the **collapsed tunnel** in the [[Ironheart Mines]].
+- Studied the collapse and **summoned a small spider**, proposing to scout it through the cracks to the far side — **not yet sent** when the session ended. Asked whether the caverns beyond were easy to get lost in.

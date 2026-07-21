@@ -13,7 +13,7 @@ Player: **Raine**.
 
 **Appearance** (party height chart, off-duty): fair skin, blonde hair styled in a crown braid, dressed in trim dark/black fitted clothing — understated and practical. (Half-plate-with-tabard is her adventuring gear, not her everyday wear.)
 
-Reference image (supplemental): `![[Seren Moss.png]]`
+Reference image (supplemental): ![[Seren Moss.png]]
 
 Clad in half-plate armor adorned with a tabard — described as clanky, indicating the armor may be somewhat cumbersome. Party companion of [[Lyrion Thalor]] (current romantic partner — see Current relationship below; they are **not related** by blood or otherwise). Capable of magical communication via the Sending spell.
 
@@ -81,15 +81,15 @@ The night after the **dragon attack on [[Bluefield]]**, while camped on the deck
 
 ### Illustrations (Raine)
 
-- `![[Moonlight Kiss.png]]` — the first kiss in [[Fort Elm Park]]
-- `![[Forehead Kiss.png]]` — Seren kissing Lyrion on the forehead (Lyrion shown wearing glasses)
-- `![[Cuddles.png]]` — Seren and Lyrion nuzzling
+- ![[Moonlight Kiss.png]] — the first kiss in [[Fort Elm Park]]
+- ![[Forehead Kiss.png]] — Seren kissing Lyrion on the forehead (Lyrion shown wearing glasses)
+- ![[Cuddles.png]] — Seren and Lyrion nuzzling
 
 See [[Raine's Crypt Keeper Art]] for the full catalog.
 
 ### Solo illustration
 
-`![[Seren Dress Gradient.png]]` — Seren in a flowing pale-blue gown.
+![[Seren Dress Gradient.png]] — Seren in a flowing pale-blue gown.
 
 ## Fish People arc
 
@@ -146,3 +146,13 @@ When the group debated splitting up, Seren said she did not like the idea but ad
 ### Disguise request
 
 Turned to [[Thorn]] and asked for a disguise — *"Do you still have your disguise kit? Do you think you could make me look different?"* — Thorn took her by the hand and pulled her upstairs to alter her hair and makeup, moving her **off her usual blonde**.
+
+**The finished disguise**: a **blue-skinned elf**, her coloring recalling [[Lyrion Thalor|Lyrion]]'s. (It was still half-finished — coloring only — when she was called to the Session 31 alley scene; she wore the full disguise **throughout [[The First Egg - Session 32 - 2026-07-19|Session 32]]**. The archivist misread this as Seren "transitioning to a human cleric" — wrong on both counts; it is Thorn's disguise work, and the party gave no cover names because no one asked for any.)
+
+## Egg Hunt — Session 32 (The First Egg, 2026-07-19)
+
+Full detail in [[The First Egg - Session 32 - 2026-07-19|the recap]]. Persistent developments for Seren:
+
+- Warned the [[Guard Captain (Stonewater)|city guard]] that the [[Victor Stonehammer]] revenant can **re-form in another corpse in roughly half a day**, and that **Banishment can't be attempted until the next day** — her volunteered ritual is still pending.
+- **Deputized** (with [[Lyrion Thalor|Lyrion]], [[Mike]], and [[Thorn]]) by the [[Guard Captain (Stonewater)|guard captain]] for the supernatural-murder investigation.
+- Ran her **hour-long egg-tracking spell** across the city, carried by [[Mike]]: cleared the [[Greybraids]]' holdings, found **one egg** in the [[Lakeside Junk Pile (Stonewater)|lakeside junk pile]] (recovered — she located the hidden box; [[Mike]] crowbarred it open and stowed the egg in his backpack) and **two eggs** at the [[Cliffside Mansion (Stonewater)|cliffside mansion]] (unapproached). She floated the **smuggler-cache** theory for the junk-pile egg.

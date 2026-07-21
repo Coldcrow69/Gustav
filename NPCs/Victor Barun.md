@@ -4,7 +4,7 @@ Aliases / variant spellings recorded: **Braun**, **Victor Barron**.
 
 A **middle-aged, rotund, kind and jolly fellow** — always one to help in a time of need. A **wealthy retired Fishing Mogul** who runs (or rather, ran) a fishing operation in [[Fort Elm]] and is a **popular figurehead** in town. A mutual friend of the entire party — each PC was individually invited to his gathering, the [[Prologue]] hook.
 
-`![[victor barun.webp]]`
+![[victor barun.webp]]
 
 **Appearance reference**: an older man with a full head of **thick silver-white hair** and a **long, well-kept white beard with a darker grey moustache**. Bright, kindly eyes set in a weathered, ruddy face with deep laugh lines. Open-collared shirt under a fisherman's blue overshirt. The portrait reads warm and grandfatherly — consistent with the "kind and jolly fellow" written record.
 

@@ -2,7 +2,7 @@ A Dwarf fortress at the SW base of [[Iron Peaks|The Iron Peaks]]. Major city and
 
 Aliases recorded by chroniclers: **Stoneforge**, **Ironforge** (all refer to this city in Session 29 records).
 
-`![[Stone_Water.jpg]]`
+![[Stone_Water.jpg]]
 
 ## City map (top-down)
 
@@ -33,3 +33,5 @@ The [[Ironheart Mines]], overseen by [[Baldrin Stoneforge]], are a significant p
 The city has been affected by the destruction of [[Bluefield]] by the **multi-headed red dragon** [[The God Of The Iron Peaks]]. There are concerns regarding a [[Captured Half-Dragon]] and the theft of dragon eggs. [[Rhaenyra]] warned that Stonewater could be destroyed if the eggs are not recovered. A suspicious caravan with unfamiliar travelers has also been reported, prompting requests for assistance in tracking it down.
 
 [[Lyrion Thalor]] and [[Mike]] arrived in Stonewater ahead of the rest of the party, going to the tavern [[Good For What Ails Ya]] in the lower district to await them.
+
+**As of [[The First Egg - Session 32 - 2026-07-19|Session 32]]:** the revenant is **disembodied but expected to re-form within roughly half a day**; the [[Guard Captain (Stonewater)|city guard captain]] has **deputized** [[Lyrion Thalor|Lyrion]], [[Seren Moss|Seren]], [[Mike]], and [[Thorn]] for the investigation and is warning the **graveyard keepers**. [[Seren Moss|Seren]]'s egg-tracking sweep of the city found **one dragon egg in a [[Lakeside Junk Pile (Stonewater)|lakeside junk pile]]** (recovered — see [[Dragon Eggs]]) and **two more at an abandoned [[Cliffside Mansion (Stonewater)|cliffside mansion]]** (not yet approached); the [[Greybraids]]' holdings showed no eggs.

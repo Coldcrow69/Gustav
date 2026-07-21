@@ -2,7 +2,7 @@ Full name: **Anya Moss**.
 
 One of **[[Gwyn Moss]]'s three sisters** (see [[The Aunties]]). [[Seren Moss|Seren]]'s adoptive aunt at the [[Shrine of Kelemvor]] in [[Fort Elm]].
 
-Reference image (supplemental): `![[Anya Moss.png]]`
+Reference image (supplemental): ![[Anya Moss.png]]
 
 ## Role
 

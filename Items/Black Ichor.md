@@ -4,7 +4,11 @@ A **black, goo-like ichor** found mixed with the blood of the [[Murdered Mine Su
 
 It left a **trail of droplets that, unnaturally, never changed size** — neither clotting nor bleeding out — which [[Eldrin Thalor|Eldrin]] tracked from the alley to a **[[Stonewater Sewers|sewer]] grate**, with a larger pool at the bottom leading toward the creature's den. It is the residue of the **revenant** of [[Victor Stonehammer]] — in effect, its decayed "blood."
 
+## Possible relation
+
+The **liquefied remains** left in the [[Chained Stone Coffin]] after the revenant's host dissolved (the "decomposed black goo," sampled by [[Eldrin Thalor|Eldrin]] in [[The First Egg - Session 32 - 2026-07-19|Session 32]] — see [[Vial of Decomposed Black Goo]]) may be the same substance in bulk. **Not confirmed**; kept distinct pending analysis.
+
 ## Cross-references
 
-- [[Victor Stonehammer]] · [[Stonewater Sewers]] · [[Murdered Mine Survivor (Stonewater Alley)]]
+- [[Victor Stonehammer]] · [[Stonewater Sewers]] · [[Murdered Mine Survivor (Stonewater Alley)]] · [[Vial of Decomposed Black Goo]]
 - [[Unearthing Dark Secrets - Session 31 - 2026-06-21]]

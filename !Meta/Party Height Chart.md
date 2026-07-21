@@ -16,7 +16,7 @@ Reference chart of the active party's heights, shortest to tallest.
 
 ## Embed
 
-`![[Party Height Chart.png]]`
+![[Party Height Chart.png]]
 
 Single canonical chart. An earlier near-duplicate (`Height Chart.png`) was consolidated into this one — same 7-PC lineup, same poses, trivial margin differences — and has since been removed.
 

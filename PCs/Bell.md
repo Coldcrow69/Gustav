@@ -13,11 +13,11 @@ Player: **Molly**.
 
 **Appearance** (party height chart): tall, freckled, light teal/green skin, long **purple/black** hair worn loose; dressed in a belted brown tunic and earthy cloak. Relaxed stance.
 
-Reference image (supplemental): `![[Bell.jpg]]`
+Reference image (supplemental): ![[Bell.jpg]]
 
 ### Solo illustration (Raine)
 
-`![[Outsider.png]]` — Bell alone at a city wall at twilight, arms crossed, contemplative. Embodies the DM framing: *"a solitary firbolg dancing on the line between the safety of [[Fort Elm]] and the dangerous bounty of [[The Wilds]]."* See [[Raine's Crypt Keeper Art]].
+![[Outsider.png]] — Bell alone at a city wall at twilight, arms crossed, contemplative. Embodies the DM framing: *"a solitary firbolg dancing on the line between the safety of [[Fort Elm]] and the dangerous bounty of [[The Wilds]]."* See [[Raine's Crypt Keeper Art]].
 
 **Secret:** While raging, has a different appearance — more bestial, sharp teeth and claws, shadows in the eyes, grows a small tail.
 
@@ -54,7 +54,8 @@ During the deeper descent Bell tried **Beast Speech** on the cavern slime/foam �
 
 **Loot dive.** After the aboleth's death, **Bell dove into the pit** to see if anything was worth scavenging — and retrieved a [[Spell Scroll Case (Aboleth Pit)|spell scroll case]] Lyrion judged to be very valuable and powerful.
 
-## Egg Hunt — Sessions 30–31 (Stonewater)
+## Egg Hunt — Sessions 30–32 (Stonewater)
 
 - **Session 30** ([[Dragons, Disguises, and Dilemmas - Session 30 - 2026-05-17|recap]]): observed that **both the egg-theft and the mine-killings revolved around [[Stonewater]]**. During the split-up debate, warned that several party members had already been seen by the suspicious cart's occupants — but [[Lyrion Thalor|Lyrion]] and [[Mike]] had not.
 - **Session 31** ([[Unearthing Dark Secrets - Session 31 - 2026-06-21|recap]]): in the [[Stonewater Sewers]], handed [[Mike]] a healing potion during the approach. When the [[Victor Stonehammer]] revenant emerged, it **marked Bell** — *"You will not stop me from my prey"* — significance unresolved. After [[Seren Moss|Seren]]'s Turn Undead incapacitated the creature, Bell **grappled it and shoved it prone**, enabling the party to bind it for the [[Chained Stone Coffin]].
+- **Session 32** ([[The First Egg - Session 32 - 2026-07-19|recap]]): with the revenant disembodied, pushed to **notify the guards, the city's churches, and the gravekeepers** — every corpse in the city being a potential host. Went with [[Eldrin Thalor|Eldrin]] and [[Rhaenyra]] to [[Baldrin Stoneforge|Baldrin]]'s manor and the collapsed tunnel; **pressed Baldrin into agreeing to provide complete lists of the cave-in's dead and surviving miners** — the survivors being the revenant's remaining targets.

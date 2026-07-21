@@ -8,4 +8,4 @@ A **park within [[Fort Elm]]** — open enough to walk through and see the stars
 
 The encounter is one of the memories Seren reached for the night she decided she loved him.
 
-Canonical illustration (Raine): `![[Moonlight Kiss.png]]` — Lyrion in white/light robe (possibly [[Shiftweave Robe|Shiftweave variant 5]]) and Seren in a long blue gown, embraced under a deep blue night sky. See [[Raine's Crypt Keeper Art]].
+Canonical illustration (Raine): ![[Moonlight Kiss.png]] — Lyrion in white/light robe (possibly [[Shiftweave Robe|Shiftweave variant 5]]) and Seren in a long blue gown, embraced under a deep blue night sky. See [[Raine's Crypt Keeper Art]].
