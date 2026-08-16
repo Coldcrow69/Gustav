@@ -109,6 +109,21 @@ Full detail in [[The First Egg - Session 32 - 2026-07-19|the recap]]. Persistent
 
 - At the opened [[Chained Stone Coffin]], checked the revenant's den (the [[Severed Dwarven Torso|torso]] unmoved) and **supplied the empty vial** [[Eldrin Thalor|Eldrin]] used to sample the goo ([[Vial of Decomposed Black Goo]]).
 - Argued the urgent task was **identifying the cave-in survivors** — the revenant's remaining targets — and floated **using survivors as bait** (limited enthusiasm from the group).
-- Proposed putting the investigation on **official footing** first — the plan that produced the party's **deputization** by the [[Guard Captain (Stonewater)|guard captain]] (Lyrion, [[Seren Moss|Seren]], [[Mike]], [[Thorn]] by name).
+- Proposed putting the investigation on **official footing** first — the plan that produced the party's **deputization** by the [[Captain Grazug|guard captain]] (Lyrion, [[Seren Moss|Seren]], [[Mike]], [[Thorn]] by name).
 - Told Eldrin before the split: **"explosions would be the signal"** if things went wrong.
-- Returned to [[Good For What Ails Ya]] with [[Thorn]] while Seren and Mike ran the egg-tracking sweep.
+- Returned to [[Good For What Ails Ya]] with [[Thorn]] while Seren and Mike ran the egg-tracking sweep — detouring en route to the [[Greybraid Manor (Stonewater)|Greybraid Manor]] gate (that stop was played out in [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02|Session 33]]; see below).
+
+## Egg Hunt — Session 33 (Dragons, Deceit, and Dark Forces, 2026-08-02)
+
+> ### ⚰️ STATUS: DEAD — Revivify countdown running
+>
+> Lyrion **died at the end of Session 33**, on the floor of the [[Cliffside Mansion (Stonewater)|cliffside manor]]: dropped by the [[Bald Mage (Cliffside Mansion)|bald mage]]'s wand bolts, a death save failed only because of **lingering [[Fairy Grove (Anti-Magic Pocket)|carnivorous-plant-fight]] exhaustion** (rolled 11 — enough, without the penalty), and a cultist's sword driven into him where he lay. **Next session opens with a ten-round (one-minute) Revivify window**; [[Seren Moss|Seren]] carries the [[Powerful Diamond|five-carat diamond]] and the spell, and is two floors away in the dark. [[Bell]] stands over his body.
+
+Full detail in [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02|the recap]]. His last day's work, in order:
+
+- At the [[Greybraid Manor (Stonewater)|Greybraid Manor]] gate (with [[Thorn]]): presented the [[Writ of Deputization]], asked for someone who deals with the [[Stoneforge Clan]], routed any reply through [[Captain Grazug]] — and fished with the observation that shared information could serve the **patriarch [[Kassadren]]'s** dealings with Stoneforge.
+- Lost himself in the recovered **[[Dragon Eggs|dragon egg]]** at the tavern — Gustav out, sketching, measuring, *"our dragon egg."*
+- **Forged the [[Broader Warrant]]** with [[Gustav]] at [[Seren Moss|Seren]]'s request (*"Gustav and I do love a small act of forgery here and there"*) — and hid a rake-step in the same hour, telling half-elf Seren her human features were his favorite thing about her.
+- At the manor: announced the party as **Stonewater Guard**, accused the [[Acolytes of Oghma|sect]] outright of harboring the [[Aberration (Cliffside Mansion)|aberration]] and the stolen eggs, and presented real writ and forged warrant together.
+- In the fight: **Misty Step** onto the table, Gustav floating beside him, ozone in the air — *"Stand down your men or you'll all die here."* Upcast **Witch Bolt** tore the [[Cult Elder (Cliffside Mansion)|Elder]]'s shoulder open; a **Counterspell** (*"Silence!"*) ate the Elder's casting; a second Witch Bolt chased him from the room.
+- Then the northern door, the bald mage, three wand bolts, and the floor.

@@ -10,7 +10,7 @@ A clan-affiliated armed force. A sector of the **Stoneforge Guard** had **corner
 
 ## Note on the alley guards
 
-The guards who secured the Session 31 alley scene were a **different** force, in colors the party did **not** recognize (not Stoneforge, not [[Greybraids]]). They are based at the **third-tier Barracks** and reopened the murder investigation.
+The guards who secured the Session 31 alley scene were a **different** force, in colors the party did **not** recognize (not Stoneforge, not [[Greybraids]]) — since identified as the **Stonewater Guard**, the city force under [[Captain Grazug]], based at the **third-tier Barracks**. They reopened the murder investigation and later deputized half the party.
 
 ## Cross-references
 

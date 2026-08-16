@@ -2,7 +2,7 @@
 
 > **Not yet met.** A referral only, as of [[The First Egg - Session 32 - 2026-07-19|Session 32]].
 
-A man described as **knowledgeable about the [[Ironheart Mines]]**. The [[Guard Captain (Stonewater)|Stonewater guard captain]] directed the party to him for the details of **how [[Victor Stonehammer]] died** — the killing by the [[Stoneforge Clan|Stoneforge Guard]] that preceded Stonehammer's return as a revenant.
+A man described as **knowledgeable about the [[Ironheart Mines]]**. The [[Captain Grazug|Stonewater guard captain]] directed the party to him for the details of **how [[Victor Stonehammer]] died** — the killing by the [[Stoneforge Clan|Stoneforge Guard]] that preceded Stonehammer's return as a revenant.
 
 Nothing else is recorded: role, residence, and connection to the mines are all unknown.
 
@@ -10,6 +10,6 @@ Nothing else is recorded: role, residence, and connection to the mines are all u
 
 ## Cross-references
 
-- [[Guard Captain (Stonewater)]] — the referral
+- [[Captain Grazug]] — the referral
 - [[Victor Stonehammer]] · [[Ironheart Mines]]
 - [[The First Egg - Session 32 - 2026-07-19]]

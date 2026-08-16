@@ -8,7 +8,7 @@ The bound, blindfolded revenant was set on the stone; the lid was grown over it 
 
 Inside, the creature snapped its ropes, then fell silent. On opening, the coffin held only a **moving liquid** — the host body had **dissolved**, the revenant not yet ended.
 
-**Session 32:** the contents were **still shifting** when examined. [[Eldrin Thalor|Eldrin]] collected a [[Vial of Decomposed Black Goo|vial of the goo]] (vial supplied by [[Lyrion Thalor|Lyrion]]); [[Rhaenyra]] considered resealing the coffin but had no shaping magic left that day. The coffin and its remains sit in the revenant's former den in the [[Stonewater Sewers]]; the spirit itself is understood to have **abandoned the remains** to re-form elsewhere (see [[Victor Stonehammer]]).
+**Session 32:** the contents were **still shifting** when examined. [[Eldrin Thalor|Eldrin]] collected a [[Vial of Decomposed Black Goo|vial of the goo]] (vial supplied by [[Lyrion Thalor|Lyrion]]); the **chain showed wear at its contact points** with the stone (the thing had strained against it before dissolving); [[Rhaenyra]] considered resealing the coffin but had no shaping magic left that day. The coffin and its remains sit in the revenant's former den in the [[Stonewater Sewers]]; the spirit itself is understood to have **abandoned the remains** to re-form elsewhere (see [[Victor Stonehammer]]).
 
 ## Cross-references
 

@@ -18,7 +18,7 @@ Two [[Egg Hunt]] threads were associated with the clan — though [[Unearthing D
 
 ## City-guard context (Session 32)
 
-The [[Guard Captain (Stonewater)|Stonewater guard captain]], asked about the clan: the Greybraids **depend on the mines**, the clan and the [[Stoneforge Clan|Stoneforge]] side **have a history**, and **nothing severe has happened between them very recently**.
+The [[Captain Grazug|Stonewater guard captain]], asked about the clan: the Greybraids **depend on the mines**, the clan and the [[Stoneforge Clan|Stoneforge]] side **have a history**, and **nothing severe has happened between them very recently**.
 
 ## Operational posture
 

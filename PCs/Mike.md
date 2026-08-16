@@ -55,11 +55,24 @@ Mike had gone straight to bed the night before without bathing. The next morning
 Full detail in [[The First Egg - Session 32 - 2026-07-19|the recap]]. Persistent developments for Mike:
 
 - Carried [[Haceran Leadbreaker]] back **out** of the [[Stonewater Sewers]] (the return trip of his Session 31 delivery run).
-- **Deputized** (with [[Lyrion Thalor|Lyrion]], [[Seren Moss|Seren]], and [[Thorn]]) by the [[Guard Captain (Stonewater)|guard captain]].
+- **Deputized** (with [[Lyrion Thalor|Lyrion]], [[Seren Moss|Seren]], and [[Thorn]]) by the [[Captain Grazug|guard captain]].
 - **Carried [[Seren Moss|Seren]] across the city** at speed for her hour-long egg-tracking sweep — smiling when told to make it a race.
 - At the [[Lakeside Junk Pile (Stonewater)|lakeside junk pile]], **crowbarred open the hidden wooden box** and now **carries the recovered [[Dragon Eggs|dragon egg]] in his backpack** — he discarded his bulky fur blankets to make room. Waved at the [[Dwarven Child (Stonewater Lakeside)|dwarven child]] watching from a window.
 
-### Inventory notes (as of Session 32)
+## Egg Hunt — Session 33 (Dragons, Deceit, and Dark Forces, 2026-08-02)
 
-- Carries a **crowbar** and a **large backpack** — the backpack now holding the recovered **[[Dragon Eggs|dragon egg]]** in its protective padding.
-- **Fur blankets discarded** at the lakeside to make room for the egg.
+Full detail in [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02|the recap]]. Persistent developments for Mike:
+
+- Delivered the **[[Dragon Eggs|egg]]** to the tavern and unpacked it for the party; set a **small minecart he had stolen somewhere along the way** beside it — *"giving the baby a toy."* Offered his fire to keep the egg warm (the [[Black Thermal Cube]] was judged safer).
+- At the [[Cliffside Mansion (Stonewater)|cliffside manor]]: "picked" the front-door lock by bursting it open; **kicked down the cellar door and killed [[Vil]]** on the stairs — head slammed into the steps, dead instantly; ducked through the cellar **fire blast** untouched; dropped another cultist with a heavy right cross (skull-bleeding, presumed dead); answered [[Lyrion Thalor|Lyrion]]'s fall with **radiant sunbolts** that rocked but did not drop the [[Bald Mage (Cliffside Mansion)|bald mage]].
+- **Motive on the record**: Mike has carried his anger since **[[Bluefield]]** — he tried to save those people, and the dragons killed them anyway. The cultists caught the wrath.
+
+### Lingering condition
+
+- **Exhaustion** (confirmed by the maintainer): like [[Lyrion Thalor|Lyrion]], Mike still carries **exhaustion levels from the [[Fairy Grove (Anti-Magic Pocket)|carnivorous-plant fight]]** that penalize his rolls — in-fiction the fight is only **a couple of days past**, and he is still sleeping the levels off. (The same penalty cost Lyrion his Session 33 death save.)
+
+### Inventory notes (as of Session 33)
+
+- Carries a **crowbar** and a **large backpack**. The recovered **[[Dragon Eggs|dragon egg]]** rode in the backpack until the tavern, where it was **handed off to [[Thorn]] and [[Rhaenyra]]'s guard**.
+- A **small stolen minecart**, now the egg's companion piece.
+- **Fur blankets discarded** at the lakeside (Session 32) — the party noted they'll want them replaced.

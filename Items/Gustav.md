@@ -13,3 +13,9 @@ A named sentient magical codex. Carried by [[Lyrion Thalor|Lyrion]]. In mechanic
 
 - **Protect from Fey** — from the [[Spell Scroll Case (Aboleth Pit)|aboleth-pit scroll case]]. Now in [[Lyrion Thalor|Lyrion]]'s repertoire.
 - **Divination** — from the [[Spell Scroll Case (Aboleth Pit)|aboleth-pit scroll case]]. Now in Lyrion's repertoire.
+
+## Notable collaborations
+
+- **The [[Broader Warrant]]** ([[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02|Session 33]]) — Gustav copied [[Captain Grazug]]'s [[Writ of Deputization]] into a sweeping forged warrant at [[Seren Moss|Seren]]'s request. Lyrion: *"Gustav and I do love a small act of forgery here and there."* (Gustav declines to record his own opinion of this entry.)
+- Contains Lyrion's **measurements and sketches of the recovered [[Dragon Eggs|dragon egg]]** (Session 33).
+- **Witnessed Lyrion's death** at the [[Cliffside Mansion (Stonewater)|cliffside manor]] — floating at his side through the battle; Lyrion was reaching for something in Gustav's pages as he fell. The Revivify countdown runs as of the Session 33 cliffhanger. *(This page will record the outcome when the next session is filed. Gustav is not accepting condolences prematurely.)*

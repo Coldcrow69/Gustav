@@ -46,6 +46,9 @@ The transcript files themselves are **not committed to this repository** — the
 | 2026-05-03 | Final pre-Egg-Hunt session | Stonewater visible; **Lyrion → sheep** to escape fairy-tree; the "wizard battle" |
 | **2026-05-10** | [[The Search for Dragon Eggs - Session 29 - 2026-05-10\|Session 29 — Egg Hunt opener]] | Audience with [[Baldrin Stoneforge]] |
 | **2026-06-21** | [[Unearthing Dark Secrets - Session 31 - 2026-06-21\|Session 31 — Unearthing Dark Secrets]] | Alley murder; [[Stonewater Sewers]] revenant of [[Victor Stonehammer]]; [[Temple of Selûne (Stonewater)\|Temple of Selûne]] — *speaker-labeled transcript, higher fidelity than WhisperX* |
+| **2026-08-02** | [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02\|Session 33 — Dragons, Deceit, and Dark Forces]] | Crab scout past the mine breach; [[Greybraid Manor (Stonewater)\|Greybraid Manor]] gate ([[Kassadren]] named); egg examined; [[Cliffside Mansion (Stonewater)\|cliffside manor]] raid — [[Acolytes of Oghma]], [[Aberration (Cliffside Mansion)\|aberration]], **death of [[Lyrion Thalor]]** — *speaker-labeled transcript (kept offline with the rest). No Jenna/Miranda speaker lines (absent); Joey again mislabeled "GM"* |
+
+> **Transcript gaps:** Session 30 (2026-05-17) and Session 32 (2026-07-19) have **no transcript filed** — Session 30's recap draws on the archivist export + table recall; Session 32's on the cumulative archivist World Summary + maintainer confirmation.
 
 ## Color details worth noting (verified against canon)
 

@@ -64,5 +64,15 @@ Has been staying at the tavern [[Good For What Ails Ya]], which offers beds and 
 
 Full detail in [[The First Egg - Session 32 - 2026-07-19|the recap]]. Persistent developments for Thorn:
 
-- Went with the guard group to the third-tier Barracks and was **deputized** (with [[Lyrion Thalor|Lyrion]], [[Seren Moss|Seren]], and [[Mike]]) by the [[Guard Captain (Stonewater)|guard captain]] for the supernatural-murder investigation.
+- Went with the guard group to the third-tier Barracks and was **deputized** (with [[Lyrion Thalor|Lyrion]], [[Seren Moss|Seren]], and [[Mike]]) by the [[Captain Grazug|guard captain]] for the supernatural-murder investigation.
 - Returned to [[Good For What Ails Ya]] with Lyrion while Seren and Mike ran the egg-tracking sweep.
+
+## Egg Hunt — Session 33 (Dragons, Deceit, and Dark Forces, 2026-08-02)
+
+> *(Jenna was absent this session; Thorn ran as a companion, voiced by the DM.)*
+
+Full detail in [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02|the recap]]. Persistent developments for Thorn:
+
+- Accompanied [[Lyrion Thalor|Lyrion]] to the **[[Greybraid Manor (Stonewater)|Greybraid Manor]] gate** on the walk back (the stop where patriarch [[Kassadren]] was named); practiced a card trick with him at the tavern while waiting.
+- Stayed behind — with [[Rhaenyra]] — to **guard the recovered [[Dragon Eggs|dragon egg]]** at [[Good For What Ails Ya]] during the [[Cliffside Mansion (Stonewater)|cliffside manor]] raid (the in-fiction assignment covering Jenna's absence). They were on that guard duty when [[Lyrion Thalor|Lyrion]] fell at the manor.
+- Noted in passing at the table: she **no longer has her magical tent** (the one from the [[Shrine of Kelemvor]] planning night).

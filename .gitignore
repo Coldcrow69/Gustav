@@ -28,3 +28,6 @@ $RECYCLE.BIN/
 # (uncomment if these clutter your local checkout)
 # /Crypt Keepers - Archivist/
 # /archivist_*/
+
+# Session transcripts stay offline (raw unfiltered table talk)
+Transcripts/*.txt

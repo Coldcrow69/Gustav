@@ -73,3 +73,12 @@ Full detail in [[The First Egg - Session 32 - 2026-07-19|the recap]]. Persistent
 - Before the party split, Lyrion told him **explosions would be the signal** if things went wrong — *"I'll be there."*
 - Went with [[Rhaenyra]] and [[Bell]] to [[Baldrin Stoneforge|Baldrin]]'s manor (assigned the **sweet-talk** angle): accepted the offered refreshments and **sampled the alcohol with visible suspicion**, received the [[Mine Pass|mine writs]], and was escorted to the collapsed tunnel in the [[Ironheart Mines]].
 - Asked Baldrin directly whether the name **[[Victor Stonehammer]]** meant anything to him — it did not immediately stand out.
+
+## Egg Hunt — Session 33 (Dragons, Deceit, and Dark Forces, 2026-08-02)
+
+Full detail in [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02|the recap]]. Persistent developments for Eldrin:
+
+- Directed the crab-familiar's scouting at the mine breach; back at the tavern, pranked the egg-room by **impersonating the "Stonewater Guard"** at the door in a disguised voice, then bear-hugged [[Lyrion Thalor|Lyrion]] laughing. Carries a **new, larger bag** — instruments including **bagpipes and a drum** (the drum drafted into the musicians cover story).
+- At the [[Cliffside Mansion (Stonewater)|cliffside manor]]: held his breath crossing the graveyard; argued the acolytes might be innocent of the thing beneath them (*"what if the aberration is just haunting them?"*); broke a teapot covering [[Lyrion Thalor|Lyrion]]'s snooping and offered to pay for it.
+- In the fight: **killed the cultist mid-swing at Lyrion** (*"I barely stabbed him!"*), followed [[Seren Moss|Seren]] downstairs, **ate the cellar fire-blast at full force** (Healing Word on himself), killed a second cultist, and pushed into the **hidden caves** behind Seren.
+- At the cliffhanger: deep in the tunnels, sensing only that the others weren't following — **"a bad feeling in your gut"** — while his brother lay dead two floors above.

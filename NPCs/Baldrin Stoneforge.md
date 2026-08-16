@@ -17,7 +17,8 @@ The party and Baldrin agreed to reconvene the next day.
 [[Eldrin Thalor|Eldrin]], [[Rhaenyra]], and [[Bell]] were received at Baldrin's manor: refreshments offered (Eldrin sampled the alcohol suspiciously), and **writs authorizing entry to the [[Ironheart Mines]]** issued — the long-promised [[Mine Pass|mine pass]]. An escort took them through the mine checkpoints and left them with Baldrin at the **collapsed tunnel**, where he spoke more candidly:
 
 - The collapsed shaft had been due only for **general preventative maintenance** — by his account it **should not have collapsed**.
-- The **surviving miners' accounts don't match one another**; the mismatches have led him to suspect **foul play** in the cave-in.
+- The **surviving miners' accounts don't match one another** — including **reports of movement, or echoes**, around the collapse; the mismatches have led him to suspect **foul play** in the cave-in.
+- He stated he wants to **formally hire the party** — terms never specified. [[Bell]] flagged pinning the job down before the group commits; the party left the [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02|Session 33]] mine visit without seeing him again, so the offer is still open and undefined.
 - Clearing the blockage by normal methods will take time; the party's magic might open a smaller way through sooner.
 - Asked by [[Bell]], he **agreed to provide complete lists of the dead and the surviving miners**.
 - Asked by [[Eldrin Thalor|Eldrin]], he said the name **[[Victor Stonehammer]]** did not immediately stand out to him.

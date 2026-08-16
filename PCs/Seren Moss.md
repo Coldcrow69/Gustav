@@ -153,6 +153,15 @@ Turned to [[Thorn]] and asked for a disguise — *"Do you still have your disgui
 
 Full detail in [[The First Egg - Session 32 - 2026-07-19|the recap]]. Persistent developments for Seren:
 
-- Warned the [[Guard Captain (Stonewater)|city guard]] that the [[Victor Stonehammer]] revenant can **re-form in another corpse in roughly half a day**, and that **Banishment can't be attempted until the next day** — her volunteered ritual is still pending.
-- **Deputized** (with [[Lyrion Thalor|Lyrion]], [[Mike]], and [[Thorn]]) by the [[Guard Captain (Stonewater)|guard captain]] for the supernatural-murder investigation.
-- Ran her **hour-long egg-tracking spell** across the city, carried by [[Mike]]: cleared the [[Greybraids]]' holdings, found **one egg** in the [[Lakeside Junk Pile (Stonewater)|lakeside junk pile]] (recovered — she located the hidden box; [[Mike]] crowbarred it open and stowed the egg in his backpack) and **two eggs** at the [[Cliffside Mansion (Stonewater)|cliffside mansion]] (unapproached). She floated the **smuggler-cache** theory for the junk-pile egg.
+- Warned the [[Captain Grazug|city guard]] that the [[Victor Stonehammer]] revenant can **re-form in another corpse in roughly half a day**, and that **Banishment can't be attempted until the next day** — her volunteered ritual is still pending.
+- **Deputized** (with [[Lyrion Thalor|Lyrion]], [[Mike]], and [[Thorn]]) by the [[Captain Grazug|guard captain]] for the supernatural-murder investigation.
+- Ran her **hour-long egg-tracking spell** across the city, carried by [[Mike]]: cleared the [[Greybraids]]' holdings, found **one egg** in the [[Lakeside Junk Pile (Stonewater)|lakeside junk pile]] (recovered — she located the hidden box; [[Mike]] crowbarred it open and stowed the egg in his backpack) and **at least two eggs** at the [[Cliffside Mansion (Stonewater)|cliffside mansion]] (unapproached). She floated the **smuggler-cache** theory for the junk-pile egg.
+
+## Egg Hunt — Session 33 (Dragons, Deceit, and Dark Forces, 2026-08-02)
+
+Full detail in [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02|the recap]]. Persistent developments for Seren:
+
+- **Shed the disguise** — back to her own blonde, back into her armor ([[Lyrion Thalor|Lyrion]] helping with the straps, delighted, and cheerfully stepping in it: her human features are "one of my favorite things about you." Her reply — *"Well. I am half an elf."* — sailed past him).
+- **Commissioned a forgery** — asked Lyrion whether [[Gustav]] could copy [[Captain Grazug]]'s writ into "something more forceful." *"I cannot believe I'm suggesting this." … "The things I'm finding myself capable of."* The result: the [[Broader Warrant]]. A notable milestone in the lawful cleric's road-education.
+- At the [[Cliffside Mansion (Stonewater)|cliffside manor]]: sensed the **[[Aberration (Cliffside Mansion)|aberration]]** below the building; gave the [[Acolytes of Oghma|cult]] the half-truth cover (deputized revenant-hunters); recognized **[[Oghma]]** as the god of knowledge; broke [[Bell]]'s paralysis with **Lesser Restoration**; shook off a hold-spell herself; shielded through the cellar fire-blast; **found and opened the concealed cellar door** into the natural caves and **chased the aberration's trail** to a ladder heading deeper.
+- Ended the session **deep in the caves** — as [[Lyrion Thalor|Lyrion]] died two floors above. She carries the **[[Powerful Diamond|five-carat diamond]]** and **Revivify**; the ten-round countdown starts next session. *"You have one minute. Get him to me."*

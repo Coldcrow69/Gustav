@@ -51,3 +51,12 @@ Full detail in [[The First Egg - Session 32 - 2026-07-19|the recap]]. Persistent
 - Surveyed the revenant's den off the [[Chained Stone Coffin]] chamber: basic cleaning and maintenance gear, including **unmarked pickaxes** — none bearing the [[Stoneforge Clan]] insignia of the murder weapon. Considered **resealing the coffin** but had **no shaping magic left** that day (Stone Shape spent in Session 31).
 - Went with [[Eldrin Thalor|Eldrin]] and [[Bell]] to [[Baldrin Stoneforge|Baldrin]]'s manor for the [[Mine Pass|mine writs]], then down to the **collapsed tunnel** in the [[Ironheart Mines]].
 - Studied the collapse and **summoned a small spider**, proposing to scout it through the cracks to the far side — **not yet sent** when the session ended. Asked whether the caverns beyond were easy to get lost in.
+
+## Egg Hunt — Session 33 (Dragons, Deceit, and Dark Forces, 2026-08-02)
+
+> *(Miranda was absent this session; Rhaenyra ran as a companion — her familiar was directed by the table.)*
+
+Full detail in [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02|the recap]]. Persistent developments for Rhaenyra:
+
+- Cast **Find Familiar** at the collapsed tunnel (the crab superseding the Session 32 spider idea) — the **tiny crab** scouted through the breach: ~15 ft of tunnel, a **pre-existing left/right passage**, the right branch running toward a **larger cavern ~400 ft on**. The **link severed** about twenty minutes in; the crab never returned.
+- Stayed behind — with [[Thorn]] — to **guard the recovered [[Dragon Eggs|dragon egg]]** at [[Good For What Ails Ya]] during the [[Cliffside Mansion (Stonewater)|cliffside manor]] raid (the in-fiction assignment covering Miranda's absence).
