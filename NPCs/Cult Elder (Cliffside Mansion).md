@@ -10,7 +10,7 @@ Received the party's investigation claim; listened to [[Seren Moss|Seren]]'s acc
 
 ## The fight
 
-Tried to withdraw immediately. [[Lyrion Thalor|Lyrion]] Misty-Stepped onto a table and demanded he stand his people down; the Elder ran instead. Lyrion's upcast **Witch Bolt tore away part of his shoulder**; a **Counterspell** cut off his answer mid-cast; a second Witch Bolt followed him through the door. He **escaped the room, badly wounded** — current location in the manor unknown.
+Tried to withdraw immediately. [[Lyrion Thalor|Lyrion]] Misty-Stepped onto a table and demanded he stand his people down; the Elder ran instead. Lyrion's upcast **Witch Bolt tore away part of his shoulder**; a **Counterspell** cut off his answer mid-cast; a second Witch Bolt followed him through the door. He **escaped the room, badly wounded** — and was **not found** in the party's [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|Session 34]] sweep of the manor (still in progress at session end). At large.
 
 ## Cross-references
 

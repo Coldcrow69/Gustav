@@ -115,9 +115,9 @@ Full detail in [[The First Egg - Session 32 - 2026-07-19|the recap]]. Persistent
 
 ## Egg Hunt — Session 33 (Dragons, Deceit, and Dark Forces, 2026-08-02)
 
-> ### ⚰️ STATUS: DEAD — Revivify countdown running
+> ### STATUS: ALIVE — revived by Revivify, Session 34
 >
-> Lyrion **died at the end of Session 33**, on the floor of the [[Cliffside Mansion (Stonewater)|cliffside manor]]: dropped by the [[Bald Mage (Cliffside Mansion)|bald mage]]'s wand bolts, a death save failed only because of **lingering [[Fairy Grove (Anti-Magic Pocket)|carnivorous-plant-fight]] exhaustion** (rolled 11 — enough, without the penalty), and a cultist's sword driven into him where he lay. **Next session opens with a ten-round (one-minute) Revivify window**; [[Seren Moss|Seren]] carries the [[Powerful Diamond|five-carat diamond]] and the spell, and is two floors away in the dark. [[Bell]] stands over his body.
+> Lyrion **died at the end of Session 33**, on the floor of the [[Cliffside Mansion (Stonewater)|cliffside manor]]: dropped by the [[Bald Mage (Cliffside Mansion)|bald mage]]'s wand bolts, a death save failed only because of **lingering [[Fairy Grove (Anti-Magic Pocket)|carnivorous-plant-fight]] exhaustion** (rolled 11 — enough, without the penalty), and a cultist's sword driven into him where he lay. In [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|Session 34]] the body-relay beat the ten-round clock and **[[Seren Moss|Seren]]'s Revivify brought him back**, consuming the [[Powerful Diamond|five-carat diamond]]. **He now carries 5 of 6 exhaustion levels** (maintainer-confirmed) — one step from death by fatigue.
 
 Full detail in [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02|the recap]]. His last day's work, in order:
 
@@ -127,3 +127,17 @@ Full detail in [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02|the 
 - At the manor: announced the party as **Stonewater Guard**, accused the [[Acolytes of Oghma|sect]] outright of harboring the [[Aberration (Cliffside Mansion)|aberration]] and the stolen eggs, and presented real writ and forged warrant together.
 - In the fight: **Misty Step** onto the table, Gustav floating beside him, ozone in the air — *"Stand down your men or you'll all die here."* Upcast **Witch Bolt** tore the [[Cult Elder (Cliffside Mansion)|Elder]]'s shoulder open; a **Counterspell** (*"Silence!"*) ate the Elder's casting; a second Witch Bolt chased him from the room.
 - Then the northern door, the bald mage, three wand bolts, and the floor.
+
+## Egg Hunt — Session 34 (Clash at the Cliffside Manor, 2026-08-16)
+
+Full detail in [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|the recap]]. The session of his death and return:
+
+- **Died, briefly and truly.** While the party relayed his body to [[Seren Moss|Seren]], Lyrion stood in an afterlife of **rolling yellow-grass hills under a clear sky**, warm beyond words — and saw, in the distance, **[[Endra Thalor|his mother]]**. Behind him: [[Eldrin Thalor|Eldrin]]'s faint *"GET UP, DAMMIT!"* and Seren's *"please come back to me if you can."* His answer, to the distant figure: **"I'll be back one day… and we'll all be together again."** Then he turned back.
+- **Revived by Seren's Revivify** (the [[Powerful Diamond|five-carat diamond]] consumed). Woke gasping at 1 HP — *"I need a vacation"* — to Seren in tears and Eldrin's Cure Wounds with a hand on his cheek: *"Don't you ever fucking do that again."*
+- First order of business on waking: the [[Bald Mage (Cliffside Mansion)|mage]]'s **wand** (*"Did he drop it anywhere? Is he still alive?"* — he openly wants it), and re-casting **Mage Armor** on himself (it had been on Seren and dropped at his death).
+- **Back into the fight within minutes of resurrection**: his first **Fireball** at the invisible mage was **Counterspelled**; his second — aimed by ear at the room upstairs where the footsteps stopped — missed the mage but **set the manor on fire**. He then led the firefighting with **Control Flames** until the blaze was beaten out.
+- Post-battle: read the [[Cult Journal (Cliffside Mansion)|cult journal]]'s arc from therapy circle to remembrance-cult — *"I don't think death was their fear anymore… perhaps all they're out to do now is something so extreme that they'll never be forgotten"* (and: *"Father always said that therapy was for hacks. Perhaps he was on to something?"*). [[Gustav]] copied the [[Map of the Mines (Cliffside Mansion)|mines map]] at his direction; the [[Arcane Scroll Case (Cliffside Mansion)|arcane scroll case]] Eldrin recovered is earmarked for him, unopened.
+
+### Lingering condition
+
+- **Exhaustion: 5 of 6 levels** (maintainer-confirmed) after the revival stacked onto his existing [[Fairy Grove (Anti-Magic Pocket)|plant-fight]] fatigue. One more level kills him; rest is the immediate priority. (Table note: the penalty affects his attacks, not his spell save DCs.)

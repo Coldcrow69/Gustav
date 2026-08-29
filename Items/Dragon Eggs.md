@@ -4,13 +4,13 @@ The **stolen eggs of [[The God Of The Iron Peaks]]** — the multi-headed red dr
 
 The eggs are the god of the Iron Peaks' **own clutch** — the warband's missing "children" are these unhatched kin, not the captive's offspring.
 
-## Known locations (Session 32 tracking)
+## Known locations
 
-[[Seren Moss|Seren]]'s hour-long tracking spell swept [[Stonewater]] in [[The First Egg - Session 32 - 2026-07-19|Session 32]]:
+[[Seren Moss|Seren]]'s hour-long tracking spell swept [[Stonewater]] in [[The First Egg - Session 32 - 2026-07-19|Session 32]]; the manor raid of Sessions 33–34 updated the picture:
 
-- **Recovered: one egg** — found hidden in a **large, pristine wooden box**, packed in protective padding, buried in the [[Lakeside Junk Pile (Stonewater)|lakeside junk pile]]. Pried open by [[Mike]] (crowbar); carried out in **Mike's backpack** (his fur blankets were discarded to make room). A [[Dwarven Child (Stonewater Lakeside)|dwarven child]] witnessed the retrieval.
-- **Located, not recovered: at least two eggs** — the **majority of the clutch**, per the DM's Session 33 recap — at the **abandoned [[Cliffside Mansion (Stonewater)|manor on the southeastern cliffs]]**. The party raided the manor in [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02|Session 33]]; the eggs had **not yet been found inside** when the session ended mid-battle. The resident [[Acolytes of Oghma|cult]]'s [[Cult Elder (Cliffside Mansion)|Elder]] denies they exist.
-- **Cleared:** the [[Greybraids]]' **manor and forge**, and the **city's single mine entrance** — no egg signals at any of them.
+- **Recovered: one egg** — found hidden in a **large, pristine wooden box**, packed in protective padding, buried in the [[Lakeside Junk Pile (Stonewater)|lakeside junk pile]]. Pried open by [[Mike]] (crowbar); carried out in **Mike's backpack** (his fur blankets were discarded to make room). A [[Dwarven Child (Stonewater Lakeside)|dwarven child]] witnessed the retrieval. Now **hidden by [[Thorn]]** at [[Good For What Ails Ya]] — in a chest in the room's closet, **covered with an illusion**, Thorn its sole guard ([[Clash at the Cliffside Manor - Session 34 - 2026-08-16|Session 34]]).
+- **GONE from the manor: the remaining eggs** — "at least two," the **majority of the clutch**, sensed at the [[Cliffside Mansion (Stonewater)|cliffside manor]] in Session 32. The party's [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02|Session 33]]–[[Clash at the Cliffside Manor - Session 34 - 2026-08-16|34]] raid found only their **singed crates, empty**, in the cave below the manor. The eggs were presumably moved **down the cult's dug tunnel toward the [[Ironheart Mines]]** — the fleeing [[Aberration (Cliffside Mansion)|aberration]] is the party's working suspect for the carrier (*"the aberration probably has them"*). Two **locked, magical, dragon-egg-sized treasure boxes** from the manor's second floor are in [[Mike]]'s custody, unopened — noted here because of their size.
+- **Cleared (Session 32):** the [[Greybraids]]' **manor and forge**, and the **city's single mine entrance** — no egg signals at any of them.
 
 Total clutch size is **unrecorded** — at least three eggs are accounted for by signal; the spell swept the whole city, but eggs beyond its reach would not register.
 
@@ -18,7 +18,7 @@ Total clutch size is **unrecorded** — at least three eggs are accounted for by
 
 Examined in a locked room at [[Good For What Ails Ya]]: **warm to the touch**, its shell **stone-like rather than smooth** — at a glance, a big hot rock. [[Lyrion Thalor|Lyrion]] measured and sketched it into [[Gustav]]; [[Mike]] parked a **stolen minecart** beside it ("giving the baby a toy"). Warmth is taken as a sign the egg lives; the party debated **incubation** — Mike's fire versus the **[[Black Thermal Cube]]** (ambient 80–90°, can't burn), with the cube favored and a half-serious fear of accidentally **hatching** it.
 
-**Custody:** left at [[Good For What Ails Ya]] under guard by **[[Thorn]] and [[Rhaenyra]]** while the rest of the party raided the cliffside manor.
+**Custody:** left at [[Good For What Ails Ya]] under guard by **[[Thorn]] and [[Rhaenyra]]** while the rest of the party raided the cliffside manor. In [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|Session 34]] Thorn **hid it in an illusion-covered chest** and released Rhaenyra to the fight, keeping watch alone.
 
 ## Open questions
 

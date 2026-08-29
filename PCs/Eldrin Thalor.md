@@ -82,3 +82,13 @@ Full detail in [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02|the 
 - At the [[Cliffside Mansion (Stonewater)|cliffside manor]]: held his breath crossing the graveyard; argued the acolytes might be innocent of the thing beneath them (*"what if the aberration is just haunting them?"*); broke a teapot covering [[Lyrion Thalor|Lyrion]]'s snooping and offered to pay for it.
 - In the fight: **killed the cultist mid-swing at Lyrion** (*"I barely stabbed him!"*), followed [[Seren Moss|Seren]] downstairs, **ate the cellar fire-blast at full force** (Healing Word on himself), killed a second cultist, and pushed into the **hidden caves** behind Seren.
 - At the cliffhanger: deep in the tunnels, sensing only that the others weren't following — **"a bad feeling in your gut"** — while his brother lay dead two floors above.
+
+## Egg Hunt — Session 34 (Clash at the Cliffside Manor, 2026-08-16)
+
+Full detail in [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|the recap]]. Persistent developments for Eldrin:
+
+- Heard [[Bell]]'s scream from two floors down, read it instantly as panic, and relayed the alarm to [[Seren Moss|Seren]] in the tunnel: *"Something is wrong with Lyrion. We have to go."*
+- **Carried his brother's corpse out of the fight** — took the body from [[Mike]], argued down the carry-speed ruling (STR 18, a lifetime of carrying his 180-lb little brother), and **Misty Stepped to the basement with the corpse over his shoulder** (corpse-as-object RAW ruling). The invisible [[Bald Mage (Cliffside Mansion)|mage]] made him pay: **52 damage in a single turn** — he never went down. *"Not dead yet! It's just a flesh wound."*
+- Barred the basement door and set the terms: *"Whatever comes through this door — I need you to heal my brother."* When Revivify took hold, he healed Lyrion himself, hand on his cheek: **"Don't you ever fucking do that again."** *("I don't think I've ever been as scared. And that's saying something.")*
+- In the mage-hunt: **Dissonant Whispers** (13 psychic) burned the mage's reaction and pinned him for a round; saved against **Cone of Cold** (took 20).
+- In the search: voiced the reunion rule — *"We've seen what happens when we fucking break up"* — found the **swivel bookshelf** hiding the chest room, opened the gold and personal-effects chests, **read the [[Cult Journal (Cliffside Mansion)|cult journal]] aloud** (the therapy-group-to-cult arc), identified the [[Map of the Mines (Cliffside Mansion)|mines map]]'s meaning (*"I think we may have found who was behind the tunnel behind the collapse"*), and wrapped up the [[Arcane Scroll Case (Cliffside Mansion)|arcane scroll case]] to give to Lyrion.
