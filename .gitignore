@@ -31,3 +31,9 @@ $RECYCLE.BIN/
 
 # Session transcripts stay offline (raw unfiltered table talk)
 Transcripts/*.txt
+
+# Claude working folders are not uploaded
+_inbox/
+.claude/
+*.env
+CLAUDE.md
