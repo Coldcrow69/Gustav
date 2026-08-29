@@ -17,3 +17,9 @@ Overnight, [[Seren Moss|Seren]] crept into [[Mike]]'s room and **healed him in h
 Outside, in the same alley where Lyrion had been sick the night before, [[Lyrion Thalor|Lyrion]] and [[Eldrin Thalor|Eldrin]] had a long emotional reconciliation about their childhood and their father, ending with a hug — and were interrupted by a frightened scream nearby, leading them to a **[[Dwarven Woman (Stonewater Pickaxe Body)|dwarven woman]] crouched over a pickaxe-killed body**.
 
 Full recap: [[Dragons, Disguises, and Dilemmas - Session 30 - 2026-05-17]].
+
+## Sessions 33–34 — the egg in the closet
+
+The recovered **[[Dragon Eggs|dragon egg]]** was examined here in a locked upstairs room ([[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02|Session 33]]), then left under [[Thorn]] and [[Rhaenyra]]'s guard during the [[Cliffside Mansion (Stonewater)|cliffside manor]] raid. In [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|Session 34]], [[Thorn]] **hid the egg in a chest in the room's closet and covered it with an illusion**, then sent Rhaenyra to the manor on a bad feeling — leaving herself the egg's **sole guardian** at the tavern through the session's end.
+
+> Transcript note: the Session 34 recording garbles the tavern's name as "the Goodnight Press" — same establishment; there is only one tavern on-page in this arc.

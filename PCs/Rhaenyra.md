@@ -60,3 +60,15 @@ Full detail in [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02|the 
 
 - Cast **Find Familiar** at the collapsed tunnel (the crab superseding the Session 32 spider idea) — the **tiny crab** scouted through the breach: ~15 ft of tunnel, a **pre-existing left/right passage**, the right branch running toward a **larger cavern ~400 ft on**. The **link severed** about twenty minutes in; the crab never returned.
 - Stayed behind — with [[Thorn]] — to **guard the recovered [[Dragon Eggs|dragon egg]]** at [[Good For What Ails Ya]] during the [[Cliffside Mansion (Stonewater)|cliffside manor]] raid (the in-fiction assignment covering Miranda's absence).
+
+## Egg Hunt — Session 34 (Clash at the Cliffside Manor, 2026-08-16)
+
+> *(Miranda returned this session — Rhaenyra back as a full PC.)*
+
+Full detail in [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|the recap]]. Persistent developments for Rhaenyra:
+
+- Released from egg-guard duty by [[Thorn]] (*"I have a bad feeling. I think I can watch this by myself now"*) and ran for the manor mid-battle. **First on-screen use of her [[Everbright Lantern]]**, unshielded over a foyer of corpses.
+- **Wild-shaped into a saber-toothed tiger** and **killed the last cultist** — hamstrung him, then shoved him prone and **tore his throat out**, head separated from body.
+- Was then the target of **Loa-controlled [[Bell]]**: two claw strikes, ~19 damage, into her tiger form. Her animal instincts read the shadow-wreathed Bell as **more dangerous than she was**; she disengaged, leapt to the doorway, and let out **a roar heard through the manor** as a call for help. Accepted Bell's apology after; the hurt (and a little fear) registered on-page.
+- Dropped wild shape, **heard a door shut on the second floor** — the only fix the party ever got on the fleeing [[Bald Mage (Cliffside Mansion)|mage]] — and healed [[Mike]] with Cure Wounds.
+- Ran **Detect Magic** through the search: found the **two locked magical treasure boxes**, the **swivel-bookshelf hidden room**, and the **[[Arcane Scroll Case (Cliffside Mansion)|arcane scroll case]]**. Found the **balcony room with its door ajar** — and confirmed **no impressions or disturbed foliage** below the 20–30 ft drop. Floated taking half the found gold (unresolved).

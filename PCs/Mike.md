@@ -67,12 +67,24 @@ Full detail in [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02|the 
 - At the [[Cliffside Mansion (Stonewater)|cliffside manor]]: "picked" the front-door lock by bursting it open; **kicked down the cellar door and killed [[Vil]]** on the stairs — head slammed into the steps, dead instantly; ducked through the cellar **fire blast** untouched; dropped another cultist with a heavy right cross (skull-bleeding, presumed dead); answered [[Lyrion Thalor|Lyrion]]'s fall with **radiant sunbolts** that rocked but did not drop the [[Bald Mage (Cliffside Mansion)|bald mage]].
 - **Motive on the record**: Mike has carried his anger since **[[Bluefield]]** — he tried to save those people, and the dragons killed them anyway. The cultists caught the wrath.
 
+## Egg Hunt — Session 34 (Clash at the Cliffside Manor, 2026-08-16)
+
+Full detail in [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|the recap]]. Persistent developments for Mike:
+
+- **Carried [[Lyrion Thalor|Lyrion]]'s body out of the upstairs fight** on [[Bell]]'s order — shoved past cultists (spitting in one's face on the way), and handed the body to [[Eldrin Thalor|Eldrin]] for the basement run that beat the Revivify clock.
+- Hunted the invisible [[Bald Mage (Cliffside Mansion)|mage]] by demolition: a nat-20 **Radiant Sunbolt** early, then **shattered an ale barrel** and accidentally tagged the invisible man standing in front of it (his reflexive Shield betrayed the spot) — ~23 damage into him across the hunt.
+- **Dropped by Cone of Cold**: failed the save, took the full **40 cold damage**, went unconscious **frozen half-solid with icicles forming on his back**, and **failed one death save** before [[Seren Moss|Seren]]'s 29-point heal let him crack the ice off his own shoulders. Drank his healing potion earlier in the fight (bonus-action ruling).
+- To the recovered, post-frenzy Bell: *"Yes — please don't attack us."*
+- In the search: proposed having [[Gustav]] **copy the [[Map of the Mines (Cliffside Mansion)|mines map]]** (adopted); **carries the two locked, magical, dragon-egg-sized treasure boxes** "just to be safe"; proposed holding the found gold and surrendering it only if asked (unresolved). Backed going to the guard — *"We probably should tell the guard. I then need to sleep."*
+
 ### Lingering condition
 
-- **Exhaustion** (confirmed by the maintainer): like [[Lyrion Thalor|Lyrion]], Mike still carries **exhaustion levels from the [[Fairy Grove (Anti-Magic Pocket)|carnivorous-plant fight]]** that penalize his rolls — in-fiction the fight is only **a couple of days past**, and he is still sleeping the levels off. (The same penalty cost Lyrion his Session 33 death save.)
+- **Exhaustion** (confirmed by the maintainer): like [[Lyrion Thalor|Lyrion]], Mike still carries **exhaustion levels from the [[Fairy Grove (Anti-Magic Pocket)|carnivorous-plant fight]]** that penalize his rolls — in-fiction the fight is only **a couple of days past**, and he is still sleeping the levels off. (The same penalty cost Lyrion his Session 33 death save; Lyrion's own revival has since stacked him to 5/6.)
 
-### Inventory notes (as of Session 33)
+### Inventory notes (as of Session 34)
 
-- Carries a **crowbar** and a **large backpack**. The recovered **[[Dragon Eggs|dragon egg]]** rode in the backpack until the tavern, where it was **handed off to [[Thorn]] and [[Rhaenyra]]'s guard**.
+- Carries a **crowbar** and a **large backpack**. The recovered **[[Dragon Eggs|dragon egg]]** rode in the backpack until the tavern, where it was **handed off to [[Thorn]] and [[Rhaenyra]]'s guard** (now hidden under Thorn's illusion).
+- **Two locked, magical, dragon-egg-sized treasure boxes** from the [[Cliffside Mansion (Stonewater)|cliffside manor]]'s second floor — unopened, resistant to forcing.
 - A **small stolen minecart**, now the egg's companion piece.
+- **Healing potion consumed** (Session 34, mid-battle).
 - **Fur blankets discarded** at the lakeside (Session 32) — the party noted they'll want them replaced.

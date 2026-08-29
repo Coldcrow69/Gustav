@@ -76,3 +76,12 @@ Full detail in [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02|the 
 - Accompanied [[Lyrion Thalor|Lyrion]] to the **[[Greybraid Manor (Stonewater)|Greybraid Manor]] gate** on the walk back (the stop where patriarch [[Kassadren]] was named); practiced a card trick with him at the tavern while waiting.
 - Stayed behind — with [[Rhaenyra]] — to **guard the recovered [[Dragon Eggs|dragon egg]]** at [[Good For What Ails Ya]] during the [[Cliffside Mansion (Stonewater)|cliffside manor]] raid (the in-fiction assignment covering Jenna's absence). They were on that guard duty when [[Lyrion Thalor|Lyrion]] fell at the manor.
 - Noted in passing at the table: she **no longer has her magical tent** (the one from the [[Shrine of Kelemvor]] planning night).
+
+## Egg Hunt — Session 34 (Clash at the Cliffside Manor, 2026-08-16)
+
+> *(Jenna was absent again; Thorn ran as a companion, voiced by the DM.)*
+
+Full detail in [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|the recap]]. Persistent developments for Thorn:
+
+- **Hid the recovered [[Dragon Eggs|dragon egg]]** at [[Good For What Ails Ya]]: tucked into a chest in the room's closet and **covered with an illusion**.
+- Released [[Rhaenyra]] to the manor fight on instinct — *"If you want to go join them at the manor — I have a bad feeling. I think I can watch this by myself now."* Kept solo watch over the egg for the rest of the session.

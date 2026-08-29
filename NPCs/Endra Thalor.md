@@ -16,6 +16,8 @@
 
 The [[The Undead Aboleth|undead aboleth]] **conjured an image of her, just as Lyrion remembered her**, in an attempt to deceive him during his solo investigation of the [[Cathedral of the Aboleth]]. Lyrion answered with a fireball.
 
+In [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|Session 34]], during the minute [[Lyrion Thalor|Lyrion]] lay dead at the [[Cliffside Mansion (Stonewater)|cliffside manor]], he glimpsed an afterlife — rolling yellow-grass hills under a clear sky, warmth like a held breath — and in the distance **a woman he knew: Endra**. With [[Eldrin Thalor|Eldrin]]'s and [[Seren Moss|Seren]]'s voices calling faintly behind him, he told the distant figure *"I'll be back one day… and we'll all be together again"* — and turned around.
+
 ## Family
 
 - Husband: [[Darion Thalor]] — was abusive to [[Eldrin Thalor|Eldrin]] in their family cellar (see his page).

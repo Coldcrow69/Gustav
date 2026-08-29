@@ -43,3 +43,7 @@ The party requested to examine the weapon and suggested a possible magical cause
 - The party **withheld the crab's findings** from the guide.
 
 **Possible connection:** the **natural cave system** [[Seren Moss|Seren]] found beneath the [[Cliffside Mansion (Stonewater)|cliffside manor]] the same day resembles the mine workings — the party suspects the manor caves and the breached passage may be **one system**, with the [[Aberration (Cliffside Mansion)|aberration]] loose in it (and "attacked" now having a candidate).
+
+## Session 34 — the connection put on paper
+
+The suspicion became evidence in [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|Session 34]]: the manor's basement yielded a **[[Map of the Mines (Cliffside Mansion)|copied map of the mines]]** with the **breach cavern drawn in** and a **crudely drawn path running from the mines to the manor** — the [[Acolytes of Oghma|cult]] dug the tunnel. [[Bell]]'s connection at the table: the big dug-out cave behind the cave-in was *"not dug by Baldrin's people."* The **stolen [[Dragon Eggs|dragon eggs]]** were kept in the cave below the manor (singed crates found empty) and are presumed to have been moved **down this tunnel toward the mines** — the [[Aberration (Cliffside Mansion)|aberration]] the working suspect for carrying them. The party intends to bring the map's original to the [[Captain Grazug|city authorities]]; [[Gustav]] holds a copy.
