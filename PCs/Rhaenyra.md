@@ -44,6 +44,13 @@ Reminded the group that [[Baldrin Stoneforge|Baldrin]] was expecting them that m
 
 On their way out of the alley after the brothers' reconciliation, [[Lyrion Thalor|Lyrion]] remarked to [[Eldrin Thalor|Eldrin]] that **even he could tell Rhaenyra was interested in Eldrin as more than a friend**. Rhaenyra's side of this — whether her interest is overt or carefully held — has not yet been recorded on the page. Eldrin's reaction also not yet recorded.
 
+## Egg Hunt — Session 31 (Unearthing Dark Secrets, 2026-06-21)
+
+Full detail in [[Unearthing Dark Secrets - Session 31 - 2026-06-21|the recap]]. Persistent developments for Rhaenyra:
+
+- Ran upstairs at [[Good For What Ails Ya]] to fetch the mid-disguise [[Seren Moss|Seren]] when the widow arrived with news of the alley murder.
+- Delivered the session's containment: had **Stone Shape** prepared and **grew a stone coffin with a lid** around the bound [[Victor Stonehammer]] revenant — the [[Chained Stone Coffin]] — which the party chained down and spiked to the floor.
+
 ## Egg Hunt — Session 32 (The First Egg, 2026-07-19)
 
 Full detail in [[The First Egg - Session 32 - 2026-07-19|the recap]]. Persistent developments for Rhaenyra:
@@ -72,3 +79,12 @@ Full detail in [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|the reca
 - Was then the target of **Loa-controlled [[Bell]]**: two claw strikes, ~19 damage, into her tiger form. Her animal instincts read the shadow-wreathed Bell as **more dangerous than she was**; she disengaged, leapt to the doorway, and let out **a roar heard through the manor** as a call for help. Accepted Bell's apology after; the hurt (and a little fear) registered on-page.
 - Dropped wild shape, **heard a door shut on the second floor** — the only fix the party ever got on the fleeing [[Bald Mage (Cliffside Mansion)|mage]] — and healed [[Mike]] with Cure Wounds.
 - Ran **Detect Magic** through the search: found the **two locked magical treasure boxes**, the **swivel-bookshelf hidden room**, and the **[[Arcane Scroll Case (Cliffside Mansion)|arcane scroll case]]**. Found the **balcony room with its door ajar** — and confirmed **no impressions or disturbed foliage** below the 20–30 ft drop. Floated taking half the found gold (unresolved).
+
+## Egg Hunt — Session 35 (Tension and Triumph in Snow, 2026-08-30)
+
+Full detail in [[Tension and Triumph in Snow - Session 35 - 2026-08-30|the recap]]. Persistent developments for Rhaenyra:
+
+- Came through the manor battle **unmarked** — the saber-toothed tiger absorbed everything, including [[Bell]]'s claws; her own form is pristine. Sat with Bell at the tavern for the hard conversation: *"You were possessed… I'm concerned for you."* First to name it, first to forgive it — *"It hurt in the moment, but I am okay."*
+- **Second watch**: heard heavy metal footsteps stop outside the door, **slid a dagger underneath to watch the reflection**, and discovered [[Dura]] cross-legged in the hallway, axe on lap. The guard chuckled at the trick; the dagger slid back. Relayed the situation to [[Thorn]] with a **Message** cantrip cast through the wall (spell logistics table-verified) rather than wake the house.
+- Gave [[Captain Grazug]] the shortest **statement** on record: when she arrived, her friends were being attacked. The end.
+- Enthusiastically enlisted in the **multiple-Rhaenyras prank** on [[Eldrin Thalor|Eldrin]] (Thorn + [[Mike]]'s [[Hat of Disguises (Mordenkainen)|hat]]): *"No convincing needed."* Spent the morning theatrically pretending to sleep through [[Lyrion Thalor|Lyrion]] and [[Seren Moss|Seren]]'s afterlife conversation — "low-key kicking feet to the stories" — and got in the last word on Lyrion's near-permanent death: *"lucky for **you**."*

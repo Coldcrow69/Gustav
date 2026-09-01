@@ -15,6 +15,10 @@ When [[Seren Moss|Seren]] sketched the **feather-and-dagger insignia** she had s
 
 Seren tipped him a silver for the identification.
 
+## Session 35 — the night after the manor (2026-08-30)
+
+Kept the tavern running through the party's worst evening ([[Tension and Triumph in Snow - Session 35 - 2026-08-30|recap]]): shepherd's pie and fresh bakery bread on special, a **special mead order** inbound for [[Eldrin Thalor|Eldrin]] ([[Mike]] is angling to buy the barrels outright), and directions to the **hot springs** on the city's eastern cliffs for [[Thorn]]. The party plans to relocate to another tavern all the same — nothing personal; the enemy knows his address.
+
 ## Cross-references
 
 - [[Good For What Ails Ya]] — workplace

@@ -8,4 +8,6 @@ Contents: **a ritual of communion with the spirits** that inhabit the firbolg cl
 
 The party performed the ritual in the woods the same night they received the tome — [[Lyrion Thalor|Lyrion]], [[Bell]], [[Kira]], and [[Mike]] participated. The ritual **completed successfully**: a spirit **spoke Lyrion's name**, and [[Bell]] became bonded to the **[[Loa]] [[Zehal]]**.
 
+**Disposition:** [[Lyrion Thalor|Lyrion]] **learned the communion ritual from the tome, then discarded it** (maintainer-confirmed) — the spell outlived the book.
+
 > Source: WhisperX transcripts for 2026-02-15 and 2026-02-22.

@@ -12,6 +12,8 @@ The **revenant** of [[Victor Stonehammer]] had been hiding and storing itself he
 
 The coffin, opened, held only **liquefied remains** — the revenant's spirit had abandoned its host. The party examined the den ([[The First Egg - Session 32 - 2026-07-19|Session 32]]): the [[Severed Dwarven Torso|torso]] unmoved, and — per [[Rhaenyra]]'s look around (the archivist's "small crypt") — the closet's stock amounting to basic cleaning and maintenance gear, including **unmarked pickaxes** (no [[Stoneforge Clan]] insignia). [[Eldrin Thalor|Eldrin]] took a [[Vial of Decomposed Black Goo|sample of the goo]]; the coffin and remains were left in place. [[Mike]] carried [[Haceran Leadbreaker]] back out.
 
+As of [[Tension and Triumph in Snow - Session 35 - 2026-08-30|Session 35]], the abandoned host has been quiet longer than expected: the spirit's **half-day re-forming estimate has lapsed with no reports** of it resurfacing anywhere in the city; the guard watches for it.
+
 ## Cross-references
 
 - [[Stonewater]] · [[Victor Stonehammer]] · [[Black Ichor]] · [[Chained Stone Coffin]] · [[Severed Dwarven Torso]]

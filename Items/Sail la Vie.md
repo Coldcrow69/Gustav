@@ -1,6 +1,6 @@
 # Sail la Vie
 
-> Name is a pun on *c'est la vie*.
+> Name is a pun on *c'est la vie*. **Holder: [[Mike]]** (maintainer-confirmed) — carried in its stored mahogany-box form since the party went inland.
 
 A **magical item** that takes one of two forms:
 

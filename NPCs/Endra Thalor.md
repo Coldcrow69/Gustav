@@ -18,6 +18,8 @@ The [[The Undead Aboleth|undead aboleth]] **conjured an image of her, just as Ly
 
 In [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|Session 34]], during the minute [[Lyrion Thalor|Lyrion]] lay dead at the [[Cliffside Mansion (Stonewater)|cliffside manor]], he glimpsed an afterlife — rolling yellow-grass hills under a clear sky, warmth like a held breath — and in the distance **a woman he knew: Endra**. With [[Eldrin Thalor|Eldrin]]'s and [[Seren Moss|Seren]]'s voices calling faintly behind him, he told the distant figure *"I'll be back one day… and we'll all be together again"* — and turned around.
 
+The morning after his revival ([[Tension and Triumph in Snow - Session 35 - 2026-08-30|Session 35]]), Lyrion told [[Seren Moss|Seren]] what the vision had given him: he saw his mother **"clear as day"** — her face sharp for the first time in **decades of failed remembering**. *"You were there to call me back. Lest I may have stayed."* Seren answered with [[Kelemvor]]'s teaching: the Judge places the dead fairly, and a revival spell that works is the gods' will.
+
 ## Family
 
 - Husband: [[Darion Thalor]] — was abusive to [[Eldrin Thalor|Eldrin]] in their family cellar (see his page).

@@ -1,6 +1,6 @@
 # Roseview
 
-A small **fishing village** in the north of [[The Wilds]], **[[Rhaenyra]]'s home village**. **Not [[Bluefield]]** — Roseview and Bluefield are distinct settlements; the party left Roseview heading north toward [[Stonewater]] before encountering Bluefield burning.
+A small **fishing village** in the north of [[The Wilds]], **[[Rhaenyra]]'s home village**. **Not [[Bluefield]]** — Roseview and Bluefield are distinct settlements; the party left Roseview heading north along the river route toward [[Stonewater]] before encountering Bluefield burning.
 
 ## Bluefield Burning arc events
 

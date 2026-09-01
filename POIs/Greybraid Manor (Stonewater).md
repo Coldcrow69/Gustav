@@ -10,7 +10,11 @@ The **[[Greybraids]]** clan's estate in [[Stonewater]] — **opulent**, though a
 
 Notably, [[Seren Moss|Seren]]'s Session 32 tracking sweep registered **no dragon-egg signals here** (nor at the clan's forge).
 
+## Session 35 — the claim goes on the record
+
+The reply is still owed — but the stakes around it changed in [[Tension and Triumph in Snow - Session 35 - 2026-08-30|Session 35]]: [[Seren Moss|Seren]]'s debrief put the **[[Kassadren]]-as-landlord claim on [[Captain Grazug]]'s official record** (the captain's reaction: wary), as part of an open investigation into the massacre at his tenants' [[Cliffside Mansion (Stonewater)|cliffside manor]].
+
 ## Cross-references
 
 - [[Greybraids]] · [[Kassadren]] · [[Captain Grazug]] · [[Writ of Deputization]]
-- [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02]]
+- [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02]] · [[Tension and Triumph in Snow - Session 35 - 2026-08-30]]

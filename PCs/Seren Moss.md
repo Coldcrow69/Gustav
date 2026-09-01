@@ -149,6 +149,15 @@ Turned to [[Thorn]] and asked for a disguise — *"Do you still have your disgui
 
 **The finished disguise**: a **blue-skinned elf**, her coloring recalling [[Lyrion Thalor|Lyrion]]'s. (It was still half-finished — coloring only — when she was called to the Session 31 alley scene; she wore the full disguise **throughout [[The First Egg - Session 32 - 2026-07-19|Session 32]]**. The archivist misread this as Seren "transitioning to a human cleric" — wrong on both counts; it is Thorn's disguise work, and the party gave no cover names because no one asked for any.)
 
+## Egg Hunt — Session 31 (Unearthing Dark Secrets, 2026-06-21)
+
+Full detail in [[Unearthing Dark Secrets - Session 31 - 2026-06-21|the recap]]. Persistent developments for Seren:
+
+- Fetched to the alley mid-disguise ([[Thorn]]'s Greybraids plan) — hurried down half-finished, coloring changed, in a borrowed dress and without shield or armor. Reached the victim too late for a restoration (past the one-minute window) and told the widow she was sorry she hadn't been quick enough.
+- Cast **Speak with Dead**: five questions established the victim was a **survivor of the [[Ironheart Mines]] cave-in**, his killer a dwarf named *"Victor"* with **rotting skin**, and that he had seen something worth silencing — *"There was… people in the cave."* Ruled out [[Victor Barun]] by race.
+- In the sewers: **Sanctuary** on the cornered lady guard, then named the creature from her cleric's study of undeath — a **revenant** — and revised the party's necromancer theory. Her **Turn Undead** left it incapacitated for the binding.
+- Knows the containment is temporary: with no Banishment prepared (hers or [[Lyrion Thalor|Lyrion]]'s) and no castable cleric found in the city, she **volunteered to perform the banishment ritual herself the next day**, urging the guard to reinforce the [[Chained Stone Coffin]] meanwhile.
+
 ## Egg Hunt — Session 32 (The First Egg, 2026-07-19)
 
 Full detail in [[The First Egg - Session 32 - 2026-07-19|the recap]]. Persistent developments for Seren:
@@ -174,3 +183,14 @@ Full detail in [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|the reca
 - Held the whole battle's back line besides: **Channel Divinity healing at range** (11 HP) on the badly-shot Eldrin, saved against the [[Bald Mage (Cliffside Mansion)|mage]]'s **Cone of Cold** (took 20), **healed the frozen, dying [[Mike]] for 29**, and hobbled the mage's rolls with a second Channel Divinity.
 - Post-battle, made the strategic call: reported the **dug tunnel below the manor** connecting toward the mines — with the **singed, empty dragon-egg crates** in it — and argued this had outgrown the party: **involve the city authorities before the eggs leave [[Stonewater]]**. The group agreed.
 - Counseled **against taking the found gold** (~5,000–6,000 gp): *"anything we take might be used against us"* on the way to the guard. The decision was left open.
+
+## Egg Hunt — Session 35 (Tension and Triumph in Snow, 2026-08-30)
+
+Full detail in [[Tension and Triumph in Snow - Session 35 - 2026-08-30|the recap]]. Persistent developments for Seren:
+
+- Took **two books from the manor library** — a history of the [[Ironheart Mines|mines]] and a gazetteer of trading cities — and read the shelf as evidence about the previous owner (childless, commercial, mine-adjacent). *(She was outvoted on the gold in the gentlest way: in character she protested; out of character, "rob the place, jack everything.")*
+- **Summoned [[Captain Grazug]]** by street messenger and ran the debrief herself: the full story minus exactly two facts — **the party's [[Dragon Eggs|egg]] and the forged [[Broader Warrant]]** — with Lyrion's death softened to "gravely injured." *"This goes beyond politics. This is existential."* Described the [[Bald Mage (Cliffside Mansion)|mage]] for the record, surrendered the [[Cult Journal (Cliffside Mansion)|cult journal]] to evidence, and asked the captain to let **any repercussions fall on her alone** — a sword she fell on despite having personally killed no one at the manor (the table noticed).
+- Proposed **relocating taverns** as a precaution (the captain agreed); organized the night watch; declined [[Thorn]]'s whiskey while on captain-watch (*"I'm a cleric. I don't need alcohol to repress my emotions"*) and took the shot the moment he left.
+- Pressed [[Bell]] for the full story of the upstairs fight — her grip tightening on the table's edge at the detail of the sword — and told her: *"I should have walked away from you guys."*
+- **The morning conversation with [[Lyrion Thalor|Lyrion]]**: apologized for leaving him in the fight; heard what he saw on the other side; gave him [[Kelemvor]]'s teaching — the Judge places souls fairly by faith and conduct, and *"if such spells work, it was the will of the gods that you come back."* *"I have never been so relieved."*
+- Practical threads: needs **Banishment re-prepared** (the [[Victor Stonehammer|revenant]] slipped everyone's mind — *"HER PARTNER DIED!"* was her defense); wants the **[[Powerful Diamond|replacement diamond]]** (≥300 gp, third-district jewelers); flagged that [[Mike]] and Lyrion need careful handling until the exhaustion clears.

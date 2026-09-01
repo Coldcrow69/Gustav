@@ -1,6 +1,6 @@
 Aliases recorded by chroniclers: **Bluefields**.
 
-A small village along the river in [[The Wilds]], north of [[Fort Elm]] and south of [[Stonewater]]. **Distinct from [[Roseview]]** ([[Rhaenyra]]'s home village). The party found this village on fire and besieged by a dragonkin warband looking for stolen red dragon eggs.
+A small village along the river in [[The Wilds]], north of [[Fort Elm]], on the river route toward [[Stonewater]] (the city itself lies away to the west — see [[Stonewater]] for the geography). **Distinct from [[Roseview]]** ([[Rhaenyra]]'s home village). The party found this village on fire and besieged by a dragonkin warband looking for stolen red dragon eggs.
 
 ## Destruction
 

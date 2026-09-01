@@ -1,7 +1,7 @@
 # Bluefield Burning
 
 **Arc location:** [[The Wilds]] — north of [[Fort Elm]], traveling via the [[Sail la Vie]]; [[Roseview]], then [[Bluefield]], then the firbolg [[Refugee Camp]].
-**Arc span:** From the party **leaving [[Fort Elm]]** (the sail north) through **leaving the firbolg [[Refugee Camp]]** (~3/1/26). The Fort Elm downtime just before the sail (Mike & Rhaenyra joining, the [[The Apple Thicket]] meeting) is the tail of [[Fish People]] / the lead-in; the travel south from the camp toward [[Stonewater]] (the [[Fairy Grove (Anti-Magic Pocket)|fairy grove]], [[Basil]]'s caravan) is the **opening leg of [[Egg Hunt]]**. See [[Campaign Arcs]] for all arc boundaries.
+**Arc span:** From the party **leaving [[Fort Elm]]** (the sail north) through **leaving the firbolg [[Refugee Camp]]** (~3/1/26). The Fort Elm downtime just before the sail (Mike & Rhaenyra joining, the [[The Apple Thicket]] meeting) is the tail of [[Fish People]] / the lead-in; the travel from the camp toward [[Stonewater]] (south-west as the crow flies, the river route's last leg running south — the [[Fairy Grove (Anti-Magic Pocket)|fairy grove]], [[Basil]]'s caravan) is the **opening leg of [[Egg Hunt]]**. See [[Campaign Arcs]] for all arc boundaries.
 **Status:** Concluded.
 **Dated session log:** [[Bluefield Burning - Sessions 1-5 (Arc Two)]] (the early entries) and [[Transcripts/Transcript Index]] (later sessions).
 

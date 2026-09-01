@@ -17,7 +17,9 @@ A reply to Lyrion's gate inquiry, if it ever comes, is to be routed through **[[
 
 **Session 34 update** ([[Clash at the Cliffside Manor - Session 34 - 2026-08-16|recap]]): the landlord claim survived the battle — [[Seren Moss|Seren]] restated it to the reunited party as the [[Acolytes of Oghma|cult]] leader's exact position: permission to settle in the manor granted by **Kassadren Greybraid**. The stakes on the question have gone up: his tenants are now revealed as a remembrance-cult field cell that **dug a tunnel from the manor to the [[Ironheart Mines]]** (documented by the [[Map of the Mines (Cliffside Mansion)|recovered mines map]]) and kept the stolen [[Dragon Eggs|eggs]] in the cave below — and the party is heading to the **city authorities** with all of it.
 
+**Session 35 update** ([[Tension and Triumph in Snow - Session 35 - 2026-08-30|recap]]): they went. [[Seren Moss|Seren]]'s debrief put the **Kassadren/Greybraids tie on [[Captain Grazug]]'s official record** — the captain's reaction was wary — and her stated guess for whom the escaped [[Bald Mage (Cliffside Mansion)|mage]] reports to was **Kassadren by name**. The clan's reply to the gate inquiry is still owed via the captain, whose force now runs an open investigation into what happened on Greybraid-granted property.
+
 ## Cross-references
 
-- [[Greybraids]] · [[Acolytes of Oghma]] · [[Cliffside Mansion (Stonewater)]] · [[Greybraid Manor (Stonewater)]] · [[Dragon Eggs]]
-- [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02]]
+- [[Greybraids]] · [[Acolytes of Oghma]] · [[Cliffside Mansion (Stonewater)]] · [[Greybraid Manor (Stonewater)]] · [[Dragon Eggs]] · [[Captain Grazug]]
+- [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02]] · [[Clash at the Cliffside Manor - Session 34 - 2026-08-16]] · [[Tension and Triumph in Snow - Session 35 - 2026-08-30]]

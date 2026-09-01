@@ -34,6 +34,10 @@ The bond stopped being theoretical at the [[Cliffside Mansion (Stonewater)|cliff
 - On a failed save, **Zehal took control outright** — *"Bell, you see a target in front of you"* — and turned her on [[Rhaenyra]]'s saber-toothed tiger form (two claw hits, ~19 damage) before a second save (advantage: only friends in sight) let the frenzy recede.
 - At the table the episode was attributed to Zehal by name ("the rage that Zahal was causing"). Bell's stated project: find **what triggered it and how to combat it going forward**. Both are open.
 
+## Session 35 — Bell's own account
+
+Debriefing the others at [[Good For What Ails Ya]] ([[Tension and Triumph in Snow - Session 35 - 2026-08-30|recap]]), [[Bell]] drew the line that matters: she has **lost control before** — hunts, fights, hot-running emotion — *"but that is the first time it truly felt like something external was pushing on me."* [[Rhaenyra]]'s blunt summary, accepted: *"You were possessed."* Bell's memory of the controlled stretch is **mostly intact but blurry**, and her active fear is the next victim being a friend without a tiger's durability. She wants the trigger **discussed and worked as a group** — conversation still pending.
+
 ## Image attachment note
 
 **Status: missing.** A Zehal reference image was described during play, but the file was never added to `Attachments/`. Add `Zehal.png` there if it turns up, and it can be embedded then.

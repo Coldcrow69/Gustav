@@ -2,8 +2,8 @@ A sample of slime taken from the **vile fish creatures** that turned to slime af
 
 Carried by [[Lyrion Thalor|Lyrion]] alongside the [[River Water Vial]].
 
-## Planned experiments (Lyrion)
+## Experiments (Lyrion)
 
-- Dissolve slime substance with acid
-- React with the river water sample to determine makeup
-- Investigate the creatures' source
+- **Done (Session 9, [[Fish People]]):** a tiny drop of acid into the slime vial — **does not neutralize** it.
+- **Done (Session 9):** compared against river foam and wall foam — **all the same substance** as Kuo-Toa slime.
+- Still open: investigate the creatures' source.

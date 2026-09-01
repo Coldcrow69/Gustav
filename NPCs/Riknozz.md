@@ -4,7 +4,7 @@ A **Drow leader / captain** encountered in the cave system beneath [[Fort Elm]] 
 
 ## His sect
 
-Riknozz's people are Drow who have **broken away from more violent sects** and chosen a more peaceful way of life. **They do not worship the Spider Queen** — unlike the Drow Lyrion's family suffered under. The [[Drow Elder]] of this sect explained that their people had seen war and chosen peace.
+Riknozz's people are Drow who have **broken away from more violent sects** and chosen a more peaceful way of life. **They do not worship the [[Lolth|Spider Queen]]** — unlike the Drow Lyrion's family suffered under. The [[Drow Elder]] of this sect explained that their people had seen war and chosen peace.
 
 ## Encounters with the party
 

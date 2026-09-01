@@ -22,3 +22,5 @@ Visual reference: pair of small carved stone figurines, pale weathered limestone
 Glows faintly of **conjuration** magic. [[Lyrion Thalor|Lyrion]] judged it errs **more on the side of Divine than Arcane**; [[Seren Moss|Seren]] may be able to tell more.
 
 Specific properties remain undiscovered. Identified next session (10/2/24) as Blibdoolpoolp.
+
+**Disposition:** the idol was **left in its chamber** — the party never took it (maintainer-confirmed).

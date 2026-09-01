@@ -23,3 +23,9 @@ Full recap: [[Dragons, Disguises, and Dilemmas - Session 30 - 2026-05-17]].
 The recovered **[[Dragon Eggs|dragon egg]]** was examined here in a locked upstairs room ([[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02|Session 33]]), then left under [[Thorn]] and [[Rhaenyra]]'s guard during the [[Cliffside Mansion (Stonewater)|cliffside manor]] raid. In [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|Session 34]], [[Thorn]] **hid the egg in a chest in the room's closet and covered it with an illusion**, then sent Rhaenyra to the manor on a bad feeling — leaving herself the egg's **sole guardian** at the tavern through the session's end.
 
 > Transcript note: the Session 34 recording garbles the tavern's name as "the Goodnight Press" — same establishment; there is only one tavern on-page in this arc.
+
+## Session 35 — the long night after the manor (2026-08-30)
+
+The whole of [[Tension and Triumph in Snow - Session 35 - 2026-08-30|Session 35]]'s first half played out here: the party's shattered evening return from the [[Cliffside Mansion (Stonewater)|manor]], [[Thorn]]'s whiskey-and-sketchpad triage of the survivors, and **[[Captain Grazug]]'s visit** — summoned by [[Seren Moss|Seren]]'s messenger, debriefed over a table for two, taking statements outside one by one. The party sleeps **two rooms** here: [[Eldrin Thalor|Eldrin]], [[Lyrion Thalor|Lyrion]], [[Seren Moss|Seren]], and [[Rhaenyra]] in one; [[Mike]], [[Thorn]], and [[Bell]] in the other. Overnight, the guard **[[Dura]]** sat post in the hallway between the doors.
+
+House notes: the barkeep ([[Nastrin]])'s specials ran to shepherd's pie and fresh bakery bread; he has a **special mead order** arriving for Eldrin (Mike is angling to buy the barrels outright); and he pointed Thorn to the **hot springs** on the city's eastern cliffs. The party plans to **relocate to another tavern** all the same — the enemy knows this address, and so do the guards.

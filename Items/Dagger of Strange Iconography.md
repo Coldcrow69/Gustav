@@ -2,6 +2,8 @@
 
 A **dagger** found in the caves beneath [[Fort Elm]] during Session 10 of the [[Fish People]] arc (10/2/24). Bearing **strange iconography that none of the party recognized**.
 
+**Holder:** [[Lyrion Thalor|Lyrion]] (maintainer-confirmed). Its [[Coin of Strange Iconography|companion coin]] is stored in [[Gustav]].
+
 ## Discovery
 
 A **strip of cloth** was buried under rocks in the side of the spiral cave path, with a piece of metal glinting beside it — a **completely decayed human skeleton** with **a rusted shield remnant** in its right hand. **The dagger was lodged in the skeleton's ribcage.**

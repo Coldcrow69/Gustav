@@ -39,7 +39,7 @@ Brother to [[Eldrin Thalor]]. Carries the named sentient magical codex [[Gustav]
 - During the spirit-communion ritual at the [[Refugee Camp]], **a spirit spoke Lyrion's name** — significance unresolved.
 - **Polymorph into a sheep** (Wizard 4th-level): 5/3/26, used to escape the [[Fairy Grove (Anti-Magic Pocket)|fairy-tree]]. This is the literal "wizard battle in the anti-magic zone followed by magical instability" he later laments at [[Good For What Ails Ya|the tavern]] in [[Egg Hunt]] Session 29.
 - **Spell scrolls copied into [[Gustav]]** (post-aboleth, from the [[Spell Scroll Case (Aboleth Pit)|altar-pit scroll case]]): **Protect from Fey** and **Divination** — both now in his prepared-spell repertoire.
-- **Order of Scribes wizard.** [[Gustav]] is his **Awakened Spellbook** — the subclass's signature feature, which is why the book is sentient and opinionated. Per [[Unearthing Dark Secrets - Session 31 - 2026-06-21|Session 31]], his prepared repertoire also includes **Banishment** and **Remove Curse** (readied against the [[Victor Stonehammer]] revenant).
+- **Order of Scribes wizard.** [[Gustav]] is his **Awakened Spellbook** — the subclass's signature feature, which is why the book is sentient and opinionated. Per [[Unearthing Dark Secrets - Session 31 - 2026-06-21|Session 31]], he **knows Banishment but did not have it prepared** that day (neither did Seren — "they had not planned for a fight"); what he readied against the [[Victor Stonehammer]] revenant was **Remove Curse**.
 
 **History**: His **mother [[Endra Thalor]] — herself part-drow — was tortured and murdered by Drow** (one of the more violent sects). The double-edged nature of this trauma — kin killing kin — drives Lyrion's complicated relationship with his own blue skin and his reflexive hostility toward all Drow. His **father used to beat [[Eldrin Thalor|Eldrin]] in the family cellar** (the "dad's basement" the brothers reference at the [[Riddle Door]]). During the [[Fish People]] arc he killed a Drow prisoner on sight and later atoned to [[Riknozz]]'s peaceful sect (blood debt paid via slaying the [[The Undead Aboleth|undead aboleth]]). The aboleth conjured an illusion of his dead mother to deceive him; he answered with a fireball.
 
@@ -103,6 +103,16 @@ While [[Thorn]] took [[Seren Moss|Seren]] upstairs for a disguise, Lyrion invite
 
 As they started to leave the alley Lyrion remarked that **even he could tell [[Rhaenyra]] was interested in Eldrin as more than a friend**. A frightened human voice nearby then drew both brothers toward **a [[Dwarven Woman (Stonewater Pickaxe Body)|dwarven woman]] crouched over a pickaxe-killed corpse** — cliffhanger.
 
+## Egg Hunt — Session 31 (Unearthing Dark Secrets, 2026-06-21)
+
+Full detail in [[Unearthing Dark Secrets - Session 31 - 2026-06-21|the recap]]. Persistent developments for Lyrion:
+
+- Worked the alley murder scene while [[Eldrin Thalor|Eldrin]] gave chase: noted the victim's **missing knife** (empty sheath) and the pool of **[[Black Ichor|black ichor]]** in the blood (dipped a finger and smelled it — old, decomposing iron), and identified the killing pickaxe's **[[Stoneforge Clan]] insignia**, the same crest from [[Baldrin Stoneforge|Baldrin]]'s house.
+- Judged the victim beyond ordinary healing and sent the widow to fetch [[Seren Moss|Seren]]; wiped the ichor off on a guard's tabard and Prestidigitated himself clean; told the lead guard plainly the city had "a necromancer problem."
+- Framed the sewer detour as an in-and-out twenty minutes (skipping the Baldrin meeting); cast **Mage Armor** on the disguise-stripped Seren on the way down.
+- Peeked into the revenant's den — lumber, mortar, rat carcasses, and the gnawed **[[Severed Dwarven Torso|dwarven torso]]**; his **Detect Magic found no magic in the lair**, confirming Seren's read: a self-animating revenant, not a necromancer's puppet.
+- Knows **Banishment** but did not have it prepared that day; readied **Remove Curse** (touch) over the [[Chained Stone Coffin]] for the moment the lid opened — and the lid opened on liquid.
+
 ## Egg Hunt — Session 32 (The First Egg, 2026-07-19)
 
 Full detail in [[The First Egg - Session 32 - 2026-07-19|the recap]]. Persistent developments for Lyrion:
@@ -140,4 +150,14 @@ Full detail in [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|the reca
 
 ### Lingering condition
 
-- **Exhaustion: 5 of 6 levels** (maintainer-confirmed) after the revival stacked onto his existing [[Fairy Grove (Anti-Magic Pocket)|plant-fight]] fatigue. One more level kills him; rest is the immediate priority. (Table note: the penalty affects his attacks, not his spell save DCs.)
+- **Exhaustion: 5 of 6 levels** (maintainer-confirmed) after the revival stacked onto his existing [[Fairy Grove (Anti-Magic Pocket)|plant-fight]] fatigue. One more level kills him; rest is the immediate priority. (Table note: the penalty affects his attacks, not his spell save DCs.) **Session 35's long rest brought him to 4 of 6.**
+
+## Egg Hunt — Session 35 (Tension and Triumph in Snow, 2026-08-30)
+
+Full detail in [[Tension and Triumph in Snow - Session 35 - 2026-08-30|the recap]]. The day after dying:
+
+- Barely upright through the manor sweep (leaning on [[Seren Moss|Seren]]), received the **[[Tenets of the Ones Forgotten]]** prayer book from [[Eldrin Thalor|Eldrin]] for his growing to-read pile, Prestidigitated the blood off everyone, and sighed at the unfixable sword-hole in his shirt. Went straight to bed at the tavern — catching Seren's hand as she turned to go: *"Will you stay for just a little longer?"* — and cried himself quietly to sleep.
+- **The morning conversation** ([[Seren Moss|Seren]], in bed, dawn): asked whether everyone shares one afterlife or must choose, then told her what he saw — **[[Endra Thalor|his mother]]**, *"clear as day in front of me"* after decades of being unable to recall her face. *"You were there to call me back. Lest I may have stayed. But I don't think it's my time yet."* Heard [[Kelemvor]]'s doctrine in return: a fair Judge, and revival-spells-that-work as the will of the gods. Named his state plainly: *"far more mortal than I ever realized myself to be,"* and feeling like a wizard who's lost his mojo.
+- Gave [[Captain Grazug]] his **statement** at the guardhouse: truthful, terse, monosyllabic — a man visibly done with officialdom.
+- At [[Aiker's Potion Explorium]]: opened the [[Arcane Scroll Case (Cliffside Mansion)|arcane scroll case]] at last and identified the **[[Scroll of Chain Lightning]]** — 6th-level magic beyond his current grasp, worked out by extrapolating from Witch Bolt. Then mounted a full Order-of-Scribes sales offensive on the 7,000 gp **Potion of Vitality**: five self-scribed scrolls offered (Divination pitched as *"a spell scroll that lets you talk to a god,"* Fireball, Invisibility, Witch Bolt, Mage Armor) plus coin, [[Gustav]] thumped on the counter as proof of craft — **negotiation unresolved at session end**.
+- Running gags fed: air-quote "scrawny" (180 lbs, 6'3"), the offer to be princess-carried to the hot springs graciously declined then reconsidered, and a **rose-scented Prestidigitation** doing the work of a bath until the springs deliver the real thing.

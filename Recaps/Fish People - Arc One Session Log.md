@@ -57,7 +57,7 @@ Reading order:
   - [[Thorn]] talks to "the freaks on the streets" — speaks with a clown named **[[Soots]]**. Soots tells her of a tavern on the east side called the **[[Spit & Spindle]]** that has an **entrance into the sewers in their back alleyway** (knock 3 times, wait, knock 3 times, wait, knock 1 time).
   - [[Seren Moss|Seren]] goes to inform her family that her mother has been taken.
   - [[Bell]] heads home to check on her hut — **the hut is ransacked**, food gone, **wet earth with unusual webbed prints** (not boot or paw). Either multiple people or one person pacing back and forth. Tracks suggest searching for someone or something specific. Direction of approach not immediately clear.
-  - [[Lyrion Thalor|Lyrion]] and [[Eldrin Thalor|Eldrin]] go with Seren and then to the **Council Chambers** with Victor.
+  - [[Lyrion Thalor|Lyrion]] and [[Eldrin Thalor|Eldrin]] go with Seren and then to the **[[Fort Elm Council Chambers|Council Chambers]]** with Victor.
 
 ## 8/21/24 — Session 7
 

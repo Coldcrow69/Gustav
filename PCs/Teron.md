@@ -2,7 +2,7 @@ Aliases: **Teran**, **Teren** (chronicler spelling variants).
 
 Player: **Eve** *(original Fish People-era player; subsequently quit the campaign)*.
 
-> **Status: Written out.** Teron has been swept under the rug as the campaign moved past the [[Fish People]] arc. The party does not discuss him; he is **not** referenced or invoked in [[Bluefield Burning]] or [[Egg Hunt]] sessions. This page exists as historical record only.
+> **Status: Written out.** Teron has been swept under the rug as the campaign moved past the [[Fish People]] arc. The party does not discuss him by name. His single oblique appearance since: in [[Tension and Triumph in Snow - Session 35 - 2026-08-30|Session 35]], [[Seren Moss|Seren]] mused she could *swear* there was another guy with them back in the fish-people days — *"I can't remember his name now, it's so strange"* — while [[Lyrion Thalor|Lyrion]] counted heads and concluded no one was missing. The written-out Teron, remembered as a hole in the world. This page exists as historical record only.
 
 ## Character Sheet
 

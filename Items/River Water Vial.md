@@ -4,9 +4,7 @@ The river was polluted with slimy and foamy substances, filled with vile fish cr
 
 Companion sample: [[Slime Sample]].
 
-## Planned experiments (Lyrion)
+## Experiments (Lyrion)
 
-- Dissolve river water with — (acid? reagents TBD)
-- Observe foamy river water with magnifying glass / microscope
-- React substances to determine makeup
-- Investigate the source
+- **Done (Session 9, [[Fish People]]):** examined river foam, wall foam, and Kuo-Toa slime side by side — **all the same substance** (see [[Slime Sample]]).
+- Still open: dissolve river water with reagents (acid? TBD); microscope observation of the foam; investigate the source.

@@ -1,6 +1,6 @@
 # Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02
 
-> **Campaign Session 33.** Fifth session of the [[Egg Hunt]] arc (archivist labels it "Session 5," arc-local as usual, and stamps it 2026-08-03 — the known Monday date artifact; the group plays Sundays, so the canonical date is **2026-08-02**). **In-fiction it is still the same continuous Stonewater day** that began in Session 30 — about 4:30 in the afternoon at the session's start, evening by its end.
+> **Campaign Session 33.** Fifth session of the [[Egg Hunt]] arc (archivist labels it "Session 5," arc-local as usual, and stamps it 2026-08-03 — the known Monday date artifact; the group plays Sundays, so the canonical date is **2026-08-02**). **In-fiction it is still the same continuous Stonewater day** that began in Session 30 — about 4:30 in the afternoon at the session's start, approaching five o'clock by its end (the whole manor raid runs faster than it reads — the party is back in the city by about five, per Session 35).
 >
 > **Source note.** This session has both a **speaker-labeled transcript** (kept offline with the rest of the transcripts — see [[Transcripts/Transcript Index]]) and an archivist per-session export; the transcript is authoritative. The usual labeling quirk applies: Lyrion's player (Joey) is mislabeled "GM" in the transcript — the only DM is Raiden. **No speaker lines from Jenna ([[Thorn]]) or Miranda ([[Rhaenyra]]) appear in the recording**; both PCs were present in-fiction, run as companions (Thorn voiced by the DM, Rhaenyra's familiar directed by Chase).
 >

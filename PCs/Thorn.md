@@ -34,6 +34,7 @@ She shared her true form with [[Lyrion Thalor|Lyrion]] and [[Eldrin Thalor|Eldri
 
 - [[Belt of Bone Carved Trinkets]] — collected during the Fish People arc
 - [[Underground Aquatic Creature Skull]] — trophy from the cave combat
+- **Minor luck potion** — bought at [[Aiker's Potion Explorium]] for 200 gp on gambler's instinct ([[Tension and Triumph in Snow - Session 35 - 2026-08-30|Session 35]])
 
 ## Fish People arc — selected moments
 
@@ -60,6 +61,13 @@ Has been staying at the tavern [[Good For What Ails Ya]], which offers beds and 
 - **Connected the mine murders to the cave-in**: Baldrin had said the bodies looked pickaxe-killed, and the victims were known **survivors of the recent cave-in** — the deduction that reframed the investigation. Argued the mines could surface useful intelligence before any approach to the [[Greybraids]].
 - Took [[Seren Moss|Seren]] upstairs and **built her disguise** — altering hair and makeup off Seren's usual blonde (finished as the **blue-skinned elf** look Seren wore through [[The First Egg - Session 32 - 2026-07-19|Session 32]]).
 
+## Egg Hunt — Session 31 (Unearthing Dark Secrets, 2026-06-21)
+
+Full detail in [[Unearthing Dark Secrets - Session 31 - 2026-06-21|the recap]]. Persistent developments for Thorn:
+
+- Had [[Seren Moss|Seren]] upstairs **mid-disguise at her hands** (the Session 30 plan to approach the [[Greybraids]] unrecognized) when the alley murder interrupted — Seren went down the stairs half-finished, and the disguise plan was overtaken by the [[Victor Stonehammer]] revenant chase.
+- Descended into the [[Stonewater Sewers]] with the party for the revenant's containment and the [[Chained Stone Coffin]] cliffhanger.
+
 ## Egg Hunt — Session 32 (The First Egg, 2026-07-19)
 
 Full detail in [[The First Egg - Session 32 - 2026-07-19|the recap]]. Persistent developments for Thorn:
@@ -85,3 +93,15 @@ Full detail in [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|the reca
 
 - **Hid the recovered [[Dragon Eggs|dragon egg]]** at [[Good For What Ails Ya]]: tucked into a chest in the room's closet and **covered with an illusion**.
 - Released [[Rhaenyra]] to the manor fight on instinct — *"If you want to go join them at the manor — I have a bad feeling. I think I can watch this by myself now."* Kept solo watch over the egg for the rest of the session.
+
+## Egg Hunt — Session 35 (Tension and Triumph in Snow, 2026-08-30)
+
+> *(Jenna returned this session — Thorn back as a full PC. Her in-fiction whereabouts during the absent sessions stand as played: egg-guard duty at the tavern.)*
+
+Full detail in [[Tension and Triumph in Snow - Session 35 - 2026-08-30|the recap]]. Persistent developments for Thorn:
+
+- Got the day's news cold — *"Lyrion died."* — and responded as the party's bartender-therapist: silent whiskeys slid to the wrecked ([[Eldrin Thalor|Eldrin]] took his without looking up; [[Seren Moss|Seren]] declined on duty, accepted later), and the **circus sketchpad** deployed — outfit designs for everyone, [[Rhaenyra]] posing, now that the show is mysteriously funded (*"You're welcome. I always knew somebody would see our talents."*).
+- For [[Captain Grazug]]: **transformed into the wagon-driver suspect** on the spot (the captain staggered; *"How did you do that?"* / *"Wouldn't I like to know?"*), then sat for the guard's **sketch artist** wearing the borrowed face — "the easiest sketch job I've ever had." Gleefully noted two new faces for the repertoire this session: the captain and [[Dura]] (*"Yay, I get to be a dwarf later"*).
+- Spent first watch giving the [[Dragon Eggs|dragon egg]] **a wig and full makeup** ("I'm going to be the prettiest girl at the party"); her carry-it-as-my-baby scheme died to the DM's ruling (*"it's so egg-shaped"*) and the egg went into [[Mike]]'s backpack. *"No whimsy in this world."*
+- Instigated the **hot-springs plan** (asked the barkeep, got directions east) — *"It's not every day that one of your friends dies and then comes back, so I think it's cause for celebration"* — and co-founded the **multiple-Rhaenyras prank conspiracy** with Mike's new [[Hat of Disguises (Mordenkainen)|hat]] (target: Eldrin; Rhaenyra: *"No convincing needed"*). Wisely tabled the impulse to Lyrion-face Mike: *"maybe not today, after he just died."*
+- Bought herself a **minor luck potion** at [[Aiker's Potion Explorium]] (*"I'm a gambler"*), after insight-checking the kenku's pricing. On [[Lyrion Thalor|Lyrion]]'s state: *"I feel like he's one small inconvenience away from a mental breakdown"* — and on death generally: *"dying can probably make you want a lot of things you didn't want before."*

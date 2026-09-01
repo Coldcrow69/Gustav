@@ -21,7 +21,7 @@ That talk never happened: **Victor's body was found** at the mansion. Commotion 
 
 ## The party assembles
 
-The future [[!Crypt Keepers|Crypt Keepers]] is assembled around this incident — each PC individually invited as a mutual friend of Victor's:
+The future [[!Crypt Keepers|Crypt Keepers]] is assembled around this incident — [[Bell]], [[Teron]], and [[Seren Moss|Seren]] individually invited as mutual friends of Victor's; [[Thorn]], [[Eldrin Thalor|Eldrin]], and [[Lyrion Thalor|Lyrion]] present not as guests but as the **hired entertainment** (the Twilight Masqueraders' engagement):
 
 - [[Bell]] was camping south of [[Fort Elm]]
 - [[Teron]] was training on the east side of the city

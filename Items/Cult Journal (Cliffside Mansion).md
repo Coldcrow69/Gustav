@@ -1,5 +1,7 @@
 # Cult Journal (Cliffside Mansion)
 
+> **In [[Captain Grazug]]'s custody as evidence** ([[Tension and Triumph in Snow - Session 35 - 2026-08-30|Session 35]]) — surrendered by [[Seren Moss|Seren]] at the captain's request; the guard will copy it and use it to attempt identifications of the cult. The party retains the related **[[Tenets of the Ones Forgotten]]** prayer book, undisclosed.
+
 An **unnamed personal journal** recovered from a chest of personal effects on the second floor of the [[Cliffside Mansion (Stonewater)|cliffside manor]] ([[Clash at the Cliffside Manor - Session 34 - 2026-08-16|Session 34]]). The single best window so far into what the [[Acolytes of Oghma]] actually are.
 
 ## Contents
@@ -24,5 +26,5 @@ Found alongside: a blank leather-bound clasped book, a small coin pouch, persona
 
 ## Cross-references
 
-- [[Acolytes of Oghma]] · [[Cliffside Mansion (Stonewater)]] · [[Dragon Eggs]] · [[Stonewater]]
-- [[Clash at the Cliffside Manor - Session 34 - 2026-08-16]]
+- [[Acolytes of Oghma]] · [[Cliffside Mansion (Stonewater)]] · [[Dragon Eggs]] · [[Stonewater]] · [[Tenets of the Ones Forgotten]] · [[Captain Grazug]]
+- [[Clash at the Cliffside Manor - Session 34 - 2026-08-16]] · [[Tension and Triumph in Snow - Session 35 - 2026-08-30]]

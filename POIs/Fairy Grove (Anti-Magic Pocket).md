@@ -1,6 +1,6 @@
 # Fairy Grove (Anti-Magic Pocket)
 
-An **area of anti-magic** in the **foothills of the [[Iron Peaks]] just east of [[Stonewater]]**, encountered during the party's trek toward Stonewater in April 2026.
+An **area of anti-magic** in the **foothills of the [[Iron Peaks]] just east of [[Stonewater]]**, encountered during the party's trek toward Stonewater (the fairy-tree fight itself: **5/3/26**, the session before the party's Stonewater arrival).
 
 ## Effects
 

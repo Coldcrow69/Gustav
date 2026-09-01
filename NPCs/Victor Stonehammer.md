@@ -30,6 +30,8 @@ The victims are **survivors of the [[Ironheart Mines]] cave-in**. The party's un
 
 Session 31 cliffhanger: the party contained the revenant in a [[Chained Stone Coffin]]; on opening it, the host body had **dissolved into a moving liquid** — destroyed in form but **not ended**.
 
+**As of [[Tension and Triumph in Snow - Session 35 - 2026-08-30|Session 35]] (the morning after the manor raid): still no reports of it resurfacing** — a full night has now passed since the half-day re-forming estimate, and the [[Captain Grazug|guard]] has heard nothing; they'll send word if "the creature" appears or keeps lying low. [[Seren Moss|Seren]], reminded by [[Mike]], noted she must **re-prepare Banishment** among her daily spells.
+
 **As of [[The First Egg - Session 32 - 2026-07-19|Session 32]]: disembodied, at large.** The spirit abandoned its ruined host; per the warning [[Seren Moss|Seren]] gave the city guard, it can **re-form in another corpse within roughly half a day** in the city. Banishment remains impossible until the next in-fiction day — Seren's volunteered ritual is still pending. Countermeasures in motion: the [[Captain Grazug|guard captain]] is warning the **graveyard keepers**, [[Baldrin Stoneforge|Baldrin]] owes the party **lists of the cave-in's dead and survivors** (its remaining targets), and [[Eldrin Thalor|Eldrin]] carries a [[Vial of Decomposed Black Goo|sample of the coffin remains]]. The captain referred the party to **[[Havid]]** for the details of how Stonehammer originally died; Baldrin, asked directly, said the name **didn't immediately stand out to him**.
 
 ## Cross-references

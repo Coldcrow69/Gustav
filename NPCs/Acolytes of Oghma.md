@@ -12,11 +12,15 @@ The **[[Cult Journal (Cliffside Mansion)|unnamed member's journal]]** recovered 
 
 The manor's closets held their **cultists' robes** alongside ordinary traveling and caravan supplies — a sect that moves.
 
+## The prayer book (Session 35)
+
+A handbound **prayer book, [[Tenets of the Ones Forgotten]]**, surfaced from the same personal-effects chest ([[Tension and Triumph in Snow - Session 35 - 2026-08-30|Session 35]]): the journal's creed in liturgical form — shared scripture, not one member's mania. Its title is the best candidate yet for what the sect calls itself: **the Ones Forgotten**. The [[Cult Journal (Cliffside Mansion)|journal]] is now in [[Captain Grazug]]'s evidence locker (the guard will copy it and attempt identifications); the prayer book stayed, undisclosed, with [[Lyrion Thalor|Lyrion]].
+
 ## Known members
 
-- **[[Cult Elder (Cliffside Mansion)|The Elder]]** — leader; denied everything; ordered the ambush euphemism ("see them well taken care of"); fled Witch-Bolt-maimed in Session 33 and was **not found** in the Session 34 manor search. At large.
+- **[[Cult Elder (Cliffside Mansion)|The Elder]]** — leader; denied everything; ordered the ambush euphemism ("see them well taken care of"); fled Witch-Bolt-maimed in Session 33 — **DEAD** ([[Tension and Triumph in Snow - Session 35 - 2026-08-30|Session 35]] table confirmation): he was the kitchen sword-cultist who **stabbed the fallen [[Lyrion Thalor|Lyrion]]** (*"You will be forgotten"*) and was **cleaved in two by [[Bell]]** in Session 34.
 - **[[Vil]]** — young human greeter/escort; killed by [[Mike]] on the cellar stairs (Session 33).
-- **[[Bald Mage (Cliffside Mansion)|The bald mage]]** — ornate robes, wand of force bolts; **killed [[Lyrion Thalor]]** (since revived); fought the whole party in [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|Session 34]] (Invisibility, Shield, Counterspell, Cone of Cold) and **escaped or hid — unaccounted for**.
+- **[[Bald Mage (Cliffside Mansion)|The bald mage]]** — ornate robes, wand of force bolts; **killed [[Lyrion Thalor]]** (since revived); fought the whole party in [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|Session 34]] (Invisibility, Shield, Counterspell, Cone of Cold) and **escaped or hid — unaccounted for**. Now the cell's **sole surviving leader**; described to the guard in Session 35 (forehead mark, jaundiced, glowing eyes — portrait shared).
 - **An ornate-robed cellar figure** — hurled a fire blast down the cellar corridor (Session 33); distinct from the bald mage; presumed among the Session 33–34 dead.
 - **Rank-and-file cultists** — sickles, Hold Person, Command, a conjured **spectral sickle** (slashing + necrotic; their weapons carry necrotic harm generally). Battle cry: *"We will not be forgotten!"* One cut down his own wavering comrade — *"You coward!"* — rather than let him surrender. **All rank-and-file at the manor are now dead**: [[Bell]] cleaved one in two and put her axe through a second's skull; [[Rhaenyra]] (saber-toothed tiger) tore out the last one's throat (Session 34).
 
@@ -31,5 +35,5 @@ The manor's closets held their **cultists' robes** alongside ordinary traveling 
 
 ## Cross-references
 
-- [[Cliffside Mansion (Stonewater)]] · [[Kassadren]] · [[Oghma]] · [[Aberration (Cliffside Mansion)]] · [[Dragon Eggs]] · [[Cult Journal (Cliffside Mansion)]]
-- [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02]] · [[Clash at the Cliffside Manor - Session 34 - 2026-08-16]]
+- [[Cliffside Mansion (Stonewater)]] · [[Kassadren]] · [[Oghma]] · [[Aberration (Cliffside Mansion)]] · [[Dragon Eggs]] · [[Cult Journal (Cliffside Mansion)]] · [[Tenets of the Ones Forgotten]]
+- [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02]] · [[Clash at the Cliffside Manor - Session 34 - 2026-08-16]] · [[Tension and Triumph in Snow - Session 35 - 2026-08-30]]

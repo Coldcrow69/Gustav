@@ -1,4 +1,4 @@
-Full name: **Baldrin Stoneforge** (also recorded as "Baldrun Stoneforge" in chronicler notes).
+Full name: **Baldrin Stoneforge** (also recorded as "Baldrun" / "Baldrum" / "Baldron" Stoneforge in chronicler notes).
 
 Foreman of the [[Ironheart Mines]]. Resides in [[Stonewater]] (also recorded as "Stoneforge" / "Ironforge" in chronicler notes). Business associate of [[Victor Barun]], who sent the party to assist with disappearances and murders linked to the mines.
 

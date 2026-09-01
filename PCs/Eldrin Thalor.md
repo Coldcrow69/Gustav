@@ -29,6 +29,8 @@ Reference images (supplemental): ![[Eldrin.png]] and ![[Eldrin.jpg]]
 - **[[Rope of Mending]]** — gift from [[Victor Barun]] (9/24/25 at [[The Apple Thicket]])
 - **[[Seren's Cloaks|Eldrin's cloak]]** — emerald green velvet with gold lace trim; gift from [[Seren Moss|Seren]] prior to Bluefield Burning departure
 - **[[Vial of Decomposed Black Goo]]** — sample of the [[Victor Stonehammer]] revenant's liquefied remains, collected from the [[Chained Stone Coffin]] in [[The First Egg - Session 32 - 2026-07-19|Session 32]]; analysis pending
+- **The manor gold — ~6,000 gp** (a 120-lb chest), taken in full from the [[Cliffside Mansion (Stonewater)|cliffside manor]] in [[Tension and Triumph in Snow - Session 35 - 2026-08-30|Session 35]]; the circus fund
+- **[[Black Silk Cloth (Cliffside Mansion)|Black silk cloth]]** — from his locked manor box (Session 35); **unidentified**, held back for a private examination with [[Lyrion Thalor|Lyrion]]
 
 Brother to [[Lyrion Thalor]]. Member of the **Twilight Masqueraders**, a group of performers-turned-adventurers.
 
@@ -65,6 +67,15 @@ When [[Thorn]] took [[Seren Moss|Seren]] upstairs for a disguise, Eldrin agreed 
 
 Lyrion remarked on the way out of the alley that **[[Rhaenyra]] was clearly interested in Eldrin as more than a friend** — Eldrin's reaction not yet recorded. A frightened nearby scream then drew Eldrin to **a [[Dwarven Woman (Stonewater Pickaxe Body)|dwarven woman]] crouched over a pickaxe-killed corpse**; he moved toward the sound first, Lyrion followed.
 
+## Egg Hunt — Session 31 (Unearthing Dark Secrets, 2026-06-21)
+
+Full detail in [[Unearthing Dark Secrets - Session 31 - 2026-06-21|the recap]]. Persistent developments for Eldrin:
+
+- First to the chase at the alley murder scene: followed the trail of **[[Black Ichor|black-ichor]] droplets** — unnaturally uniform, neither clotting nor bleeding out — to a hinged **[[Stonewater Sewers|sewer grate]]**, pried it open, heard metal grinding and a door shut below, and (catching himself doing exactly what he'd scolded [[Lyrion Thalor|Lyrion]] for) climbed back out.
+- Withheld the sewer find from the guards' questioning, then admitted it to Lyrion when the eavesdropping **lady guard slipped away down the same trail** — and led the party after her, drawing them off from the crowd with a pretext about "a really cool store."
+- Worried aloud that the killer's name "Victor" might mean [[Victor Barun]]; [[Seren Moss|Seren]] ruled it out (this Victor "ended up being a dwarf").
+- In the sewer fight, opened with **Phantasmal Killer** on the [[Victor Stonehammer]] revenant — buying the cornered guard her opening to disengage and go for reinforcements.
+
 ## Egg Hunt — Session 32 (The First Egg, 2026-07-19)
 
 Full detail in [[The First Egg - Session 32 - 2026-07-19|the recap]]. Persistent developments for Eldrin:
@@ -92,3 +103,13 @@ Full detail in [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|the reca
 - Barred the basement door and set the terms: *"Whatever comes through this door — I need you to heal my brother."* When Revivify took hold, he healed Lyrion himself, hand on his cheek: **"Don't you ever fucking do that again."** *("I don't think I've ever been as scared. And that's saying something.")*
 - In the mage-hunt: **Dissonant Whispers** (13 psychic) burned the mage's reaction and pinned him for a round; saved against **Cone of Cold** (took 20).
 - In the search: voiced the reunion rule — *"We've seen what happens when we fucking break up"* — found the **swivel bookshelf** hiding the chest room, opened the gold and personal-effects chests, **read the [[Cult Journal (Cliffside Mansion)|cult journal]] aloud** (the therapy-group-to-cult arc), identified the [[Map of the Mines (Cliffside Mansion)|mines map]]'s meaning (*"I think we may have found who was behind the tunnel behind the collapse"*), and wrapped up the [[Arcane Scroll Case (Cliffside Mansion)|arcane scroll case]] to give to Lyrion.
+
+## Egg Hunt — Session 35 (Tension and Triumph in Snow, 2026-08-30)
+
+Full detail in [[Tension and Triumph in Snow - Session 35 - 2026-08-30|the recap]]. Persistent developments for Eldrin:
+
+- **Took the manor gold — all of it** (~6,000 gp, a 120-lb chest, well within a STR 18 lifetime of hauling his brother; maintainer-confirmed). The cover story: *"Someone decided to be generous."* **The circus is funded**; handed the [[Tenets of the Ones Forgotten]] prayer book to Lyrion (*"that seems a Lyrion thing"*).
+- His box from the manor held the **black silk cloth** — still **unidentified**; he's deliberately saving the examination for a private moment with [[Lyrion Thalor|Lyrion]].
+- Spent the evening **hollow and silent** over his mead — processing his brother's death and revival, deflecting [[Rhaenyra]] and [[Thorn]]'s probes (*"maybe I'm just tired"*), taking Thorn's wordless whiskey. Voiced the doubt out loud to Seren later: *"I don't know if I'm cut out for this adventuring life… everywhere we go is just trouble."* *"My brother has never wanted peace."*
+- **First statement to [[Captain Grazug]]** — several meads deep, told him *everything*, including the death, the diamond, and the resurrection ("Saren crushed a diamond in her hands and did some crazy cleric shit and brought him back to life"), plus the genuinely useful part: the cultists' tunnel and its link to the mine collapse. Counted **"at least a dozen"** cultists for the record.
+- Took the **dawn watch sitting with [[Dura]]** in the hallway and befriended her completely: family histories traded, the circus pitched, and total vindication received on his longest-held belief — she doesn't trust horses either (*"They know too much."* / *"I'm glad somebody gets it."*).

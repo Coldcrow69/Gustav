@@ -10,7 +10,7 @@ A **very large diamond — roughly five carats** — carried by [[Seren Moss|Ser
 - **Session 33** ([[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02|recap]]): the diamond became the hinge of the arc's cliffhanger — **[[Lyrion Thalor]] dead** in the [[Cliffside Mansion (Stonewater)|cliffside manor]] with a **ten-round Revivify window**, and Seren (diamond and spell in hand) two floors below in the dark. *"You have one minute. Get him to me."*
 - **Session 34** ([[Clash at the Cliffside Manor - Session 34 - 2026-08-16|recap]]): the body-relay beat the clock. In the casting, the diamond **lit from within with silver light, threw prisms across the basement, and shattered into wisps** — consumed, and worth it. Lyrion lives.
 
-The party now has **no Revivify diamonds banked**; Seren wants replacements bought.
+The party now has **no Revivify diamonds banked**; Seren wants replacements bought. The hunt began in [[Tension and Triumph in Snow - Session 35 - 2026-08-30|Session 35]]: the spell demands a stone worth **at least 300 gp** (*"the gods are very specific"* — Seren, to [[Lyrion Thalor|Lyrion]]'s needling about divine appraisers), and [[Dura]] pointed the party at the **jewelers of [[Stonewater]]'s third district** — visit still pending at session end.
 
 ## Cross-references
 

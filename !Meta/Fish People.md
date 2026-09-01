@@ -27,7 +27,7 @@ Teron and Bell sparred that same evening, during which Teron revealed he could n
 
 ### The proposal and the collapse
 
-The following morning, Victor laid out his proposal to the group of six would-be adventurers: in [[Stonewater]], a settlement to the north, there had been **eight disappearances in a single section of the [[Ironheart Mines|mine]]**. Supernatural events had been reported. Victor felt this group was best for the job.
+The following morning, Victor laid out his proposal to the group of six would-be adventurers: in [[Stonewater]], a settlement reached by the northward river route (due west of [[Fort Elm]] as the crow flies), there had been **eight disappearances in a single section of the [[Ironheart Mines|mine]]**. Supernatural events had been reported. Victor felt this group was best for the job.
 
 Before they could accept or decline, **the house collapsed** into the cave system beneath, knocking all present unconscious. Their final memory before all went black was a snarling, unnatural voice in their minds:
 
@@ -59,11 +59,11 @@ Battle was joined. Moving deeper, the group spotted a small group of bound, unco
 
 Monsters still loomed, so the party redirected their aggression. Lyrion and Eldrin maintained they had done nothing wrong; Teron declared his intent to **report the murder** when they returned to Fort Elm. Eldrin issued a thinly veiled threat. The group moved on uneasily, revived the two surviving prisoners and sent them back through the cave to town.
 
-In an adjoining chamber, Bell and Lyrion found a stone idol — **[[Stone Idol of Blibdoolpoolp|Blibdoolpoolp, The Drowning Goddess]]**, patron of the Kuo-Toa. They could discern nothing else about it.
+In an adjoining chamber, Bell and Lyrion found a stone idol — **[[Stone Idol of Blibdoolpoolp|Blibdoolpoolp, The Drowning Goddess]]**, patron of the Kuo-Toa. It glowed faintly of **conjuration magic**, erring Divine over Arcane by Lyrion's read; nothing further could be discerned.
 
 ### Underground discoveries
 
-The party found a **[[Dagger of Strange Iconography|dagger]]** and **[[Coin of Strange Iconography|coin]]** with unfamiliar iconography, both faintly magical.
+The party found a **[[Dagger of Strange Iconography|dagger]]** and **[[Coin of Strange Iconography|coin]]** with unfamiliar iconography; Detect Magic pinged the **coin** (faint divination) — the dagger showed no aura.
 
 Further on, a **dome-shaped chamber full of skeletal remains** — what appeared to be the remains of a battlefield. All wore the same crest as the coin and dagger; varied races (humans, elves, dwarves, halflings). The group judged the remains to be from **just after the end of the [[Glyph Scar|Glyph War]]**.
 
@@ -224,8 +224,8 @@ From caves and underground:
 - [[Underground Aquatic Creature Skull]] — to [[Thorn]]
 - [[Facemask Device]] — multiple (water-breathing masks taken from saved hostages)
 - [[Stone Idol of Blibdoolpoolp]]
-- [[Dagger of Strange Iconography]] (faintly magical)
-- [[Coin of Strange Iconography]] (faintly magical)
+- [[Dagger of Strange Iconography]] (no detected aura)
+- [[Coin of Strange Iconography]] (faintly magical — divination)
 
 From the aboleth pit / altar:
 

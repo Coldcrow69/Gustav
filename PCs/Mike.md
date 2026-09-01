@@ -50,6 +50,14 @@ When Lyrion apologized for nearly getting him killed, Mike said there was no nee
 
 Mike had gone straight to bed the night before without bathing. The next morning Lyrion realized this and searched Mike's clothes for plant residue; he found a **[[Carnivorous Plant Bark Sample|small piece of bark]]** caught in the tuft of Mike's belt. Sample now in Lyrion's possession for analysis.
 
+## Egg Hunt — Session 31 (Unearthing Dark Secrets, 2026-06-21)
+
+Full detail in [[Unearthing Dark Secrets - Session 31 - 2026-06-21|the recap]]. Persistent developments for Mike:
+
+- Trailed the emergency to the alley comically convinced the party was hunting a **plant called "Moss."**
+- Lit his lantern for the sewer descent ([[Bell]] handed him a healing potion on the way in); his **flaming strike** forced the revenant's cloak up — the party's first clear look at the rotting face and the rock embedded in its skull.
+- Sent as the party's fastest to find a Banishment-capable cleric: sprinted to the **[[Temple of Selûne (Stonewater)|Temple of Selûne]]**, weathered some confusion over the word "banish," and came back the memorable way — **scooped up the elderly cleric [[Haceran Leadbreaker]], went giant-form, and ran her to the sewers**.
+
 ## Egg Hunt — Session 32 (The First Egg, 2026-07-19)
 
 Full detail in [[The First Egg - Session 32 - 2026-07-19|the recap]]. Persistent developments for Mike:
@@ -79,12 +87,22 @@ Full detail in [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|the reca
 
 ### Lingering condition
 
-- **Exhaustion** (confirmed by the maintainer): like [[Lyrion Thalor|Lyrion]], Mike still carries **exhaustion levels from the [[Fairy Grove (Anti-Magic Pocket)|carnivorous-plant fight]]** that penalize his rolls — in-fiction the fight is only **a couple of days past**, and he is still sleeping the levels off. (The same penalty cost Lyrion his Session 33 death save; Lyrion's own revival has since stacked him to 5/6.)
+- **Exhaustion** (confirmed by the maintainer): like [[Lyrion Thalor|Lyrion]], Mike still carries **exhaustion levels from the [[Fairy Grove (Anti-Magic Pocket)|carnivorous-plant fight]]** that penalize his rolls — in-fiction the fight is only **a couple of days past**, and he is still sleeping the levels off. (The same penalty cost Lyrion his Session 33 death save; Lyrion's own revival has since stacked him to 5/6.) **After Session 35's long rest: down to 1 level.**
 
-### Inventory notes (as of Session 34)
+## Egg Hunt — Session 35 (Tension and Triumph in Snow, 2026-08-30)
 
-- Carries a **crowbar** and a **large backpack**. The recovered **[[Dragon Eggs|dragon egg]]** rode in the backpack until the tavern, where it was **handed off to [[Thorn]] and [[Rhaenyra]]'s guard** (now hidden under Thorn's illusion).
-- **Two locked, magical, dragon-egg-sized treasure boxes** from the [[Cliffside Mansion (Stonewater)|cliffside manor]]'s second floor — unopened, resistant to forcing.
+Full detail in [[Tension and Triumph in Snow - Session 35 - 2026-08-30|the recap]]. Persistent developments for Mike:
+
+- His manor box held the **top hat** — attuned overnight (an overwhelming urge to put it on; nothing visibly happened; a tag appeared): **[[Hat of Disguises (Mordenkainen)|Mordenkainen's Magical Hat of Disguises]]**, Disguise Self at will while worn. Mike's verdict, eyes alight: *"It's a sorcerer's hat."* Now worn constantly; co-conspirator (with [[Thorn]] and a delighted [[Rhaenyra]]) in the planned **multiple-Rhaenyras hot-springs prank** on [[Eldrin Thalor|Eldrin]].
+- Collapsed into bed on arrival and **slept through the entire captain's visit** — waking to a world with an open investigation, a guard escort, and everyone else's statements already given. Nearly blew operational security twice in front of [[Dura]] ("is there anything I need to *not* mention?" + a meaningful backpack wiggle); the guard mercifully didn't care.
+- **Statement to [[Captain Grazug]]** at the guardhouse: cooperative, thorough, and featuring the phrase **"I'm a sorcerer"** at least six times — each one underlined on the captain's clipboard.
+- **Carries the [[Dragon Eggs|dragon egg]] again** (~40 lbs, now bewigged) — big guy, big backpack, nobody asks — pending the tavern move; remembered the **fur blankets** still need replacing now that the first snow is falling ("It's been a while since I've seen snow… since I left the village!").
+- Restocked healing potions at [[Aiker's Potion Explorium]] (having spent his last in the manor fight); perked up hard at the **Potion of Fire Giant Strength** — his village's fire-giant kinship, on the record again.
+
+### Inventory notes (as of Session 35)
+
+- Carries a **crowbar** and a **large backpack**. The recovered **[[Dragon Eggs|dragon egg]]** rode in the backpack until the tavern, was handed off to [[Thorn]] and [[Rhaenyra]]'s guard for Sessions 33–34 (hidden under Thorn's illusion) — and **rides in the backpack again as of [[Tension and Triumph in Snow - Session 35 - 2026-08-30|Session 35]]**, wigged and made-up, pending the tavern relocation.
+- The two locked, magical, dragon-egg-sized treasure boxes from the [[Cliffside Mansion (Stonewater)|cliffside manor]]'s second floor were **opened in Session 35**: Mike's held the **[[Hat of Disguises (Mordenkainen)|Hat of Disguises]]** (attuned, worn constantly); [[Eldrin Thalor|Eldrin]]'s held the still-unidentified **[[Black Silk Cloth (Cliffside Mansion)|black silk cloth]]**.
 - A **small stolen minecart**, now the egg's companion piece.
 - **Healing potion consumed** (Session 34, mid-battle).
 - **Fur blankets discarded** at the lakeside (Session 32) — the party noted they'll want them replaced.
