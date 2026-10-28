@@ -10,7 +10,7 @@ The bond stopped being theoretical in [[Clash at the Cliffside Manor - Session 3
 
 ## Open questions
 
-- What powers / changes [[Zehal]] grants to Bell — beyond the demonstrated ability to **seize control in battle** (Session 34); the trigger and countermeasures are unknown, and finding both is now Bell's stated project
+- What powers / changes [[Zehal]] grants to Bell — beyond the demonstrated ability to **seize control in battle** (Session 34); countermeasures are unknown, and finding them is now Bell's stated project. On the trigger, the best read so far is [[Seren Moss|Seren]]'s ([[Healing Waters, Heavy Memories - Session 36 - 2026-09-27|Session 36]]): Bell loses control of the Loa **in moments of heightened emotion** — it happened once before, around the time the party first met [[Mike]], and was hard to call her back from
 - Whether the spirit speaking Lyrion's name was Zehal or a different spirit
 - Whether [[Lyrion Thalor|Lyrion]] himself acquired a similar bond
 - Whether Zehal connects to Bell's **rage-transformation secret** (bestial appearance, sharp teeth, shadowed eyes, growing tail — see [[Bell]])

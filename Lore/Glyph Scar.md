@@ -18,6 +18,7 @@ A **cataclysmic war** that took place in [[Azadin]] **roughly 700–900 years ag
 - Pre-Scar [[Azadin]] was an **extremely high-magic** setting; post-Scar it sits at **low/mid magic** levels.
 - Magic users are rarer and treated with **stigma** (~1/90 people in Azadin vs ~1/30 in standard D&D worlds).
 - **[[Fort Elm]] and [[The Wilds]] as a whole** were among the **few places not completely ravaged** by the Glyph Scar — preserving history and stories that have been wiped elsewhere.
+- **Pre-Scar megafauna**: the **gargantuan skeleton in the lake** on [[Stonewater]]'s highest tier (see [[Raise Your Spirits]]) is believed by the city's college scholars to be a mountain beast **from before the Glyph Scar** — unidentified, in place since before the city's founding ([[Healing Waters, Heavy Memories - Session 36 - 2026-09-27|Session 36]]).
 
 ## Records
 

@@ -4,13 +4,13 @@ Reference chart of the active party's heights, shortest to tallest.
 
 | # | Character | Player | Height | Race / class |
 |---|-----------|--------|--------|---------------|
-| 1 | [[Rhaenyra]] | Miranda | **4'9"** | Druid (has Druidic) |
+| 1 | [[Rhaenyra]] | Miranda | **4'9"** | Half-Elf / Half-Satyr Druid (has Druidic) — race maintainer-confirmed after Session 36 |
 | 2 | [[Thorn]] | Jenna | **5'6"** | Changeling / Shapeshifter Bard |
 | 3 | [[Seren Moss]] | Raine | **5'9"** | Half-Elf Cleric of [[Kelemvor]] |
 | 4 | [[Lyrion Thalor]] | Joey (Coldcrow) | **6'3"** | High Elf Wizard *(blue-skinned from his half-drow mother)* |
 | 5 | [[Eldrin Thalor]] | Chase (Pursuance) | **6'6"** | High Elf — pure Ranger → pure Bard |
 | 6 | [[Bell]] | Molly | **7'0"** | Firbolg Barbarian |
-| 7 | [[Mike]] | Breadlock | **8'0"** | Monk (goliath / giant-lineage) — sincerely thought his ki was wizardry; since Session 30, "Mike the Sorcerer" |
+| 7 | [[Mike]] | Breadlock | **8'0"** | Goliath Monk (DM-confirmed, Session 36) — sincerely thought his ki was wizardry; since Session 30, "Mike the Sorcerer" |
 
 > Height authority: the DM-provided **party height chart** image overrides earlier player-sheet heights where they conflict. Reconciliations recorded per-character on each PC page.
 

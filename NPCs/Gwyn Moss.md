@@ -1,5 +1,5 @@
 Full name: **Gwyn Moss**.
-Aliases / variant spellings: **Gwen** (in older player-character-sheet notes).
+Aliases / variant spellings: **Gwen** (in older player-character-sheet notes). **Not [[Gwynn (Stoneforge Headmaid)]]** — the Stoneforge estate's headmaid in [[Stonewater]] is a different person who happens to share the name.
 
 [[Seren Moss]]'s adoptive mother. **Shrinekeeper of [[Kelemvor]]** at the [[Shrine of Kelemvor]] in [[Fort Elm]]. Her surname is the family name Seren carries. Per DM narrative, the Moss family is described as "an aging human family."
 

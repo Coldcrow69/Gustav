@@ -31,6 +31,7 @@ A handbound **prayer book, [[Tenets of the Ones Forgotten]]**, surfaced from the
 - Whether [[Kassadren]] is patron, dupe, or partner.
 - Whether the sect's members overlap with the **hooded crew of the [[Greybraids]]-emblem cart** from Session 29 ([[Seren Moss|Seren]] watched for familiar faces; no match confirmed).
 - How large the parent community in the north is — the manor's dozen were evidently a field cell.
+- What is now moving through **their tunnel** ([[Through the Bloodied Rubble - Session 37 - 2026-10-25|Session 37]]): at the mine-side cave-in, [[Baldrin Stoneforge|Baldrin]]'s posted guards were **seized and dragged through the gap**, leaving fresh blood, a **red elastic mucus**, and a lingering **[[Aberration (Cliffside Mansion)|aberration]] trace** on [[Seren Moss|Seren]]'s divination — the manor-basement creature, active in the section the cult dug toward. Separately, [[Lyrion Thalor|Lyrion]] now suspects the [[Victor Stonehammer|revenant]] is **being used as someone's tool** — whether that someone is this sect is unasked.
 - Party table-fears before the reveal — a **Tiamat** egg-cult, or "the whispered one" — remain speculation only.
 
 ## Cross-references

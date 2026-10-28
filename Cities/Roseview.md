@@ -13,4 +13,4 @@ A small **fishing village** in the north of [[The Wilds]], **[[Rhaenyra]]'s home
 ## Notable inhabitants
 
 - [[Rhaenyra]] — daughter of the village's most prominent family
-- [[Thalrin]] — village leader / organizer of the festival
+- [[Thalrin]] — village leader / organizer of the festival — and **[[Rhaenyra]]'s father**. During the party's stay he quietly asked [[Eldrin Thalor|Eldrin]] to protect his daughter, and the conversation that followed amounted to **his blessing** of the two (revealed in [[Through the Bloodied Rubble - Session 37 - 2026-10-25|Session 37]]; see [[Thalrin]])

@@ -9,6 +9,8 @@ Two additions make it evidence rather than reference:
 
 **Custody (as of [[Tension and Triumph in Snow - Session 35 - 2026-08-30|Session 35]], maintainer-confirmed):** the **original stays with the party** — the Session 35 handover to [[Captain Grazug]] sent only the [[Cult Journal (Cliffside Mansion)|cult journal]] into evidence, though the tunnel and its mine connection were reported in full. **[[Gustav]] holds a copy** — made in about two minutes at [[Mike]]'s suggestion.
 
+**In use** ([[Through the Bloodied Rubble - Session 37 - 2026-10-25|Session 37]]): under [[Baldrin Stoneforge|Baldrin]]'s contract the party has **entered the mapped section** — through the partially cleared cave-in, toward the drawn-in cavern and the left branch the crab familiar never reported back from.
+
 ## Cross-references
 
 - [[Cliffside Mansion (Stonewater)]] · [[Ironheart Mines]] · [[Acolytes of Oghma]] · [[Gustav]]

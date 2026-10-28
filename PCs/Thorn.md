@@ -28,13 +28,19 @@ Thorn's **true form is somewhat Drow-like** — under all the shapeshifting. The
 
 She shared her true form with [[Lyrion Thalor|Lyrion]] and [[Eldrin Thalor|Eldrin]] on the walk into the Drow camp. Lyrion, ashamed of his prejudice, quietly apologized; Thorn assured him they were still friends.
 
-**Continued research**: During the three-week downtime in [[Fort Elm]] after the [[Fish People]] arc, **[[Eldrin Thalor|Eldrin]] escorted Thorn to a local Bard / Clown College** so she could do further research into her Shapeshifter heritage. (Per 2025-09-17 transcript recap.)
+**Continued research**: During the three-week downtime in [[Fort Elm]] after the [[Fish People]] arc, **[[Eldrin Thalor|Eldrin]] escorted Thorn to a local Bard / Clown College** so she could do further research into her Shapeshifter heritage. (Per 2025-09-17 transcript recap.) Per Thorn herself ([[Healing Waters, Heavy Memories - Session 36 - 2026-09-27|Session 36]]), **one of her old clients paid to send her** — she now suspects he was "buffing me up for whatever this has become."
+
+## Upbringing — the carnival
+
+> Stated in the mud bath, [[Healing Waters, Heavy Memories - Session 36 - 2026-09-27|Session 36]]; **maintainer-confirmed as real backstory**, not a bit.
+
+Thorn **never knew her birth mother** — her parents *"just left me on the road"* (consistent with the Shapeshifter lore above: abandoned at birth for what she was). She was **raised in a carnival**, by an **adoptive carnival mother** among others — and **they all died**. How, when, and whether anyone survived is unrecorded; Thorn answered the question flatly and went back to playing in the mud. This is the lineage of the one-woman act that became the [[Twilight Masqueraders]].
 
 ## Notable Possessions
 
 - [[Belt of Bone Carved Trinkets]] — collected during the Fish People arc
 - [[Underground Aquatic Creature Skull]] — trophy from the cave combat
-- **Minor luck potion** — bought at [[Aiker's Potion Explorium]] for 200 gp on gambler's instinct ([[Tension and Triumph in Snow - Session 35 - 2026-08-30|Session 35]])
+- **Minor luck potion** — bought at [[Ichor's Potion Explorium]] for 200 gp on gambler's instinct ([[Tension and Triumph in Snow - Session 35 - 2026-08-30|Session 35]])
 
 ## Fish People arc — selected moments
 
@@ -104,4 +110,23 @@ Full detail in [[Tension and Triumph in Snow - Session 35 - 2026-08-30|the recap
 - For [[Captain Grazug]]: **transformed into the wagon-driver suspect** on the spot (the captain staggered; *"How did you do that?"* / *"Wouldn't I like to know?"*), then sat for the guard's **sketch artist** wearing the borrowed face — "the easiest sketch job I've ever had." Gleefully noted two new faces for the repertoire this session: the captain and [[Dura]] (*"Yay, I get to be a dwarf later"*).
 - Spent first watch giving the [[Dragon Eggs|dragon egg]] **a wig and full makeup** ("I'm going to be the prettiest girl at the party"); her carry-it-as-my-baby scheme died to the DM's ruling (*"it's so egg-shaped"*) and the egg went into [[Mike]]'s backpack. *"No whimsy in this world."*
 - Instigated the **hot-springs plan** (asked the barkeep, got directions east) — *"It's not every day that one of your friends dies and then comes back, so I think it's cause for celebration"* — and co-founded the **multiple-Rhaenyras prank conspiracy** with Mike's new [[Hat of Disguises (Mordenkainen)|hat]] (target: Eldrin; Rhaenyra: *"No convincing needed"*). Wisely tabled the impulse to Lyrion-face Mike: *"maybe not today, after he just died."*
-- Bought herself a **minor luck potion** at [[Aiker's Potion Explorium]] (*"I'm a gambler"*), after insight-checking the kenku's pricing. On [[Lyrion Thalor|Lyrion]]'s state: *"I feel like he's one small inconvenience away from a mental breakdown"* — and on death generally: *"dying can probably make you want a lot of things you didn't want before."*
+- Bought herself a **minor luck potion** at [[Ichor's Potion Explorium]] (*"I'm a gambler"*), after insight-checking the kenku's pricing. On [[Lyrion Thalor|Lyrion]]'s state: *"I feel like he's one small inconvenience away from a mental breakdown"* — and on death generally: *"dying can probably make you want a lot of things you didn't want before."*
+
+## Egg Hunt — Session 36 (Healing Waters, Heavy Memories, 2026-09-27)
+
+Full detail in [[Healing Waters, Heavy Memories - Session 36 - 2026-09-27|the recap]]. Persistent developments for Thorn:
+
+- Took the works at [[Raise Your Spirits]] in the buff (*"I'm ready to get beat in a good way"*), invented the **piña colada** at the bar (pineapple wedge, tiny umbrella, *"my first piña colada"*), floated on her back with it, and spent the day "flirting with barkeeps and shit."
+- Fielded [[Tiamor Runegrip]]'s entertainer questions — *"Anything you want"*; lately into upbeat music and **dancing with fire**; schooling paid for by an old client — and later all but closed the **spa gig** for the [[Twilight Masqueraders]] in Tiamor's office — *"You don't have to look any further."* *"Guys — we have our first gig!"* — though Tiamor still wants the troupe's **formal yes/no** after they talk it over. Promised to build the routine herself: *"I was working before you guys came."*
+- **Backstory on the record** (see Upbringing above): raised in a carnival, all of them dead; never knew her birth mother. Walked away wordlessly from [[Eldrin Thalor|Eldrin]]'s first-deer rite.
+- Told the pool *"We had to celebrate our friend coming back from the dead one way or another."* Told [[Seren Moss|Seren]] after the chest-scar reveal, *"Yeah, you definitely want a cold plunge right now, don't you?"* — and got pushed into the pool for it. To [[Dura]]: *"I ain't no snitch."* To the troupe, re: Lyrion's proposed performance: swords out, and a plan to have [[Bell]] and [[Mike]] throw people — [[Rhaenyra]] first.
+- Rooms with [[Bell]] at the [[Sour Jackal]].
+
+## Egg Hunt — Session 37 (Through the Bloodied Rubble, 2026-10-25)
+
+Full detail in [[Through the Bloodied Rubble - Session 37 - 2026-10-25|the recap]]. Persistent developments for Thorn:
+
+- Volunteered to fetch the fur blankets (*"since she hasn't really been in any death-defying situations"*) — overruled; the blankets are abandoned. Ear to the door at dawn: **overheard the guard handover** to [[Dura]] (no creature, no disappearances, "a pretty adventurous group") and went back to bed. To Lyrion's wake-up knock: *"You dying? … You're lucky that Saren likes you. You'd be dead right now."*
+- Laid down the rule at breakfast: **no more splitting up when we fight** — then gave [[Seren Moss|Seren]] a small hug when the guilt showed. To Dura, after Baldrin's second "no offense": *"Man, you've heard that a lot today."*
+- Choked on nothing at **ten thousand gold**; *"We won't have to work again… this and then the performance for the spa, we're going to be set."* Wants Dura cut in. On Lyrion's five-gold potion offer: *"I have done a lot worse for a lot less"* — *"when you're living on the streets you gotta take what you can get."*
+- At the cave-in, **poked the red mucus** with a finger (elastic, snaps back; was *"tempted to lick it just to get it over with"*). Ruled that [[Bell]] does not go last through the breach.

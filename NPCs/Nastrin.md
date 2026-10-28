@@ -19,6 +19,10 @@ Seren tipped him a silver for the identification.
 
 Kept the tavern running through the party's worst evening ([[Tension and Triumph in Snow - Session 35 - 2026-08-30|recap]]): shepherd's pie and fresh bakery bread on special, a **special mead order** inbound for [[Eldrin Thalor|Eldrin]] ([[Mike]] is angling to buy the barrels outright), and directions to the **hot springs** on the city's eastern cliffs for [[Thorn]]. The party plans to relocate to another tavern all the same — nothing personal; the enemy knows his address.
 
+## Session 36 — the barrel (2026-09-27)
+
+The mead came in ([[Healing Waters, Heavy Memories - Session 36 - 2026-09-27|recap]]). Nastrin had paid **35 gp** for the barrel and wasn't expecting anyone to drink the whole thing; [[Eldrin Thalor|Eldrin]] offered **50 gp for all of it**, they shook on it, and Nastrin poured the party's toast. His house rules for the evening: *"As long as you don't get into any fights and have somebody take you home, I don't care."* The party has since moved its lodging to the [[Sour Jackal]], but the drinking stayed here.
+
 ## Cross-references
 
 - [[Good For What Ails Ya]] — workplace

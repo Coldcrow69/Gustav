@@ -1,6 +1,6 @@
 # Cliffside Mansion (Stonewater)
 
-> Also "the cliffside manor" / "abandoned manor on the southeastern cliffs." **Several Session 33 archivist fragments mislabel this building "Greybraid Manor"** — wrong building; the [[Greybraid Manor (Stonewater)|clan's actual manor]] is elsewhere in the city. The connection is the landlord: the [[Greybraids]]' patriarch **[[Kassadren]]** granted this property to its current occupants.
+> Also "the cliffside manor" / "abandoned manor on the southeastern cliffs"; Session 36 transcript variant "Hillside Manor." **Several Session 33 archivist fragments mislabel this building "Greybraid Manor"** — wrong building; the [[Greybraid Manor (Stonewater)|clan's actual manor]] is elsewhere in the city. The connection is the landlord: the [[Greybraids]]' patriarch **[[Kassadren]]** granted this property to its current occupants.
 
 A **run-down manor on the southeastern cliffs** of [[Stonewater]] — windows boarded, a **graveyard out front**, every appearance of long abandonment. The appearance is false: inside, the entry shows **signs of steady traffic**, and the building houses the **[[Acolytes of Oghma]]** — roughly a dozen robed residents, mostly dwarves — as a "newer residency."
 

@@ -13,6 +13,8 @@ Official documentation issued by **[[Captain Grazug]]** of the [[Stonewater]] ci
 
 After the [[Cliffside Mansion (Stonewater)|manor]] raid and its body count, [[Captain Grazug]] **did not revoke the writ** ([[Tension and Triumph in Snow - Session 35 - 2026-08-30|Session 35]]): an **internal investigation is open** (deputized outsiders, lethal force, no independent witnesses), [[Seren Moss|Seren]] has asked that any repercussions **fall on her alone**, and the captain — *"we may end up needing your services again"* — instead attached an official **minder, [[Dura]]**, to accompany the party at all times. Table clarification the same night: the writ covers **only the four named** — [[Eldrin Thalor|Eldrin]], [[Bell]], and [[Rhaenyra]] were never deputized, and fought at the manor as private citizens.
 
+One more fact, settled in [[Healing Waters, Heavy Memories - Session 36 - 2026-09-27|Session 36]]'s spa-hallway reckoning: the deputization **came with no money** — the party has been doing the guard's supernatural casework unpaid. (The pay problem was answered elsewhere: [[Baldrin Stoneforge|Baldrin]]'s 10,000 gp mine contract, Session 37.)
+
 ## Cross-references
 
 - [[Captain Grazug]] · [[Broader Warrant]] · [[Mine Pass]] (Baldrin's separate mine-entry writs)

@@ -5,7 +5,7 @@ Player: **Raine**.
 ## Character Sheet
 
 - Race: Half Elf
-- Class: Cleric (of [[Kelemvor]])
+- Class: Cleric (of [[Kelemvor]]) — **Grave Domain** *(maintainer-confirmed; the features she named at the table in [[Through the Bloodied Rubble - Session 37 - 2026-10-25|Session 37]]: Circle of Mortality, Path to the Grave; "my specialty is death")*
 - Height: **5'9"** *(party height chart; player sheet records 5'10" — chart is authoritative)*
 - Hair Color: Blonde *(worn in a crown braid per height chart)*
 - Eye Color: Blue
@@ -194,3 +194,23 @@ Full detail in [[Tension and Triumph in Snow - Session 35 - 2026-08-30|the recap
 - Pressed [[Bell]] for the full story of the upstairs fight — her grip tightening on the table's edge at the detail of the sword — and told her: *"I should have walked away from you guys."*
 - **The morning conversation with [[Lyrion Thalor|Lyrion]]**: apologized for leaving him in the fight; heard what he saw on the other side; gave him [[Kelemvor]]'s teaching — the Judge places souls fairly by faith and conduct, and *"if such spells work, it was the will of the gods that you come back."* *"I have never been so relieved."*
 - Practical threads: needs **Banishment re-prepared** (the [[Victor Stonehammer|revenant]] slipped everyone's mind — *"HER PARTNER DIED!"* was her defense); wants the **[[Powerful Diamond|replacement diamond]]** (≥300 gp, third-district jewelers); flagged that [[Mike]] and Lyrion need careful handling until the exhaustion clears.
+
+## Egg Hunt — Session 36 (Healing Waters, Heavy Memories, 2026-09-27)
+
+Full detail in [[Healing Waters, Heavy Memories - Session 36 - 2026-09-27|the recap]]. Persistent developments for Seren:
+
+- **Holds three Revivify diamonds** (300 gp each), bought off-screen at the Clock Tower District jewelers — see [[Powerful Diamond]]. Tried and failed to find **Water Breathing** potions in the city ("for shenanigans"; not brewed here).
+- **The spa skeptic.** Baffled by the premise, uncomfortable being waited on or touched by strangers, she took every treatment anyway because it was paid for — *"the things people do to relax"* — and ruled afterward that next time she'll go straight to the springs. Took a Goodberry Gin (*"that's lovely"*); declined further drinks; stuck close to [[Lyrion Thalor|Lyrion]] all day, *"a little over-vigilant after yesterday."*
+- Told Lyrion what she knows of [[Bell]]'s episode: a **loss of control of the [[Zehal|Loa]] in a moment of heightened emotion**, as once before around the time they first met [[Mike]], hard to call her back from. On her own family, to the pool: *"My family's lovely"* — her mother essentially pushed her out the door. On the mead: *"My specialty is death. So no, I don't sense any of my divinity in it."*
+- In the springs, deflected Lyrion's thanks to [[Kelemvor]] (*"does most of the heavy lifting"*) and was told not to sell herself short; sank to her nose in the water when the line landed. Asked him, in the mud: *"Do you not want children?"*
+- Requested **a room for herself and Lyrion** at the [[Sour Jackal]]; noted that acolytes of Kelemvor dove into the winter river on dares too.
+
+## Egg Hunt — Session 37 (Through the Bloodied Rubble, 2026-10-25)
+
+Full detail in [[Through the Bloodied Rubble - Session 37 - 2026-10-25|the recap]]. Persistent developments for Seren:
+
+- Gossiped with Lyrion while dressing — *"Rhaenyra and Eldrin, huh?"* — and asked whether his brother would break Rhaenyra's heart: *"I quite like Rhaenyra."* Spoke **Dwarvish** with [[Dura]] (verdict: a slight accent, *"very good"*) and with the headmaid [[Gwynn (Stoneforge Headmaid)|Gwynn]], who greeted her by name.
+- On the [[Victor Stonehammer|revenant]]'s silence: *"These things aren't typically very big planners. Blind rage and sheer vengeance, really"* — then *"Eurgh. There's a nasty thought"* at Lyrion's puppet-master theory. Still carrying the guilt of leaving the manor fight; nodded at the table at Thorn's no-splitting rule and took the hug.
+- Stated the thesis of the day: *"the search for the eggs and the search for what happened in the mines is going to be the same search."* Clarified for Mike what the guard knows (the stolen eggs, not the carried one). Has **Stone Shape** as well as Rhaenyra, if the rubble needs it.
+- **Closed the deal with [[Baldrin Stoneforge|Baldrin]]** — up to 10,000 gp — after a look around the table: *"Sounds like we have a deal, Baldrin."* Offered her limited magical means of contact (Sending) for emergencies. Found his welcome chillier than [[Victor Barun]]'s eagerness had led her to expect.
+- At the mine mouth, admitted reluctance to go in and took Lyrion's hand. At the cave-in: cast **Detect Good and Evil** (always prepared) — no creature in range, but a **lingering aberration trace** of the manor kind pulling toward the rubble; judged the blood fresh and lethal in quantity (*"wherever the guards are, they may still be alive"*). Cast **Light** on Bell's pendant. **Went through the breach first** — *"ladies first"* — into the slime.

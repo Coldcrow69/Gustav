@@ -1,4 +1,4 @@
-Full name: **Baldrin Stoneforge** (also recorded as "Baldrun" / "Baldrum" / "Baldron" Stoneforge in chronicler notes).
+Full name: **Baldrin Stoneforge** (also recorded as "Baldrun" / "Baldrum" / "Baldron" — and, in the Session 37 transcript, "Baldwin" / "Valdrum" — in chronicler notes).
 
 Foreman of the [[Ironheart Mines]]. Resides in [[Stonewater]] (also recorded as "Stoneforge" / "Ironforge" in chronicler notes). Business associate of [[Victor Barun]], who sent the party to assist with disappearances and murders linked to the mines.
 
@@ -25,3 +25,13 @@ The party and Baldrin agreed to reconvene the next day.
 - He knows of **a few other mine entrances** beyond the city's single one — all outside [[Stonewater]] itself; locations unrecorded.
 
 His candor about foul play cuts both ways: it aligns him with the party's sabotage suspicions, but the Session 31 flags — the **[[Stoneforge Clan]] insignia** on the murder weapon and the **Stoneforge Guard**'s killing of [[Victor Stonehammer]] — remain open. [[Lyrion Thalor|Lyrion]]'s standing caution about him stands. See [[The First Egg - Session 32 - 2026-07-19|Session 32]].
+
+## Session 37 — the contract: up to 10,000 gold (2026-10-25)
+
+The party found him in **his office at the mine** ([[Through the Bloodied Rubble - Session 37 - 2026-10-25|recap]]) — past the great central chasm, down an administrative corridor: a fireplace, bookcases of **financial reports and hand-bound ledgers**, everything utilitarian, and one decoration — **an old rusted pickaxe head on a wooden plaque above the fire**. An older dwarf in work clothes, glasses, paperwork. *"Just the people I was actually looking for."*
+
+**The proposition, formally:** he believes *"there is something more afoot than just a cave-in."* The city guard has taken **heavy casualties** from the disappearances and murders and he won't stretch them thinner; his own crews have made significant headway on the collapse — **rubble left in place as a stopper** so nothing inside gets out, **several guards posted at it**, and **a gap cleared large enough for the party to enter**. He wants the section beyond **investigated and made safe** so no more of his workers die; the source of it would be *"greatly appreciated"* but safety is the job. **Compensation: up to 10,000 gold.** Start as soon as possible; he is the point of contact, with **message runners** (which he trusts); [[Dura]] is to inform [[Captain Grazug]]. [[Seren Moss|Seren]]: *"Sounds like we have a deal, Baldrin."* **Accepted.**
+
+**The pickaxe:** not an heirloom — his **own first pickaxe** from his first day in the mines. His family owned the mines before him, but he *"worked my way up from the very bottom of the chain,"* breaking stone with the other miners for ten or fifteen years before learning the business. Lyrion examined it against the murder weapons: only the head survives, dull and rusted by use and the cave's humidity — **any branding or maker's mark is gone under the rust**.
+
+**Character references, same morning:** [[Dura]] (who serves his estate without reporting to him) — stoic, but by everything she's heard from miners and her own family, a man who **cares about his workers' well-being**; [[Bell]] — honestly wants it solved; [[Eldrin Thalor|Eldrin]] — as trustworthy as one can be toward strangers; [[Seren Moss|Seren]] — a chillier welcome than Victor Barun's eagerness had led her to expect; [[Lyrion Thalor|Lyrion]] — trusts no one in this city. When the party reached the cave-in, **his posted guards were gone**, with fresh blood on the rubble.

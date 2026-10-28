@@ -31,7 +31,7 @@ Per the [[Glyph Scar]] section of the DM world-doc, [[Fort Elm]] and The Wilds *
 
 The Wilds occupy a roughly **kite-shaped** stretch of land bordered by:
 
-- **North**: the [[Iron Peaks]], whose mountain wall **wraps around the entire northern edge** of the region — a high rocky barrier between The Wilds and whatever lies further north.
+- **North**: the [[Iron Peaks]], whose mountain wall **wraps around the entire northern edge** of the region — a high rocky barrier between The Wilds and whatever lies further north. Beyond it (per [[Healing Waters, Heavy Memories - Session 36 - 2026-09-27|Session 36]]): the **[[Sunscarred Expanse]]**, a desert of elven tribes known in the Wilds only through traders' stories.
 - **Southwest** and **south**: **ocean / coastline**. The Wilds meets the sea along its bottom-left and bottom-right margins, with sandy beach lining the coast.
 - **East** and **west**: forested transitions into territory not yet mapped.
 

@@ -6,7 +6,7 @@ A **second scroll case** recovered from the personal-effects chest on the [[Clif
 
 - **Registered on [[Rhaenyra]]'s Detect Magic** — the sweep's last unexplained ping. Resolved in Session 35: the case itself is **fairly mundane, if nicely made** — the ping was the 6th-level scroll inside.
 - Bears **script [[Eldrin Thalor|Eldrin]] couldn't read** — *"looks like something your brother would have written,"* i.e. arcane writing.
-- **Custody:** Eldrin wrapped it up for [[Lyrion Thalor|Lyrion]], who popped the lid mid-barter at [[Aiker's Potion Explorium]] and speed-read his way to the identification. See [[Scroll of Chain Lightning]].
+- **Custody:** Eldrin wrapped it up for [[Lyrion Thalor|Lyrion]], who popped the lid mid-barter at [[Ichor's Potion Explorium]] and speed-read his way to the identification. See [[Scroll of Chain Lightning]].
 
 Found alongside the [[Cult Journal (Cliffside Mansion)|cult journal]], a blank leather-bound book, a coin pouch, and personal items.
 

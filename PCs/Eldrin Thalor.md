@@ -31,6 +31,7 @@ Reference images (supplemental): ![[Eldrin.png]] and ![[Eldrin.jpg]]
 - **[[Vial of Decomposed Black Goo]]** — sample of the [[Victor Stonehammer]] revenant's liquefied remains, collected from the [[Chained Stone Coffin]] in [[The First Egg - Session 32 - 2026-07-19|Session 32]]; analysis pending
 - **The manor gold — ~6,000 gp** (a 120-lb chest), taken in full from the [[Cliffside Mansion (Stonewater)|cliffside manor]] in [[Tension and Triumph in Snow - Session 35 - 2026-08-30|Session 35]]; the circus fund
 - **[[Black Silk Cloth (Cliffside Mansion)|Black silk cloth]]** — from his locked manor box (Session 35); **unidentified**, held back for a private examination with [[Lyrion Thalor|Lyrion]]
+- **A barrel of [[Nastrin]]'s special mead** — bought outright for 50 gp ([[Healing Waters, Heavy Memories - Session 36 - 2026-09-27|Session 36]]), tapped at [[Good For What Ails Ya]]
 
 Brother to [[Lyrion Thalor]]. Member of the **Twilight Masqueraders**, a group of performers-turned-adventurers.
 
@@ -113,3 +114,25 @@ Full detail in [[Tension and Triumph in Snow - Session 35 - 2026-08-30|the recap
 - Spent the evening **hollow and silent** over his mead — processing his brother's death and revival, deflecting [[Rhaenyra]] and [[Thorn]]'s probes (*"maybe I'm just tired"*), taking Thorn's wordless whiskey. Voiced the doubt out loud to Seren later: *"I don't know if I'm cut out for this adventuring life… everywhere we go is just trouble."* *"My brother has never wanted peace."*
 - **First statement to [[Captain Grazug]]** — several meads deep, told him *everything*, including the death, the diamond, and the resurrection ("Saren crushed a diamond in her hands and did some crazy cleric shit and brought him back to life"), plus the genuinely useful part: the cultists' tunnel and its link to the mine collapse. Counted **"at least a dozen"** cultists for the record.
 - Took the **dawn watch sitting with [[Dura]]** in the hallway and befriended her completely: family histories traded, the circus pitched, and total vindication received on his longest-held belief — she doesn't trust horses either (*"They know too much."* / *"I'm glad somebody gets it."*).
+
+## Egg Hunt — Session 36 (Healing Waters, Heavy Memories, 2026-09-27)
+
+Full detail in [[Healing Waters, Heavy Memories - Session 36 - 2026-09-27|the recap]]. Persistent developments for Eldrin:
+
+- The spa has **no mead** (*"This is bullshit"*); grumpily accepted that honey-flavored Rockbiter Whiskey is "basically mead." Dunked his head in the mud bath to surface with *"Lyrion, I'm a tree."*
+- **In the mud, with Lyrion:** heard that their mother was on the other side and asked *"Is she okay?"*; heard that their **father wasn't** — *"Either he's not dead, or maybe the afterlife is a place worth going to."* Asked for the first time what he'd wanted from life: *"Raise a couple of kids. A quiet, peaceful life"* — at least two, so a child would know what it is to have a sibling. His view of how they became adventurers: Lyrion wanted to find spells and discover things, it had to be paid for, *"between my skills and your magic, it's the only thing that made sense."*
+- Childhood on the record: [[Darion Thalor|Father]]'s mandatory **winter river plunges** (thirty-six minutes, once; toes stopped working; Mother furious); the **first-deer rite** (eye, heart, liver, raw — "everyone did it"); story night and [[Elder Felryn]]'s three dragons.
+- **Shoved Lyrion into the Stonewater Plunge with Mage Hand** and jumped in after him — the childhood mud debt repaid.
+- **Shares a room with [[Rhaenyra]]** at the [[Sour Jackal]] (*"I pat my little mud spot next to me for you, babe"* preceded it) — paid the **20 gp for ten nights** from the manor fund; asked [[Haldur]] to source the city's best mead.
+- **Bought [[Nastrin]]'s entire mead barrel** (50 gp against the 35 Nastrin paid) and gave the toast — *"To the [[Twilight Masqueraders]] — there when everyone needs us, always in the wrong place at the right time. To a better tomorrow, and to great friends."* Kept everyone's mugs full; promised no fights (his old habit — "those aren't bar fights, those are drinking competitions") and pants on, at least until his own room. [[Dura]]: *"Don't do that."* Also: the **Frost Festival** pants incident is now on-page as a thing that happened, once, in Fort Elm.
+- Asked the hard question in the spa hallway: what is the party actually being **paid**? (Nothing, as it turns out.)
+
+## Egg Hunt — Session 37 (Through the Bloodied Rubble, 2026-10-25)
+
+Full detail in [[Through the Bloodied Rubble - Session 37 - 2026-10-25|the recap]]. Persistent developments for Eldrin:
+
+- Hung over and sleeping in; *"Be out in a minute"* through the door, with [[Rhaenyra]]'s giggle behind it. Voted with Lyrion to abandon the fur blankets and buy new ones.
+- The coat game: Mother made the boys wear coats; they took them off the moment they left the house and competed to go longest without. Eldrin always won, and kept his off a few extra minutes after Lyrion caved, *"just to rub it in."* Never got sick.
+- On [[Baldrin Stoneforge|Baldrin]], as the brother with the better judge of character: *"as trustworthy as he could be to someone that he didn't fully [trust] — I don't think he was intentionally hiding something to cause harm, but we are strangers to him, brother."* Asked whether Baldrin's family owned the mines before him (yes). Covered Mike's *"if we do die, everyone dies"* at the check-in desk with a deception check and an elbow.
+- **The conversation.** Dropped back beside Lyrion on the walk into the mine and spoke **Undercommon** so no one else would follow: *"Do you think mom would have liked Rhaenyra? … Not just her. Her for me."* Told him that back in [[Roseview]] **[[Thalrin]] had asked him to protect his daughter**, that he'd answered *with my life*, and that the conversation that followed felt like **her father's blessing** — Rhaenyra had already talked to Thalrin about him. *"I don't really have anyone"* to ask for the family's side. Lyrion gave it: Mother would have liked her; *"if this brings you happiness, then yes."* Eldrin admitted the shared room *"has given some things away,"* that he'd seen Seren glancing between them, and that there'd simply been no good moment — *"The world has literally been on fire. Dragons. You almost died."* — *"I did die."* — *"I'm not accepting that you died, because we brought you back."* A thumbs-up to Rhaenyra's glance over her shoulder sealed it.
+- Suggested pouring Lyrion's [[Truth Serum (Lyrion)|"truth serum"]] into Mike's mead; was told it could kill someone. *"Five gold is five gold."*

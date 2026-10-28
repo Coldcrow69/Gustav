@@ -31,6 +31,9 @@ Brother to [[Eldrin Thalor]]. Carries the named sentient magical codex [[Gustav]
 - **[[Gustav]]** — sentient magical codex
 - **[[Shiftweave Robe]]** — magical robe with 5 stored configurations; activates on the command word **"curious"** (a normal part of Lyrion's vocabulary, so transitions read as natural)
 - **[[Seren's Cloaks|Lyrion's cloak]]** — dark navy with silver trim and a silver-grey fur-lined mantle; gift from [[Seren Moss|Seren]] prior to Bluefield Burning departure
+- **[[Scroll of Chain Lightning]]** — 6th-level scroll from the manor's [[Arcane Scroll Case (Cliffside Mansion)|arcane scroll case]] (Session 35); beyond his casting tier, under study
+- **[[Tenets of the Ones Forgotten]]** — the cult's prayer book (Session 35), skimmed, unread
+- **[[Truth Serum (Lyrion)|"Truth serum"]]** — a cheap potion from a shady merchant, bought weeks ago; may kill whoever drinks it; no volunteers yet (first on-page in Session 37)
 
 ## Mechanical notes
 
@@ -127,7 +130,7 @@ Full detail in [[The First Egg - Session 32 - 2026-07-19|the recap]]. Persistent
 
 > ### STATUS: ALIVE — revived by Revivify, Session 34
 >
-> Lyrion **died at the end of Session 33**, on the floor of the [[Cliffside Mansion (Stonewater)|cliffside manor]]: dropped by the [[Bald Mage (Cliffside Mansion)|bald mage]]'s wand bolts, a death save failed only because of **lingering [[Fairy Grove (Anti-Magic Pocket)|carnivorous-plant-fight]] exhaustion** (rolled 11 — enough, without the penalty), and a cultist's sword driven into him where he lay. In [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|Session 34]] the body-relay beat the ten-round clock and **[[Seren Moss|Seren]]'s Revivify brought him back**, consuming the [[Powerful Diamond|five-carat diamond]]. **He now carries 5 of 6 exhaustion levels** (maintainer-confirmed) — one step from death by fatigue.
+> Lyrion **died at the end of Session 33**, on the floor of the [[Cliffside Mansion (Stonewater)|cliffside manor]]: dropped by the [[Bald Mage (Cliffside Mansion)|bald mage]]'s wand bolts, a death save failed only because of **lingering [[Fairy Grove (Anti-Magic Pocket)|carnivorous-plant-fight]] exhaustion** (rolled 11 — enough, without the penalty), and a cultist's sword driven into him where he lay. In [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|Session 34]] the body-relay beat the ten-round clock and **[[Seren Moss|Seren]]'s Revivify brought him back**, consuming the [[Powerful Diamond|five-carat diamond]]. **He came back carrying 5 of 6 exhaustion levels** (maintainer-confirmed) — one step from death by fatigue at the time; fully cleared by [[Through the Bloodied Rubble - Session 37 - 2026-10-25|Session 37]].
 
 Full detail in [[Dragons, Deceit, and Dark Forces - Session 33 - 2026-08-02|the recap]]. His last day's work, in order:
 
@@ -150,7 +153,7 @@ Full detail in [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|the reca
 
 ### Lingering condition
 
-- **Exhaustion: 5 of 6 levels** (maintainer-confirmed) after the revival stacked onto his existing [[Fairy Grove (Anti-Magic Pocket)|plant-fight]] fatigue. One more level kills him; rest is the immediate priority. (Table note: the penalty affects his attacks, not his spell save DCs.) **Session 35's long rest brought him to 4 of 6.**
+- **Exhaustion: 5 of 6 levels** (maintainer-confirmed) after the revival stacked onto his existing [[Fairy Grove (Anti-Magic Pocket)|plant-fight]] fatigue. One more level kills him; rest is the immediate priority. (Table note: the penalty affects his attacks, not his spell save DCs.) **Session 35's long rest brought him to 4 of 6 — and the spa day plus the following night's rest CLEARED the rest** (DM ruling, top of [[Through the Bloodied Rubble - Session 37 - 2026-10-25|Session 37]]).
 
 ## Egg Hunt — Session 35 (Tension and Triumph in Snow, 2026-08-30)
 
@@ -159,5 +162,28 @@ Full detail in [[Tension and Triumph in Snow - Session 35 - 2026-08-30|the recap
 - Barely upright through the manor sweep (leaning on [[Seren Moss|Seren]]), received the **[[Tenets of the Ones Forgotten]]** prayer book from [[Eldrin Thalor|Eldrin]] for his growing to-read pile, Prestidigitated the blood off everyone, and sighed at the unfixable sword-hole in his shirt. Went straight to bed at the tavern — catching Seren's hand as she turned to go: *"Will you stay for just a little longer?"* — and cried himself quietly to sleep.
 - **The morning conversation** ([[Seren Moss|Seren]], in bed, dawn): asked whether everyone shares one afterlife or must choose, then told her what he saw — **[[Endra Thalor|his mother]]**, *"clear as day in front of me"* after decades of being unable to recall her face. *"You were there to call me back. Lest I may have stayed. But I don't think it's my time yet."* Heard [[Kelemvor]]'s doctrine in return: a fair Judge, and revival-spells-that-work as the will of the gods. Named his state plainly: *"far more mortal than I ever realized myself to be,"* and feeling like a wizard who's lost his mojo.
 - Gave [[Captain Grazug]] his **statement** at the guardhouse: truthful, terse, monosyllabic — a man visibly done with officialdom.
-- At [[Aiker's Potion Explorium]]: opened the [[Arcane Scroll Case (Cliffside Mansion)|arcane scroll case]] at last and identified the **[[Scroll of Chain Lightning]]** — 6th-level magic beyond his current grasp, worked out by extrapolating from Witch Bolt. Then mounted a full Order-of-Scribes sales offensive on the 7,000 gp **Potion of Vitality**: five self-scribed scrolls offered (Divination pitched as *"a spell scroll that lets you talk to a god,"* Fireball, Invisibility, Witch Bolt, Mage Armor) plus coin, [[Gustav]] thumped on the counter as proof of craft — **negotiation unresolved at session end**.
+- At [[Ichor's Potion Explorium]]: opened the [[Arcane Scroll Case (Cliffside Mansion)|arcane scroll case]] at last and identified the **[[Scroll of Chain Lightning]]** — 6th-level magic beyond his current grasp, worked out by extrapolating from Witch Bolt. Then mounted a full Order-of-Scribes sales offensive on the 7,000 gp **Potion of Vitality**: five self-scribed scrolls offered (Divination pitched as *"a spell scroll that lets you talk to a god,"* Fireball, Invisibility, Witch Bolt, Mage Armor) plus coin, [[Gustav]] thumped on the counter as proof of craft — **negotiation unresolved at session end**.
 - Running gags fed: air-quote "scrawny" (180 lbs, 6'3"), the offer to be princess-carried to the hot springs graciously declined then reconsidered, and a **rose-scented Prestidigitation** doing the work of a bath until the springs deliver the real thing.
+
+## Egg Hunt — Session 36 (Healing Waters, Heavy Memories, 2026-09-27)
+
+Full detail in [[Healing Waters, Heavy Memories - Session 36 - 2026-09-27|the recap]]. The spa day:
+
+- **The vitality barter failed** off-screen — the gap was more than his scrolls could cover; he gave stealing the potion "not so brief" thought and didn't. Paid the party's **210 gp admission** to [[Raise Your Spirits]] from his own purse, took every treatment including the acupuncture nobody else would, and carried [[Gustav]] through all of it — **submerging them both in the mud bath**.
+- **In the mud, with [[Eldrin Thalor|Eldrin]]:** the childhood storm (his first Mage Hand, used to trip his brother; Mother blaming Eldrin; Lyrion letting her), then — *"I saw her. When I was on the other side."* Their father wasn't there: *"thankfully, or unfortunately, not."* Asked everyone about their mothers; asked Eldrin, for the first time ever, what he'd wanted from life; was asked by [[Seren Moss|Seren]] whether *he* wants children — *"I suppose I'd never thought of it,"* and visibly began to.
+- **In the springs, with Seren:** thanked her properly — *"I don't think I would be [alive], if it wasn't for you now, maybe more than once"* — praised her spellwork, tried a line Eldrin had coached (*"you look so incredible while you do it"*), and admitted the coaching: *"I do mean it though, for the record."*
+- **The plunge:** Gustav, alert for the first time all day, said *do not*; Eldrin's Mage Hand said otherwise. Shrieked at a fish. Emerged bluer.
+- **Lore surfaced:** elven **story night** and [[Elder Felryn]]'s three dragons; *"Prestidigitation-clean has a different smell than actual clean. I don't recall my last real bath."* The DM, for the record: **he still has a scar on his chest** — the Revivify didn't erase the sword.
+- Asked Seren, seriously, about [[Bell]]'s spirit; proposed **asking a god** (his Divination) later. Invited [[Dura]] to get plastered with the party. Consulted Gustav for the troupe's name at the toast — the [[Twilight Masqueraders]] — then proposed a **performance on the spot**. Means to spend downtime studying the [[Scroll of Chain Lightning]].
+
+## Egg Hunt — Session 37 (Through the Bloodied Rubble, 2026-10-25)
+
+Full detail in [[Through the Bloodied Rubble - Session 37 - 2026-10-25|the recap]]. Persistent developments for Lyrion:
+
+- **Exhaustion cleared** (DM ruling after the spa and a night's sleep) — *"I haven't felt this good in so long."* Prepared **Banishment** for the day (*"it's a wizard spell too — the only class that doesn't have access to Banishment is Bard"*): the party now has two Banishers for the [[Victor Stonehammer|revenant]].
+- **The necromancer theory**: the revenant's killings are too targeted and too prepared for an unguided spirit — *"I think it more likely that the spirit is being manipulated as some kind of tool by someone."* Trusts **no one** he's met in the city (*"no offense"* — to [[Dura]], twice); floated going through the collapse without the Stoneforges' involvement, then deferred to Eldrin's read on [[Baldrin Stoneforge|Baldrin]].
+- On the walk to the mine, told Seren he's afraid of very little when the party is together — except **centipedes**. Woke his friends door by door (*"in a city this size it is statistically likely that murder occurs as we speak!"*). On his brother and Rhaenyra: Eldrin was a heartbreaker once, but *"to say he is the same person he was when we left home would be disingenuous"* — and *"it's been a very long while since he's been to a brothel."*
+- In Baldrin's office, **examined the foreman's first pickaxe** for any mark matching the murder weapons — nothing under the rust. Backed the contract: *"Our recent business takes us into these mines anyway, so may as well get paid for it."*
+- **Gave Eldrin his blessing**, in Common, after Eldrin asked in Undercommon (Lyrion's least favorite language) whether their mother would have liked [[Rhaenyra]]: *"Mother and I have both only ever wanted for your happiness. I know that is often what you take in the least regard. So if this brings you happiness, then yes."* *"Eldrin, that's never something I thought you would ask me."* Corrected his brother's *"you almost died"*: *"I did die."*
+- Tried to pay Dura five gold to drink his **[[Truth Serum (Lyrion)|"truth serum"]]** — the cheap, shady-merchant potion he's been trying to offload for weeks, which he admits *"could kill someone."* Declined pouring it into Mike's mead.
+- At the cave-in, compared the **red mucus** to the aboleth slime under Fort Elm (not the same — "Thank God"). Took **the rear** through the breach to pull Mike and Bell through if they stuck.

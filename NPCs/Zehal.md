@@ -38,6 +38,10 @@ The bond stopped being theoretical at the [[Cliffside Mansion (Stonewater)|cliff
 
 Debriefing the others at [[Good For What Ails Ya]] ([[Tension and Triumph in Snow - Session 35 - 2026-08-30|recap]]), [[Bell]] drew the line that matters: she has **lost control before** — hunts, fights, hot-running emotion — *"but that is the first time it truly felt like something external was pushing on me."* [[Rhaenyra]]'s blunt summary, accepted: *"You were possessed."* Bell's memory of the controlled stretch is **mostly intact but blurry**, and her active fear is the next victim being a friend without a tiger's durability. She wants the trigger **discussed and worked as a group** — conversation still pending.
 
+## Session 36 — Seren's account, and a plan to ask a god
+
+In the charcoal room at [[Raise Your Spirits]] ([[Healing Waters, Heavy Memories - Session 36 - 2026-09-27|recap]]), [[Lyrion Thalor|Lyrion]] — who was dead for the episode — asked [[Seren Moss|Seren]] what happened with "Bell's spirit." Her read: Bell **lost control of the Loa in a moment of heightened emotion**, as she had once before, around the time the party first met [[Mike]] — a prior episode that was hard to call her back from. Lyrion wanted to help; freshly humbled, he conceded he isn't sure anyone but Bell can, and that even the experts (the [[Refugee Camp]] elders) *"didn't seem to know what to do with Bell."* His one concrete idea: **ask a god** — his **Divination** ritual (ten minutes plus casting) — "later." Not yet cast. (Bell was in the other rotation; this was said without her.)
+
 ## Image attachment note
 
 **Status: missing.** A Zehal reference image was described during play, but the file was never added to `Attachments/`. Add `Zehal.png` there if it turns up, and it can be embedded then.

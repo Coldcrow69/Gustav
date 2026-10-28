@@ -10,7 +10,7 @@ The party fled Bluefield aboard the **[[Sail la Vie]]** with the rescued survivo
 
 ## Inhabitants
 
-- A **clan of firbolgs** — the community connected to **[[Bell]]**'s backstory; the clan elders shared information about Bell's past with the party (specifics not yet recorded).
+- A **clan of firbolgs** — the community connected to **[[Bell]]**'s backstory; the clan elders shared information about Bell's past with the party (specifics not yet recorded). Bell's own framing ([[Healing Waters, Heavy Memories - Session 36 - 2026-09-27|Session 36]]): firbolgs are **raised by the clan as a whole**, not by a family, and this camp is *"what's left of where I came from."*
 - The **rescued Bluefield refugees**, taken in and tended by the firbolgs and the party's healers. Among them, a family with a newborn observed by [[Lyrion Thalor|Lyrion]].
 
 ## What happened here

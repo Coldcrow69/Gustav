@@ -10,7 +10,9 @@ Player: **Breadlock**. Joined the party during the **2025-09-17 downtime** in [[
 - Mental note: **poor INT stat** — relevant to his self-image (see below)
 - **Giant Form** — Mike can **grow one size larger** than his already-massive 8' frame. Used in [[Unearthing Dark Secrets - Session 31 - 2026-06-21|Session 31]] to scoop up the [[Haceran Leadbreaker|elderly cleric]] and run her back to the [[Stonewater Sewers]].
 
-**Appearance** (party height chart): massive frame; **pale blue-white skin** with dark **tribal-style markings** across the face, scalp, torso, arms, and legs; **bald**, with only a small wisp of beard; gray fur-trimmed cape, armored cuirass with a central white ornament, and brown boots. The skin tone, height, and Primordial + Giant language profile read as **goliath / giant-lineage**.
+**Appearance** (party height chart): massive frame; **pale blue-white skin** with dark **tribal-style markings** across the face, scalp, torso, arms, and legs; **bald**, with only a small wisp of beard; gray fur-trimmed cape, armored cuirass with a central white ornament, and brown boots. **Goliath** — DM-confirmed ("your Goliath heritage," [[Healing Waters, Heavy Memories - Session 36 - 2026-09-27|Session 36]]); the player corrects the reference picture's blue to **gray, like slightly blue-tinted stone**. His village has **fire-giant kinship** (Session 35). Can read and write **Common, Giant, and Primordial** (Session 36 — the table checked).
+
+**Family and upbringing** (Session 36): knew his parents and grew up with them — a relatively normal childhood by the DM's framing — but was **signed up for an apprenticeship as soon as he could use his hands** and spent most of his youth with his master, learning a craft. By his own account, nothing he made was ever good enough: *"not big fans of any of the work that I was able to achieve."* His people relax by **making things**.
 
 ## The "wizard" misconception
 
@@ -87,7 +89,7 @@ Full detail in [[Clash at the Cliffside Manor - Session 34 - 2026-08-16|the reca
 
 ### Lingering condition
 
-- **Exhaustion** (confirmed by the maintainer): like [[Lyrion Thalor|Lyrion]], Mike still carries **exhaustion levels from the [[Fairy Grove (Anti-Magic Pocket)|carnivorous-plant fight]]** that penalize his rolls — in-fiction the fight is only **a couple of days past**, and he is still sleeping the levels off. (The same penalty cost Lyrion his Session 33 death save; Lyrion's own revival has since stacked him to 5/6.) **After Session 35's long rest: down to 1 level.**
+- **Exhaustion** (confirmed by the maintainer): like [[Lyrion Thalor|Lyrion]], Mike still carries **exhaustion levels from the [[Fairy Grove (Anti-Magic Pocket)|carnivorous-plant fight]]** that penalize his rolls — in-fiction the fight is only **a couple of days past**, and he is still sleeping the levels off. (The same penalty cost Lyrion his Session 33 death save; Lyrion's own revival has since stacked him to 5/6.) **After Session 35's long rest: down to 1 level. After the spa and the following night's rest — CLEARED** (DM ruling at the top of [[Through the Bloodied Rubble - Session 37 - 2026-10-25|Session 37]]).
 
 ## Egg Hunt — Session 35 (Tension and Triumph in Snow, 2026-08-30)
 
@@ -97,7 +99,7 @@ Full detail in [[Tension and Triumph in Snow - Session 35 - 2026-08-30|the recap
 - Collapsed into bed on arrival and **slept through the entire captain's visit** — waking to a world with an open investigation, a guard escort, and everyone else's statements already given. Nearly blew operational security twice in front of [[Dura]] ("is there anything I need to *not* mention?" + a meaningful backpack wiggle); the guard mercifully didn't care.
 - **Statement to [[Captain Grazug]]** at the guardhouse: cooperative, thorough, and featuring the phrase **"I'm a sorcerer"** at least six times — each one underlined on the captain's clipboard.
 - **Carries the [[Dragon Eggs|dragon egg]] again** (~40 lbs, now bewigged) — big guy, big backpack, nobody asks — pending the tavern move; remembered the **fur blankets** still need replacing now that the first snow is falling ("It's been a while since I've seen snow… since I left the village!").
-- Restocked healing potions at [[Aiker's Potion Explorium]] (having spent his last in the manor fight); perked up hard at the **Potion of Fire Giant Strength** — his village's fire-giant kinship, on the record again.
+- Restocked healing potions at [[Ichor's Potion Explorium]] (having spent his last in the manor fight); perked up hard at the **Potion of Fire Giant Strength** — his village's fire-giant kinship, on the record again.
 
 ### Inventory notes (as of Session 35)
 
@@ -106,3 +108,21 @@ Full detail in [[Tension and Triumph in Snow - Session 35 - 2026-08-30|the recap
 - A **small stolen minecart**, now the egg's companion piece.
 - **Healing potion consumed** (Session 34, mid-battle).
 - **Fur blankets discarded** at the lakeside (Session 32) — the party noted they'll want them replaced.
+
+## Egg Hunt — Session 36 (Healing Waters, Heavy Memories, 2026-09-27)
+
+Full detail in [[Healing Waters, Heavy Memories - Session 36 - 2026-09-27|the recap]]. Persistent developments for Mike:
+
+- First stop at [[Raise Your Spirits]]: the bar. *"Are any of these made of stars?"* Took two shots of Willow Whiskey (cinnamon), carried two more to [[Lyrion Thalor|Lyrion]], and worked through the menu from there — the import rum's coconut was a flavor he'd never met. Two massage tables had to be pushed together for him; he **submerged entirely** in the mud bath, indistinguishable from it.
+- Told the pool about his **parents, his apprenticeship, and his master** (see Family above); asked about children: *"Maybe one day — but that's after I become a true sorcerer."* The puny acupuncture needles were declined on his behalf.
+- Felt **noticeably rejuvenated** by the end (the DM deferred the mechanical result to the night's rest — cleared next session). Got his **own room** at the [[Sour Jackal]], by acclamation: snoring, and "stinky."
+- **Still carries the [[Dragon Eggs|egg]]** — locked in a trunk during the treatments, back on his shoulders after; the group decided not to stash it at the new tavern. Helped drink the mead barrel.
+
+## Egg Hunt — Session 37 (Through the Bloodied Rubble, 2026-10-25)
+
+Full detail in [[Through the Bloodied Rubble - Session 37 - 2026-10-25|the recap]]. Persistent developments for Mike:
+
+- **Exhaustion cleared** (DM ruling after the spa and a night's sleep).
+- **Felt the egg move.** Swinging the backpack on in his room at the [[Sour Jackal]], the [[Dragon Eggs|egg]] **jostled once**; he made a face, waved to [[Dura]] as if nothing had happened, and reported it at breakfast in his quietest voice: *"We may have a new situation forming… We have a new one hatching."* His read: one movement means it's **becoming active**.
+- Caught up on what the guard knows (the stolen eggs, not his), announced *"So if we do die, everyone dies"* at the mine's check-in desk (a gas joke, per Eldrin's cover story), and lit the way down with his **lantern**.
+- **Must crouch through the breach** (eight feet tall in a six-foot gap, through the slime: *"They lubed the tunnel for us, how thankful of them"*). Was told, as he left for the pub, that everyone else was already downstairs. Still carries the egg into the mine.

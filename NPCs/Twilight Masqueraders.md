@@ -27,6 +27,16 @@ The troupe runs a varied act blending **multiple performance disciplines**:
 
 The troupe travels with **calling cards** — [[Eldrin Thalor|Eldrin]] presented one to [[Baldrin Stoneforge]] during the [[Egg Hunt]] Session 29 audience while identifying the group as performers-turned-adventurers.
 
+## Session 36 — the name, re-sworn; the first Stonewater gig
+
+[[Healing Waters, Heavy Memories - Session 36 - 2026-09-27|Session 36]] put the troupe back in business:
+
+- **The gig.** [[Tiamor Runegrip]], owner of the [[Raise Your Spirits]] spa, wants entertainment for an **upper-echelon event in a week or two** — **[[Silvermire]] visitors and [[Stonewater]]'s city council**. Music, a performance; pay unset but "rather well-paying," free treatments negotiable. Thorn's pitch covered Eldrin (*"I'm a bard"*), Lyrion ("the blue one — he knows a little magic"), and herself (*"I'm mainly a dancer"* — lately **dancing with fire**); the rest of the party, *"we haven't figured that out yet."* Tiamor wants a firm yes/no; Thorn in the hallway: *"We have our first gig!"*
+- **The name.** Raising the mead toast at [[Good For What Ails Ya]], [[Eldrin Thalor|Eldrin]] realized nobody could remember what the troupe is called. [[Lyrion Thalor|Lyrion]] consulted [[Gustav]]: **the Twilight Masqueraders** — "said in passing" once, apparently while drunk. Re-sworn sober: *"To the Twilight Masqueraders — there when everyone needs us, always in the wrong place at the right time."*
+- **The fund.** Eldrin's ~6,000 gp from the manor is, by his own framing, **the show's backing** ("someone decided to be generous"); Thorn is sketching outfits for everyone.
+- **A tavern act**, proposed by Lyrion for that same night: Thorn's swords, and a plan to have [[Bell]] and [[Mike]] **throw people past each other** — [[Rhaenyra]] as the thrown party (*"Can you do flips?"* / *"I honestly can't say that I've tried."* / *"You look flippable"*). Not yet performed.
+- Thorn mentioned in passing that **one of her old clients paid to send her to school** "for a bit" — the Bard / Clown College trip — and now suspects he was buffing her up "for whatever this has become."
+
 ## Costume notes
 
 - [[Thorn]] performs in full clown form: white ruff collar, red-and-black striped corseted bodice, white face paint with red clown nose, hair in double buns with red bow. See `Thorn Disguise.jpeg` on her PC page.

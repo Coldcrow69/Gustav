@@ -2,10 +2,11 @@ Player: **Miranda**.
 
 ## Character Sheet
 
+- Race: **Half-elf, half-satyr** *(maintainer-confirmed after [[Healing Waters, Heavy Memories - Session 36 - 2026-09-27|Session 36]], where she dipped "a hoof" into the Stonewater Plunge, was uncomfortable about "the fur" during the massage, and had been addressed by Thorn as "goat lady" the session before)*
 - Height: **4'9"** (shortest of the party)
 - Languages: **Common, Druidic, Elvish, Sylvan**
 
-**Appearance** (party height chart): elf-like pointed ears, fair skin, long light-blonde braided hair, dressed in earthy green druid-style robes with bark-textured leggings, exposed midriff with a leaf-and-belt sash. Looks young and lithe.
+**Appearance** (party height chart): elf-like pointed ears, fair skin, long light-blonde braided hair, dressed in earthy green druid-style robes with bark-textured leggings, exposed midriff with a leaf-and-belt sash. Looks young and lithe. The "bark-textured leggings" of the chart are, in light of the above, most likely her **satyr legs** — fur and hooves.
 
 Member of the party of adventurers sent by [[Victor Barun]].
 
@@ -88,3 +89,23 @@ Full detail in [[Tension and Triumph in Snow - Session 35 - 2026-08-30|the recap
 - **Second watch**: heard heavy metal footsteps stop outside the door, **slid a dagger underneath to watch the reflection**, and discovered [[Dura]] cross-legged in the hallway, axe on lap. The guard chuckled at the trick; the dagger slid back. Relayed the situation to [[Thorn]] with a **Message** cantrip cast through the wall (spell logistics table-verified) rather than wake the house.
 - Gave [[Captain Grazug]] the shortest **statement** on record: when she arrived, her friends were being attacked. The end.
 - Enthusiastically enlisted in the **multiple-Rhaenyras prank** on [[Eldrin Thalor|Eldrin]] (Thorn + [[Mike]]'s [[Hat of Disguises (Mordenkainen)|hat]]): *"No convincing needed."* Spent the morning theatrically pretending to sleep through [[Lyrion Thalor|Lyrion]] and [[Seren Moss|Seren]]'s afterlife conversation — "low-key kicking feet to the stories" — and got in the last word on Lyrion's near-permanent death: *"lucky for **you**."*
+
+## Egg Hunt — Session 36 (Healing Waters, Heavy Memories, 2026-09-27)
+
+> *(Miranda arrived mid-session — at the mud bath — but Rhaenyra is played as present throughout.)*
+
+Full detail in [[Healing Waters, Heavy Memories - Session 36 - 2026-09-27|the recap]]. Persistent developments for Rhaenyra:
+
+- The spa was awkward for the **fur** (upper-body treatments only, in the second rotation); the mud bath got a face mask and a hair-pin; the **Stonewater Plunge** got one hoof, briefly — *"Okay, I did it."* Called the lake's skeleton *"almost like a guardian of the water."*
+- **Her mother**, asked in the mud: she remembers *"bits and pieces — the way the sun shone through her hair,"* and **does not know whether she is alive**. (Her father [[Thalrin]] is alive in [[Roseview]].)
+- **[[Eldrin Thalor|Eldrin]]**: patted the mud beside her — *"for you, babe"* — and, at the [[Sour Jackal]], **shares a room with him**; the party made the assignment without comment and the Thalor brothers' Session 37 conversation would confirm what everyone could see.
+- Knows **Water Breathing** (DM-confirmed, to Lyrion's wordless fury at not having a potion). Named as the thrown object in Thorn's proposed act: *"Can you do flips?"* / *"I honestly can't say that I've tried."*
+
+## Egg Hunt — Session 37 (Through the Bloodied Rubble, 2026-10-25)
+
+Full detail in [[Through the Bloodied Rubble - Session 37 - 2026-10-25|the recap]]. Persistent developments for Rhaenyra:
+
+- Likes to sleep in but wasn't hung over; giggled behind Eldrin's door at Lyrion's knock; came out fixing her hair — *"Morning!"* Seren, dressing next door: *"I quite like Rhaenyra."*
+- **Eldrin, confirmed.** His Undercommon conversation with Lyrion on the mine walk put it on the record: a couple, with **her father [[Thalrin]]'s blessing** already given back in [[Roseview]] (she had spoken to Thalrin about Eldrin herself). She and Eldrin had agreed he needed to talk to his brother; her glance back and his thumbs-up closed the loop. *"Maybe with others once we sort all this mess out."*
+- On the revenant: *"I work more on opportunity"* — a spirit acting on chance, not planning; found Lyrion's puppet-master theory *"a fair assessment."* Has **Stone Shape** ready if the rubble needs it. Listened to the aboleth stories with a nervous face: *"what the hell?"*
+- **Carried the [[Mine Pass|mine writ]]** and handed it to [[Gwynn (Stoneforge Headmaid)|Gwynn]] for updating. Noticed first that the rubble was wet. **Third through the breach**, behind Seren and Dura; answered Dura's *"is this how the group usually is?"* with *"Yes it is."*
